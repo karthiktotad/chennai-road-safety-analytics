@@ -1,0 +1,11 @@
+cluster_id,cluster_name,incident_count,severe_count,severity_rate_pct,centroid_latitude,centroid_longitude,primary_jurisdiction,dominant_vehicle_type
+1,Hotspot 2: N1 Royapuram PS,1385,949,68.52,13.10995,80.29086,N1 Royapuram PS,Two-Wheeler
+5,Hotspot 6: V6 Kolathur PS,719,485,67.45,13.09804,80.21719,V6 Kolathur PS,Two-Wheeler
+0,Hotspot 1: P6 Kodungaiyur PS,364,254,69.78,13.11798,80.25385,P6 Kodungaiyur PS,Two-Wheeler
+4,Hotspot 5: E5 Pattinapakkam PS,362,259,71.55,13.01485,80.25605,E5 Pattinapakkam PS,Two-Wheeler
+9,Hotspot 10: TIW-Guindy,359,238,66.3,13.00955,80.219,TIW-Guindy,Two-Wheeler
+3,Hotspot 4: M1 Madhavaram PS,346,228,65.9,13.1488,80.21291,M1 Madhavaram PS,Two-Wheeler
+2,Hotspot 3: K10 Koyambedu PS,342,221,64.62,13.05623,80.17401,K10 Koyambedu PS,Two-Wheeler
+7,Hotspot 8: R4 Pondy Bazaar PS,328,226,68.9,13.04866,80.21159,R4 Pondy Bazaar PS,Two-Wheeler
+8,Hotspot 9: S8 Adambakkam PS,320,225,70.31,12.98611,80.18205,S8 Adambakkam PS,Two-Wheeler
+6,Hotspot 7: F1 Chindadiripet PS,291,190,65.29,13.05499,80.25438,F1 Chindadiripet PS,Two-Wheeler

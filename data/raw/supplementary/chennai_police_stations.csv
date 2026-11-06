@@ -1,0 +1,244 @@
+Sl No.,Zone,Sub division ,Code,Type,Station Name,Contact No.
+1,EAST,Triplicane ,D1,Law & Order,Triplicane ,044 23452655
+2,EAST,Triplicane ,D1,Crime,Triplicane ,044 23452656
+3,EAST,Triplicane ,D1,Traffic,Triplicane ,044 23452657
+4,EAST,Triplicane ,D2,Law & Order,Anna Salai ,044 23452661
+5,EAST,Triplicane ,D2,Crime,Anna Salai ,044 23452662
+6,EAST,Triplicane ,D2,Traffic,Anna Salai ,044 23452663
+7,EAST,Royapettah ,D3,Law & Order,Ice House,044 23452555
+8,EAST,Royapettah ,D3,Crime,Ice House,044 23452556
+9,EAST,Royapettah ,D3,Traffic,Ice House,044 23452557
+10,EAST,Triplicane ,D4,Law & Order,Zam Bazaar,044 23452665
+11,EAST,Mylapore ,D5,Law & Order,Marina ,044 23452558
+12,EAST,Mylapore ,D5,Crime,Marina ,044 23452559
+13,EAST,Triplicane ,D6,Law & Order,Anna Square,044 23452667
+14,EAST,Triplicane ,D6,Crime,Anna Square,044 23452668
+15,EAST,Triplicane ,D6,Traffic,Anna Square,044 23452669
+16,EAST,Triplicane ,D8,Out Post,K.G. Hospital,044 23452672
+17,EAST,Mylapore ,E1,Law & Order,Mylapore ,044 23452562
+18,EAST,Mylapore ,E1,Traffic,Mylapore ,044 23452564
+19,EAST,Royapettah ,E2,Law & Order,Royapettah ,044 23452567
+20,EAST,Royapettah ,E2,Crime,Royapettah ,044 23452565
+21,EAST,Royapettah ,E2,Traffic,Royapettah ,044 23452566
+22,EAST,Kotturpuram ,E4,Law & Order,Abiramapuram ,044 23452571
+23,EAST,Kotturpuram ,E4,Crime,Abiramapuram ,044 23452572
+24,EAST,Mylapore ,E5,Law & Order,Foreshore Estate,044 23452574
+25,EAST,Mylapore ,E5,Crime,Foreshore Estate,044 23452575
+26,EAST,Royapettah ,E6,Out Post,Govt. Hospital Royapettah,044 23452576
+27,EAST,Kotturpuram ,E7,Traffic,Abiramapuram ,044 23452573
+28,EAST,Egmore,F1,Law & Order,Chintadaripet ,044 23452673
+29,EAST,Egmore,F1,Crime,Chintadaripet ,044 23452674
+30,EAST,Egmore,F1,Traffic,Chintadaripet ,044 23452675
+31,EAST,Egmore,F2,Law & Order,Egmore ,044 23452677
+32,EAST,Egmore,F2,Crime,Egmore ,044 23452678
+33,EAST,Egmore,F2,Traffic,Egmore ,044 23452679
+34,EAST,Nungambakkam ,F3,Law & Order,Nungambakkam ,044 23452680
+35,EAST,Nungambakkam ,F3,Crime,Nungambakkam ,044 23452681
+36,EAST,Nungambakkam ,F3,Traffic,Nungambakkam ,044 23452682
+37,EAST,Nungambakkam ,F4,Law & Order,Thousand Lights,044 23452683
+38,EAST,Nungambakkam ,F4,Crime,Thousand Lights,044 23452684
+39,EAST,Kilpauk ,F5,Law & Order,Chetput,044 23452686
+40,EAST,Kilpauk ,F5,Crime,Chetput,044 23452687
+41,EAST,Vepery ,G1,Law & Order,Vepery ,044 23452690
+42,EAST,Vepery ,G1,Crime,Vepery ,044 23452691
+43,EAST,Vepery ,G1,Traffic,Vepery ,044 23452695
+44,EAST,Vepery ,G2,Law & Order,Periamet ,044 23452696
+45,EAST,Vepery ,G2,Crime,Periamet ,044 23452697
+46,EAST,Vepery ,G2,Traffic,Periamet ,044 23452698
+47,EAST,Kilpauk ,G3,Law & Order,Kilpauk ,044 23452699
+48,EAST,Kilpauk ,G3,Crime,Kilpauk ,044 23452700
+49,EAST,Kilpauk ,G3,Traffic,Kilpauk ,044 23452701
+50,EAST,Ayanavaram ,G5,Law & Order,Secretariat Colony,044 23452704
+51,EAST,Ayanavaram ,G5,Crime,Secretariat Colony,044 23452706
+52,EAST,Kilpauk ,G6,Out Post,KMC Hospital,044 23452709
+53,EAST,Kotturpuram ,J4,Law & Order,Kotturpuram ,044 23452596
+54,EAST,Kotturpuram ,J4,Crime,Kotturpuram ,044 23452595
+55,EAST,Kotturpuram ,J4,Traffic,Kotturpuram ,044 23452597
+56,EAST,Ayanavaram ,K2,Law & Order,Ayanavaram ,044 23452714
+57,EAST,Ayanavaram ,K2,Crime,Ayanavaram ,044 23452715
+58,EAST,Kilpauk ,K6,Law & Order,TP Chathiram,044 23452729
+59,EAST,Kilpauk ,K6,Crime,TP Chathiram,044 23452730
+60,EAST,Ayanavaram ,K7,Law & Order,ICF ,044 23452731
+61,EAST,Ayanavaram ,K7,Crime,ICF ,044 23452732
+62,EAST,Nungambakkam ,R5,Law & Order,Choolaimedu ,044 23452742
+63,EAST,Nungambakkam ,R5,Crime,Choolaimedu ,044 23452743
+64,NORTH,Harbour ,B1,Law & Order,North Beach,044 23452457
+65,NORTH,Harbour ,B1,Traffic,North Beach,044 23452541
+66,NORTH,High Court ,B2,Law & Order,Esplanade ,044 23452458
+67,NORTH,High Court ,B2,Crime,Esplanade ,044 23452459
+68,NORTH,Harbour ,B3,Law & Order,Fort ,044 23452460
+69,NORTH,Harbour ,B3,Crime,Fort ,044 23452461
+70,NORTH,High Court ,B4,Law & Order,High Court,044 23452462
+71,NORTH,Harbour ,M1,Law & Order,Harbour ,044 23452500
+72,NORTH,Harbour ,M1,Crime,Harbour ,044 23452501
+73,NORTH,Port Marine,M2,Law & Order,Port Marine,044 23452502
+74,NORTH,Flower Bazaar ,C1,Law & Order,Flower Bazaar,044 23452464
+75,NORTH,Flower Bazaar ,C1,Crime,Flower Bazaar,044 23452465
+76,NORTH,Flower Bazaar ,C2,Law & Order,Elephant Gate,044 23452467
+77,NORTH,Flower Bazaar ,C2,Crime,Elephant Gate,044 23452468
+78,NORTH,Flower Bazaar ,C2,Traffic,Elephant Gate,044 23452469
+79,NORTH,Flower Bazaar ,C3,Law & Order,Seven Wells,044 23452471
+80,NORTH,Flower Bazaar ,C3,Crime,Seven Wells,044 23452472
+81,NORTH,Flower Bazaar ,C4,Out Post,Govt.Hospital ,044 23452473
+82,NORTH,Harbour ,C5,Law & Order,Kothavalchavadi ,044 23452474
+83,NORTH,Harbour ,C5,Traffic,Kothavalchavadi ,044 23452478
+84,NORTH,Washermenpet ,H1,Law & Order,Washermenpet ,044 23452481
+85,NORTH,Washermenpet ,H1,Traffic,Washermenpet ,044 23452539
+86,NORTH,Washermenpet ,H2,Out Post,Stanley Hospital,044 23452484
+87,NORTH,Washermenpet ,H3,Law & Order,Tondiarpet ,044 23452485
+88,NORTH,Washermenpet ,H3,Crime,Tondiarpet ,044 23452486
+89,NORTH,Washermenpet ,H3,Traffic,Tondiarpet ,044 23452487
+90,NORTH,Washermenpet ,H4,Law & Order,Korukkupet ,044 23452488
+91,NORTH,Washermenpet ,H4,Crime,Korukkupet ,044 23452489
+92,NORTH,Thiruvottiyur ,H5,Law & Order,New Washermenpet,044 23452490
+93,NORTH,Thiruvottiyur ,H5,Crime,New Washermenpet,044 23452491
+94,NORTH,Thiruvottiyur ,H5,Traffic,New Washermenpet,044 23452492
+95,NORTH,Washermenpet ,H6,Law & Order,R.K. Nagar,044 23452493
+96,NORTH,Washermenpet ,H6,Crime,R.K. Nagar,044 23452494
+97,NORTH,Thiruvottiyur ,H8,Law & Order,Thiruvottiyur ,044 23452496
+98,NORTH,Thiruvottiyur ,H8,Crime,Thiruvottiyur ,044 23452497
+99,NORTH,Thiruvottiyur ,H8,Traffic,Thiruvottiyur ,044 23452498
+100,NORTH,Madhavaram ,M1,Law & Order,Madhavaram ,044 23452783
+101,NORTH,Madhavaram ,M2,Law & Order,Milk Colony,044 25555085
+102,NORTH,Puzhal ,M3,Law & Order,Puzhal ,044 26590989
+103,NORTH,Puzhal ,M4,Law & Order,Redhills ,044 26418296
+104,NORTH,Ennore ,M5,Law & Order,Ennore ,044 25750237
+105,NORTH,Ennore ,M6,Law & Order,Manali ,044 23452788
+106,NORTH,Ennore ,M7,Law & Order,Manali NewTown,044 25931299
+107,NORTH,Ennore ,M8,Law & Order,Sathangadu ,044 23452790
+108,NORTH,Royapuram ,N1,Law & Order,Royapuram ,044 23452504
+109,NORTH,Royapuram ,N1,Crime,Royapuram ,044 23452505
+110,NORTH,Royapuram ,N1,Traffic,Royapuram ,044 23452506
+111,NORTH,Royapuram ,N2,Law & Order,Kasimedu ,044 23452510
+112,NORTH,Royapuram ,N2,Crime,Kasimedu ,044 23452511
+113,NORTH,Royapuram ,N2,Traffic,Kasimedu ,044 23452512
+114,NORTH,Harbour ,N3,Law & Order,Muthialpet ,044 23452514
+115,NORTH,Harbour ,N3,Crime,Muthialpet ,044 23452515
+116,NORTH,Harbour ,N3,Traffic,Muthialpet ,044 23452516
+117,NORTH,Royapuram ,N4,Law & Order,Fishing Harbour,044 23452517
+118,NORTH,Royapuram ,N4,Crime,Fishing Harbour,044 23452518
+119,SOUTH,Teynampet ,E3,Law & Order,Teynampet ,044 23452568
+120,SOUTH,Teynampet ,E3,Crime,Teynampet ,044 23452569
+121,SOUTH,Teynampet ,E3,Traffic,Teynampet ,044 23452581
+122,SOUTH,Saidapet,J1,Law & Order,Saidapet ,044 23452577
+123,SOUTH,Saidapet,J1,Crime,Saidapet ,044 23452578
+124,SOUTH,Saidapet,J1,Traffic,Saidapet ,044 23452579
+125,SOUTH,Adyar ,J2,Law & Order,Adyar ,044 23452583
+126,SOUTH,Adyar ,J2,Crime,Adyar ,044 23452584
+127,SOUTH,Adyar ,J2,Traffic,Adyar ,044 23452588
+128,SOUTH,Guindy ,J3,Law & Order,Guindy ,044 23452590
+129,SOUTH,Guindy ,J3,Crime,Guindy ,044 23452591
+130,SOUTH,Guindy ,J3,Traffic,Guindy ,044 23452592
+131,SOUTH,Adyar ,J5,Law & Order,Sastri Nagar,044 23452598
+132,SOUTH,Adyar ,J5,Crime,Sastri Nagar,044 23452599
+133,SOUTH,Adyar ,J5,Traffic,Sastri Nagar,044 23452600
+134,SOUTH,Taramani ,J6,Law & Order,Thiruvanmiyur ,044 23452602
+135,SOUTH,Taramani ,J6,Crime,Thiruvanmiyur ,044 23452603
+136,SOUTH,Taramani ,J6,Traffic,Thiruvanmiyur ,044 23452604
+137,SOUTH,Guindy ,J7,Law & Order,Velachery ,044 23452605
+138,SOUTH,Guindy ,J7,Crime,Velachery ,044 23452606
+139,SOUTH,Guindy ,J7,Traffic,Velachery ,044 23452607
+140,SOUTH,Neelangari ,J8,Law & Order,Neelangari ,044 24491196
+141,SOUTH,Neelangari ,J8,Crime,Neelangari ,044 24493663
+142,SOUTH,Thuraipakkam ,J9,Law & Order,Thoraipakkam ,044 24960353
+143,SOUTH,Thuraipakkam ,J10,Law & Order,Chemmanchery ,044 24500707
+144,SOUTH,TNagar ,R1,Law & Order,Mambalam ,044 23452608
+145,SOUTH,TNagar ,R1,Crime,Mambalam ,044 23452609
+146,SOUTH,TNagar ,R1,Traffic,Mambalam ,044 23452610
+147,SOUTH,Teynampet ,R2,Law & Order,Kodambakkam ,044 23452615
+148,SOUTH,Teynampet ,R2,Crime,Kodambakkam ,044 23452616
+149,SOUTH,Ashok Nagar ,R3,Law & Order,Ashok Nagar,044 23452617
+150,SOUTH,Ashok Nagar ,R3,Crime,Ashok Nagar,044 23452618
+151,SOUTH,Ashok Nagar ,R3,Traffic,Ashok Nagar,044 23452619
+152,SOUTH,TNagar ,R4,Law & Order,Pondy Bazaar,044 23452624
+153,SOUTH,TNagar ,R4,Crime,Pondy Bazaar,044 23452625
+154,SOUTH,TNagar ,R4,Traffic,Pondy Bazaar,044 23452626
+155,SOUTH,Vadapalani ,V2,Law & Order,Virugambakkam ,044 23452637
+156,SOUTH,Vadapalani ,V2,Crime,Virugambakkam ,044 23452638
+157,SOUTH,Vadapalani ,V2,Traffic,Virugambakkam ,044 23452639
+158,SOUTH,Saidapet,R6,Law & Order,Kumaran Nagar,044 23452629
+159,SOUTH,Saidapet,R6,Crime,Kumaran Nagar,044 23452628
+160,SOUTH,Ashok Nagar ,R7,Law & Order,K.K. Nagar,044 23452630
+161,SOUTH,Ashok Nagar ,R7,Crime,K.K. Nagar,044 23452631
+162,SOUTH,Ashok Nagar ,R7,Traffic,K.K. Nagar,044 23452632
+163,SOUTH,Vadapalani ,R8,Law & Order,Vadapalani ,044 23452635
+164,SOUTH,Vadapalani ,R8,Crime,Vadapalani ,044 23452634
+165,SOUTH,Valasaravakkam ,R9,Law & Order,Valasaravakkam ,044 23452649
+166,SOUTH,Ashok Nagar ,R10,Law & Order,MGR Nagar,044 23452560
+167,SOUTH,Valasaravakkam ,R11,Law & Order,Royala nagar,044 23452649
+168,SOUTH,St Thomas Mount ,S1,Law & Order,St. Thomas Mount,044 23452763
+169,SOUTH,Meenambakkam ,S2,Law & Order,Airport ,044 22564284
+170,SOUTH,Meenambakkam ,S3,Law & Order,Meenambakkam ,044 22561261
+171,SOUTH,StThomas Mount ,S4,Law & Order,Nandampakkam ,044 23452765
+172,SOUTH,Pallavaram ,S5,Law & Order,Pallavaram ,044 22640880
+173,SOUTH,Pallavaram ,S6,Law & Order,Sankar Nagar,044 22484094
+174,SOUTH,Madipakkam ,S7,Law & Order,Madipakkam ,044 23452774
+175,SOUTH,Madipakkam ,S8,Law & Order,Adambakkam ,044 23452777
+176,SOUTH,StThomas Mount ,S9,Law & Order,Palavanthangal ,044 22241950
+177,SOUTH,Madipakkam ,S10,Law & Order,Pallikaranai ,044 23452775
+178,SOUTH,Tambaram ,S11,Law & Order,Tambaram ,044 23452769
+179,SOUTH,Selaiyur ,S12,Law & Order,Chitlapakkam ,044 22232005
+180,SOUTH,Tambaram ,S13,Law & Order,Chrompet ,044 23452770
+181,SOUTH,Selaiyur ,S14,Law & Order,Peerkankaranai ,044 22398018
+182,SOUTH,Selaiyur ,S15,Law & Order,Selaiyur ,044 22396003
+183,WEST,Sembium ,K1,Law & Order,Sembium ,044 23452710
+184,WEST,Sembium ,K1,Crime,Sembium ,044 23452711
+185,WEST,Sembium ,K1,Traffic,Sembium ,044 23452712
+186,WEST,Anna Nagar,K3,Law & Order,Aminjikarai ,044 23452716
+187,WEST,Anna Nagar,K3,Crime,Aminjikarai ,044 23452717
+188,WEST,Anna Nagar,K3,Traffic,Aminjikarai ,044 23452718
+189,WEST,Anna Nagar,K4,Law & Order,Anna Nagar,044 23452719
+190,WEST,Anna Nagar,K4,Crime,Anna Nagar,044 23452720
+191,WEST,Sembium ,K5,Law & Order,Peravallur ,044 23452727
+192,WEST,Sembium ,K5,Crime,Peravallur ,044 23452728
+193,WEST,Anna Nagar,K8,Law & Order,Arumbakkam ,044 23452733
+194,WEST,Anna Nagar,K8,Crime,Arumbakkam ,044 23452734
+195,WEST,Sembium ,K9,Law & Order,Thiru Vi Ka Nagar,044 23452736
+196,WEST,Sembium ,K9,Crime,Thiru Vi Ka Nagar,044 23452737
+197,WEST,Koyambedu,K10,Law & Order,Koyambedu ,044 23452739
+198,WEST,Koyambedu,K10,Traffic,Koyambedu ,044 23452741
+199,WEST,Pulianthope ,P1,Law & Order,Pulianthope ,044 23452520
+200,WEST,Pulianthope ,P1,Crime,Pulianthope ,044 23452521
+201,WEST,Pulianthope ,P1,Traffic,Pulianthope ,044 23452522
+202,WEST,Pulianthope ,P2,Law & Order,Otteri ,044 23452524
+203,WEST,Pulianthope ,P2,Crime,Otteri ,044 23452525
+204,WEST,MKB Nagar ,P3,Law & Order,Vyasarpadi ,044 23452527
+205,WEST,MKB Nagar ,P3,Crime,Vyasarpadi ,044 23452526
+206,WEST,MKB Nagar ,P3,Traffic,Vyasarpadi ,044 23452283
+207,WEST,Pulianthope ,P4,Law & Order,Basin Bridge,044 26670948
+208,WEST,MKB Nagar ,P5,Law & Order,MKB Nagar,044 23452531
+209,WEST,MKB Nagar ,P5,Crime,MKB Nagar,044 23452532
+210,WEST,MKB Nagar ,P6,Crime,Kodungaiyur ,044 23452537
+211,WEST,Ambattur ,T1,Law & Order,Ambattur ,044 23452797
+212,WEST,Ambattur ,T2,Law & Order,Ambattur Estate,044 23452798
+213,WEST,Ambattur ,T3,Law & Order,Korattur ,044 23452799
+214,WEST,Koyambedu,T4,Law & Order,Maduravoyal ,044 23452766
+215,WEST,Poonamallee ,T5,Law & Order,Thiruverkadu ,044 26800091
+216,WEST,Avadi ,T6,Crime,Avadi ,044 26554750
+217,WEST,Avadi ,T7,Law & Order,Tank Factory,044 23452771
+218,WEST,Pattabiram ,T8,Law & Order,Muthapudupet ,044 26841795
+219,WEST,Pattabiram ,T9,Law & Order,Pattabiram ,044 26851632
+220,WEST,Avadi ,T10,Law & Order,Thirumullaivoyal ,044 26375656
+221,WEST,Pattabiram ,T11,Law & Order,Thirunindravur ,044 26390293
+222,WEST,Poonamallee ,T12,Law & Order,Poonamallee ,044 26272082
+223,WEST,SRMC ,T13,Law & Order,Kunrathur ,044 24780039
+224,WEST,SRMC ,T14,Law & Order,Mangadu ,044 26791102
+225,WEST,SRMC ,T15,Law & Order,SRMC ,044 23452767
+226,WEST,Villivakkam ,V1,Law & Order,Villivakkam ,044 23452744
+227,WEST,Villivakkam ,V1,Crime,Villivakkam ,044 23452745
+228,WEST,Villivakkam ,V1,Traffic,Villivakkam ,044 23452746
+229,WEST,Thirumangalam ,V3,Law & Order,J J Nagar,044 23452749
+230,WEST,Thirumangalam ,V3,Crime,J J Nagar,044 23452748
+231,WEST,Villivakkam ,V4,Law & Order,Rajamangalam ,044 23452750
+232,WEST,Villivakkam ,V4,Crime,Rajamangalam ,044 23452751
+233,WEST,Villivakkam ,V4,Traffic,Rajamangalam ,044 23452752
+234,WEST,Thirumangalam ,V5,Law & Order,Thirumangalam ,044 23452753
+235,WEST,Thirumangalam ,V5,Crime,Thirumangalam ,044 23452754
+236,WEST,Thirumangalam ,V5,Traffic,Thirumangalam ,044 23452756
+237,WEST,Villivakkam ,V6,Law & Order,Kolathur ,044 23452758
+238,Not Available,Not Available,D7,Law & Order,Government Estate,044 23452670
+239,Not Available,Not Available,D9,Law & Order,Seerani Arangam,044 23452560
+240,Not Available,Not Available,D9,Crime,Seerani Arangam,044 23452561
+241,Not Available,Not Available,F5,Law & Order,Chetput,044 23452686
+242,Not Available,Not Available,F5,Crime,Chetput,044 23452687
+243,Not Available,Not Available,F6,Out Post,Museum,044 23452688

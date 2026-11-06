@@ -1,0 +1,7 @@
+variable,severe_mean,severe_median,non_severe_mean,non_severe_median,kruskal_statistic,kruskal_p_value,anova_f_stat,anova_p_value,significant
+Distance to Nearest Junction (km),1.05,0.85,1.03,0.86,0.019,0.8896,0.475,0.4906,No
+Speed Limit (km/h),48.13,50.0,47.85,50.0,1.233,0.2668,0.677,0.4107,No
+Daily Rainfall (mm),5.04,0.92,4.87,0.81,0.815,0.3666,0.234,0.6287,No
+Mean Temperature (C),27.64,27.7,27.63,27.8,0.03,0.863,0.006,0.9381,No
+Relative Humidity (%),76.3,76.36,76.03,76.26,1.065,0.302,1.165,0.2805,No
+Wind Speed (m/s),3.75,3.59,3.81,3.72,4.329,0.0375,3.406,0.065,Yes (p < 0.05)

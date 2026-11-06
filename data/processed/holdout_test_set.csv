@@ -1,0 +1,1008 @@
+accident_hour,speed_limit_kmh,distance_to_nearest_junction_km,rainfall_mm,temp_mean_c,relative_humidity_pct,wind_speed_ms,hour_sin,hour_cos,month_sin,month_cos,dow_sin,dow_cos,speed_junction_exposure,is_weekend,is_peak_hour,is_night,is_late_night,is_rainy_day,is_unlit_darkness,night_heavy_vehicle,wet_road_junction,is_vulnerable_user,vehicle_type,junction_type,lighting_condition,road_classification,season,rainfall_category,severe_accident
+8,50,1.125,5.01,28.29,80.48,2.95,0.866,-0.5,-1.0,-0.0,-0.9749,-0.2225,23.529,1,1,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+12,40,0.818,4.9,30.32,68.16,3.71,0.0,-1.0,0.0,-1.0,0.9749,-0.2225,22.002,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+17,70,0.853,0.3,25.18,86.05,3.81,-0.9659,-0.2588,0.5,0.866,-0.9749,-0.2225,37.777,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Trunk Highway / Express Corridor,Winter,Very Light,0
+10,40,0.828,2.42,29.7,72.35,4.79,0.5,-0.866,-0.866,-0.5,-0.4339,-0.901,21.882,0,1,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+14,30,0.676,0.27,29.77,68.45,2.06,-0.5,-0.866,0.0,-1.0,-0.7818,0.6235,17.9,1,0,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Local / Residential,Southwest Monsoon,Very Light,0
+17,50,0.259,0.25,29.4,71.61,4.85,-0.9659,-0.2588,-0.5,-0.866,0.4339,-0.901,39.714,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+7,40,1.336,2.72,29.63,70.11,3.87,0.9659,-0.2588,0.0,-1.0,0.9749,-0.2225,17.123,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+11,40,0.248,0.0,23.58,76.0,4.33,0.2588,-0.9659,-0.0,1.0,0.0,1.0,32.051,0,0,0,0,0,0,0,0,0,Bus,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,No Rain,0
+9,50,0.578,0.3,25.18,86.05,3.81,0.7071,-0.7071,0.5,0.866,-0.9749,-0.2225,31.686,1,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,Very Light,0
+13,40,0.309,0.01,29.41,67.02,3.85,-0.2588,-0.9659,0.866,-0.5,-0.9749,-0.2225,30.558,1,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Summer,No Rain,1
+15,30,1.06,0.0,24.38,74.76,3.0,-0.7071,-0.7071,0.866,0.5,0.9749,-0.2225,14.563,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Local / Residential,Winter,No Rain,1
+17,40,0.487,6.0,25.7,85.87,5.16,-0.9659,-0.2588,-0.0,1.0,-0.7818,0.6235,26.9,1,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,0
+10,30,1.356,0.07,30.16,62.14,5.32,0.5,-0.866,0.0,-1.0,-0.4339,-0.901,12.733,0,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Southwest Monsoon,No Rain,1
+17,40,1.995,0.99,27.87,72.92,3.09,-0.9659,-0.2588,-0.866,-0.5,0.7818,0.6235,13.356,0,1,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Very Light,0
+6,40,0.156,0.0,23.28,70.24,2.6,1.0,0.0,0.866,0.5,-0.4339,-0.901,34.602,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Winter,No Rain,0
+18,50,2.083,8.8,27.14,80.63,3.89,-1.0,-0.0,-1.0,-0.0,-0.4339,-0.901,16.218,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+5,50,2.556,20.62,26.72,89.65,7.25,0.9659,0.2588,-0.5,0.866,-0.4339,-0.901,14.061,0,0,1,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+8,30,2.51,1.3,31.14,65.6,6.5,0.866,-0.5,0.5,-0.866,-0.9749,-0.2225,8.547,1,1,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Local / Residential,Summer,Very Light,1
+14,50,0.477,0.0,30.34,68.14,3.56,-0.5,-0.866,0.866,-0.5,0.0,1.0,33.852,0,0,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+14,40,0.326,1.39,30.73,65.28,3.81,-0.5,-0.866,0.0,-1.0,0.4339,-0.901,30.166,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+13,40,0.359,4.07,29.57,75.8,3.95,-0.2588,-0.9659,-0.866,-0.5,-0.9749,-0.2225,29.433,1,0,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+3,40,0.535,2.42,29.7,72.35,4.79,0.7071,0.7071,-0.866,-0.5,-0.4339,-0.901,26.059,0,0,1,1,1,0,0,1,0,Auto-rickshaw,Roundabout,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,0
+10,40,1.018,0.72,25.31,84.98,5.05,0.5,-0.866,0.5,0.866,0.7818,0.6235,19.822,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Winter,Very Light,0
+1,30,1.63,0.0,29.06,65.42,4.42,0.2588,0.9659,0.866,-0.5,0.4339,-0.901,11.407,0,0,1,1,0,0,0,0,0,Auto-rickshaw,T-Junction,Night - Streetlights Lit,Local / Residential,Summer,No Rain,1
+15,50,2.482,0.01,26.8,75.29,2.73,-0.7071,-0.7071,1.0,0.0,0.7818,0.6235,14.36,0,0,0,0,0,0,0,0,0,Bus,T-Junction,Daylight,Primary Arterial,Summer,No Rain,0
+11,70,0.931,4.58,29.44,79.59,4.02,0.2588,-0.9659,-0.5,-0.866,0.4339,-0.901,36.251,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,0
+5,40,0.358,6.87,25.99,84.01,5.71,0.9659,0.2588,-0.0,1.0,0.0,1.0,29.455,0,0,1,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Secondary Road,Northeast Monsoon,Moderate Rain,0
+15,50,1.257,1.83,28.63,74.76,3.99,-0.7071,-0.7071,-0.866,-0.5,-0.9749,-0.2225,22.153,1,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+14,50,0.429,9.8,28.66,73.87,2.87,-0.5,-0.866,0.866,-0.5,0.4339,-0.901,34.99,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Moderate Rain,0
+13,50,0.643,1.71,29.41,77.28,3.79,-0.2588,-0.9659,-0.5,-0.866,0.7818,0.6235,30.432,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Roundabout,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+7,40,0.881,0.17,28.09,80.56,4.62,0.9659,-0.2588,-1.0,-0.0,-0.7818,0.6235,21.265,1,0,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+8,50,3.951,0.01,29.56,68.6,3.55,0.866,-0.5,0.866,-0.5,0.7818,0.6235,10.099,0,1,0,0,0,0,0,0,0,Bus,T-Junction,Daylight,Primary Arterial,Summer,No Rain,1
+13,50,1.061,4.57,26.59,86.79,2.14,-0.2588,-0.9659,-0.5,0.866,0.0,1.0,24.26,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,0
+15,50,2.14,7.01,28.56,76.84,4.1,-0.7071,-0.7071,-0.5,-0.866,0.4339,-0.901,15.924,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+17,30,1.223,6.67,26.41,82.03,5.46,-0.9659,-0.2588,-0.866,0.5,0.4339,-0.901,13.495,0,1,0,0,1,0,0,1,0,Truck/Lorry,Bridge/Flyover,Daylight,Local / Residential,Northeast Monsoon,Moderate Rain,0
+14,40,1.081,37.11,27.14,88.45,3.12,-0.5,-0.866,-0.866,0.5,0.7818,0.6235,19.222,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,1
+15,70,0.506,0.0,27.23,68.57,2.42,-0.7071,-0.7071,1.0,0.0,-0.9749,-0.2225,46.481,1,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+19,30,0.326,1.42,27.61,85.69,2.95,-0.9659,0.2588,-1.0,-0.0,-0.4339,-0.901,22.624,0,1,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Night - Streetlights Lit,Local / Residential,Southwest Monsoon,Very Light,1
+13,30,0.792,61.12,25.53,92.82,4.06,-0.2588,-0.9659,-0.5,0.866,-0.7818,0.6235,16.741,1,0,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Local / Residential,Northeast Monsoon,Heavy Rain,1
+19,40,2.516,0.01,24.47,81.58,3.57,-0.9659,0.2588,0.5,0.866,0.9749,-0.2225,11.377,0,1,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Winter,No Rain,1
+6,50,0.226,24.12,27.36,86.67,4.43,1.0,0.0,-0.5,-0.866,-0.7818,0.6235,40.783,1,0,0,0,1,0,0,1,0,Bus,Bridge/Flyover,Daylight,Primary Arterial,Southwest Monsoon,Heavy Rain,1
+6,50,1.261,3.93,28.16,77.95,2.17,1.0,0.0,-1.0,-0.0,0.4339,-0.901,22.114,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+22,30,0.044,0.0,23.62,73.36,2.19,-0.5,0.866,-0.0,1.0,-0.9749,-0.2225,28.736,1,0,1,0,0,1,1,0,0,Bus,Four-arm Cross,Night - Dark / Poor Lighting,Local / Residential,Northeast Monsoon,No Rain,1
+17,70,0.825,0.8,32.48,64.75,4.22,-0.9659,-0.2588,0.5,-0.866,0.9749,-0.2225,38.356,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,Very Light,0
+18,50,0.505,0.05,28.44,77.69,5.65,-1.0,-0.0,-1.0,-0.0,0.0,1.0,33.223,0,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Southwest Monsoon,No Rain,0
+19,70,0.736,0.5,29.77,70.39,4.97,-0.9659,0.2588,-0.866,-0.5,0.9749,-0.2225,40.323,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Night - Streetlights Lit,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,0
+15,50,0.045,6.04,28.44,80.78,2.85,-0.7071,-0.7071,-1.0,-0.0,-0.7818,0.6235,47.847,1,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+5,50,2.155,0.0,23.58,76.0,4.33,0.9659,0.2588,-0.0,1.0,0.0,1.0,15.848,0,0,1,0,0,0,1,0,0,Bus,Four-arm Cross,Dusk/Dawn,Primary Arterial,Northeast Monsoon,No Rain,1
+15,50,0.363,0.0,31.69,64.22,4.67,-0.7071,-0.7071,0.866,-0.5,-0.9749,-0.2225,36.684,1,0,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,0
+9,40,1.716,3.03,28.21,77.62,4.27,0.7071,-0.7071,-0.5,-0.866,0.0,1.0,14.728,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+14,50,0.175,3.93,28.16,77.95,2.17,-0.5,-0.866,-1.0,-0.0,0.4339,-0.901,42.553,0,0,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+17,40,0.866,0.15,28.13,78.28,4.09,-0.9659,-0.2588,-1.0,-0.0,0.4339,-0.901,21.436,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+9,40,0.799,21.55,26.93,87.39,2.23,0.7071,-0.7071,-0.866,-0.5,-0.4339,-0.901,22.235,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Heavy Rain,1
+9,40,0.973,4.57,26.59,86.79,2.14,0.7071,-0.7071,-0.5,0.866,0.0,1.0,20.274,0,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+12,40,2.698,1.7,29.33,73.9,3.03,0.0,-1.0,-0.5,-0.866,0.0,1.0,10.817,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+15,40,0.981,0.0,24.38,74.76,3.0,-0.7071,-0.7071,0.866,0.5,0.9749,-0.2225,20.192,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Secondary Road,Winter,No Rain,1
+14,50,1.463,0.69,29.83,65.22,3.56,-0.5,-0.866,0.866,-0.5,-0.7818,0.6235,20.3,1,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Summer,Very Light,1
+16,50,0.774,1.3,31.14,65.6,6.5,-0.866,-0.5,0.5,-0.866,-0.9749,-0.2225,28.185,1,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Very Light,0
+19,30,0.343,0.03,31.05,65.35,3.4,-0.9659,0.2588,0.5,-0.866,-0.7818,0.6235,22.338,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Night - Streetlights Lit,Local / Residential,Summer,No Rain,0
+12,50,0.636,0.0,25.26,71.58,2.63,0.0,-1.0,0.866,0.5,-0.4339,-0.901,30.562,0,0,0,0,0,0,0,0,1,Pedestrian/Bicycle,T-Junction,Daylight,Primary Arterial,Winter,No Rain,0
+19,70,1.176,0.03,24.96,82.33,4.51,-0.9659,0.2588,-0.0,1.0,0.4339,-0.901,32.169,0,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Trunk Highway / Express Corridor,Northeast Monsoon,No Rain,1
+10,50,0.156,0.16,24.54,81.17,3.96,0.5,-0.866,0.5,0.866,-0.4339,-0.901,43.253,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,Very Light,0
+5,40,0.193,3.03,28.21,77.62,4.27,0.9659,0.2588,-0.5,-0.866,0.0,1.0,33.529,0,0,1,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Secondary Road,Southwest Monsoon,Moderate Rain,1
+16,40,0.274,16.63,26.91,89.41,5.24,-0.866,-0.5,-0.5,0.866,-0.9749,-0.2225,31.397,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,1
+9,40,1.493,0.0,31.69,64.22,4.67,0.7071,-0.7071,0.866,-0.5,-0.9749,-0.2225,16.045,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Summer,No Rain,1
+14,40,0.381,0.0,29.35,65.17,3.6,-0.5,-0.866,0.866,-0.5,0.9749,-0.2225,28.965,0,0,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,1
+3,50,0.274,1.77,28.82,79.57,3.33,0.7071,0.7071,-1.0,-0.0,0.9749,-0.2225,39.246,0,0,1,1,1,1,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Southwest Monsoon,Very Light,0
+16,50,0.657,0.0,26.38,70.72,2.35,-0.866,-0.5,1.0,0.0,-0.9749,-0.2225,30.175,1,0,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+22,30,1.402,2.16,29.34,67.78,4.03,-0.5,0.866,0.0,-1.0,0.0,1.0,12.49,0,0,1,0,1,1,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Dark / Poor Lighting,Local / Residential,Southwest Monsoon,Very Light,0
+23,30,0.817,0.0,27.6,66.3,2.63,-0.2588,0.9659,1.0,0.0,0.0,1.0,16.511,0,0,1,1,0,1,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Dark / Poor Lighting,Local / Residential,Summer,No Rain,1
+7,50,1.081,3.05,30.24,69.94,6.35,0.9659,-0.2588,0.5,-0.866,-0.7818,0.6235,24.027,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Summer,Moderate Rain,0
+20,40,0.746,0.0,25.0,74.23,2.11,-0.866,0.5,0.866,0.5,0.9749,-0.2225,22.91,0,1,1,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Winter,No Rain,0
+10,40,0.058,0.66,29.41,69.89,4.69,0.5,-0.866,-0.866,-0.5,0.0,1.0,37.807,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+9,50,0.556,7.01,28.56,76.84,4.1,0.7071,-0.7071,-0.5,-0.866,0.4339,-0.901,32.134,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+18,40,2.937,0.0,28.18,67.38,2.81,-1.0,-0.0,1.0,0.0,0.0,1.0,10.16,0,1,0,0,0,0,0,0,1,Two-Wheeler,Bridge/Flyover,Dusk/Dawn,Secondary Road,Summer,No Rain,0
+11,50,0.367,7.13,27.3,83.09,2.6,0.2588,-0.9659,-1.0,-0.0,-0.7818,0.6235,36.576,1,0,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+9,70,0.923,3.67,29.32,70.51,4.8,0.7071,-0.7071,0.5,-0.866,0.0,1.0,36.401,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,Moderate Rain,0
+20,50,2.042,2.84,28.15,82.88,2.23,-0.866,0.5,-0.866,0.5,-0.4339,-0.901,16.437,0,1,1,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+11,30,1.671,0.18,28.86,72.53,3.69,0.2588,-0.9659,-0.866,-0.5,0.9749,-0.2225,11.232,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Southwest Monsoon,Very Light,1
+8,70,0.899,0.0,25.35,76.26,3.08,0.866,-0.5,0.866,0.5,-0.9749,-0.2225,36.862,1,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,1
+13,50,0.583,7.01,28.56,76.84,4.1,-0.2588,-0.9659,-0.5,-0.866,0.4339,-0.901,31.586,0,0,0,0,1,0,0,1,0,Truck/Lorry,Bridge/Flyover,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+2,50,1.459,8.8,27.14,80.63,3.89,0.5,0.866,-1.0,-0.0,-0.4339,-0.901,20.333,0,0,1,1,1,0,0,1,0,Auto-rickshaw,T-Junction,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+8,50,0.178,11.08,29.45,70.36,3.29,0.866,-0.5,0.866,-0.5,0.9749,-0.2225,42.445,0,1,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Summer,Moderate Rain,1
+11,50,1.321,0.0,23.58,76.0,4.33,0.2588,-0.9659,-0.0,1.0,0.0,1.0,21.542,0,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,No Rain,1
+10,30,1.36,4.59,28.26,81.32,3.28,0.5,-0.866,-1.0,-0.0,0.7818,0.6235,12.712,0,1,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,1
+13,40,0.777,1.06,29.18,77.31,3.49,-0.2588,-0.9659,-0.5,-0.866,0.9749,-0.2225,22.51,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Very Light,0
+15,30,1.727,29.98,25.83,92.6,5.53,-0.7071,-0.7071,-0.5,0.866,-0.9749,-0.2225,11.001,1,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Local / Residential,Northeast Monsoon,Heavy Rain,1
+19,40,1.308,0.0,23.94,76.97,2.2,-0.9659,0.2588,-0.0,1.0,-0.7818,0.6235,17.331,1,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,No Rain,0
+12,50,0.438,0.0,25.11,78.3,3.02,0.0,-1.0,0.866,0.5,0.7818,0.6235,34.771,0,0,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,0
+13,50,0.096,0.26,29.6,62.29,5.58,-0.2588,-0.9659,0.0,-1.0,-0.7818,0.6235,45.62,1,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+18,40,0.774,5.98,27.63,78.27,2.08,-1.0,-0.0,-0.866,0.5,-0.7818,0.6235,22.548,1,1,0,0,1,0,0,1,0,Auto-rickshaw,Roundabout,Dusk/Dawn,Secondary Road,Northeast Monsoon,Moderate Rain,0
+18,40,0.813,2.59,28.65,78.84,4.22,-1.0,-0.0,-0.866,-0.5,0.9749,-0.2225,22.063,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Secondary Road,Southwest Monsoon,Moderate Rain,0
+7,50,1.662,0.0,22.74,73.44,2.51,0.9659,-0.2588,-0.0,1.0,0.9749,-0.2225,18.783,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,No Rain,0
+16,50,1.236,0.66,29.41,69.89,4.69,-0.866,-0.5,-0.866,-0.5,0.0,1.0,22.361,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+17,50,0.239,1.3,31.14,65.6,6.5,-0.9659,-0.2588,0.5,-0.866,-0.9749,-0.2225,40.355,1,1,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Summer,Very Light,1
+10,70,0.777,0.04,30.59,67.81,3.26,0.5,-0.866,0.866,-0.5,-0.7818,0.6235,39.392,1,1,0,0,0,0,0,0,0,Bus,Roundabout,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,0
+7,50,1.006,0.0,26.05,69.28,2.72,0.9659,-0.2588,1.0,0.0,-0.4339,-0.901,24.925,0,0,0,0,0,0,0,0,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Summer,No Rain,1
+16,40,2.393,0.17,25.44,79.29,3.94,-0.866,-0.5,0.866,0.5,0.0,1.0,11.789,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Winter,Very Light,0
+0,40,2.182,3.84,28.16,75.33,3.32,0.0,1.0,-0.866,-0.5,-0.4339,-0.901,12.571,0,0,1,1,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,1
+19,70,1.078,8.77,28.84,76.77,3.92,-0.9659,0.2588,-0.5,-0.866,-0.4339,-0.901,33.686,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Night - Streetlights Lit,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,1
+2,50,0.495,4.67,31.89,63.15,3.66,0.5,0.866,0.5,-0.866,-0.7818,0.6235,33.445,1,0,1,1,1,1,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Summer,Moderate Rain,1
+11,50,0.207,0.03,24.96,82.33,4.51,0.2588,-0.9659,-0.0,1.0,0.4339,-0.901,41.425,0,0,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,No Rain,0
+6,40,2.471,0.0,28.05,69.18,2.75,1.0,0.0,1.0,0.0,0.7818,0.6235,11.524,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,1
+15,70,1.374,0.0,23.99,77.33,3.87,-0.7071,-0.7071,0.5,0.866,0.7818,0.6235,29.486,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,1
+11,30,2.724,2.64,27.04,85.5,3.39,0.2588,-0.9659,-0.866,-0.5,0.9749,-0.2225,8.056,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,1
+8,50,0.177,0.0,28.32,67.15,2.48,0.866,-0.5,1.0,0.0,0.9749,-0.2225,42.481,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Bridge/Flyover,Daylight,Primary Arterial,Summer,No Rain,1
+17,50,2.084,6.0,25.7,85.87,5.16,-0.9659,-0.2588,-0.0,1.0,-0.7818,0.6235,16.213,1,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+8,40,2.503,21.37,26.41,88.91,3.88,0.866,-0.5,-0.5,0.866,0.0,1.0,11.419,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,1
+8,40,0.431,0.0,24.03,74.98,4.14,0.866,-0.5,0.5,0.866,0.0,1.0,27.952,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Secondary Road,Winter,No Rain,1
+10,40,0.688,0.53,28.07,79.24,3.87,0.5,-0.866,-1.0,-0.0,-0.4339,-0.901,23.697,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+21,40,0.905,9.8,26.06,91.13,4.65,-0.7071,0.7071,-0.5,0.866,0.7818,0.6235,20.997,0,0,1,0,1,0,1,1,0,Truck/Lorry,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Moderate Rain,1
+10,50,1.144,0.4,29.95,60.72,6.44,0.5,-0.866,0.0,-1.0,0.0,1.0,23.321,0,1,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+11,30,2.258,4.45,27.94,82.9,1.94,0.2588,-0.9659,-0.866,0.5,-0.7818,0.6235,9.208,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Local / Residential,Northeast Monsoon,Moderate Rain,1
+16,40,2.239,0.0,22.4,72.27,2.45,-0.866,-0.5,-0.0,1.0,0.4339,-0.901,12.349,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Secondary Road,Northeast Monsoon,No Rain,1
+12,40,0.309,0.0,23.31,74.17,3.97,0.0,-1.0,0.866,0.5,-0.4339,-0.901,30.558,0,0,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Secondary Road,Winter,No Rain,1
+13,40,0.726,0.01,29.4,68.27,3.66,-0.2588,-0.9659,1.0,0.0,-0.7818,0.6235,23.175,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,0
+16,50,2.925,49.77,26.12,89.51,2.85,-0.866,-0.5,-0.5,0.866,-0.9749,-0.2225,12.739,1,0,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+19,40,1.129,0.06,31.53,61.47,5.18,-0.9659,0.2588,0.5,-0.866,0.9749,-0.2225,18.788,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Roundabout,Night - Streetlights Lit,Secondary Road,Summer,No Rain,0
+6,50,0.669,2.59,28.65,78.84,4.22,1.0,0.0,-0.866,-0.5,0.9749,-0.2225,29.958,0,0,0,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+17,50,0.41,0.0,27.23,68.57,2.42,-0.9659,-0.2588,1.0,0.0,-0.9749,-0.2225,35.461,1,1,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,0
+18,40,0.137,1.86,31.56,64.6,4.32,-1.0,-0.0,0.5,-0.866,0.0,1.0,35.18,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Secondary Road,Summer,Very Light,0
+19,40,1.156,16.09,26.97,86.98,4.23,-0.9659,0.2588,-0.866,0.5,-0.7818,0.6235,18.553,1,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Heavy Rain,1
+6,40,1.031,1.9,28.93,73.64,4.02,1.0,0.0,-0.866,-0.5,-0.7818,0.6235,19.695,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+0,50,1.237,0.93,30.34,67.41,2.94,0.0,1.0,0.5,-0.866,-0.9749,-0.2225,22.351,1,0,1,1,1,1,0,1,1,Two-Wheeler,Bridge/Flyover,Night - Dark / Poor Lighting,Primary Arterial,Summer,Very Light,1
+19,40,0.113,20.62,26.72,89.65,7.25,-0.9659,0.2588,-0.5,0.866,-0.4339,-0.901,35.939,0,1,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Heavy Rain,1
+18,50,1.822,5.7,25.12,89.82,3.72,-1.0,-0.0,0.5,0.866,0.4339,-0.901,17.718,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Dusk/Dawn,Primary Arterial,Winter,Moderate Rain,1
+16,50,0.854,0.0,23.5,71.32,2.75,-0.866,-0.5,0.866,0.5,-0.9749,-0.2225,26.969,1,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Winter,No Rain,1
+13,50,0.685,5.01,28.29,80.48,2.95,-0.2588,-0.9659,-1.0,-0.0,-0.9749,-0.2225,29.674,1,0,0,0,1,0,0,1,1,Pedestrian/Bicycle,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+11,40,1.717,0.06,28.14,79.05,4.56,0.2588,-0.9659,-1.0,-0.0,-0.9749,-0.2225,14.722,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Southwest Monsoon,No Rain,1
+9,70,2.208,4.31,25.38,82.76,5.76,0.7071,-0.7071,0.866,0.5,-0.9749,-0.2225,21.82,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Winter,Moderate Rain,0
+5,50,1.056,0.0,30.39,68.68,3.84,0.9659,0.2588,0.866,-0.5,0.4339,-0.901,24.319,0,0,1,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Summer,No Rain,0
+11,50,0.257,0.0,28.34,71.11,2.73,0.2588,-0.9659,1.0,0.0,-0.4339,-0.901,39.777,0,0,0,0,0,0,0,0,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Summer,No Rain,1
+9,40,2.583,3.17,27.55,76.29,4.34,0.7071,-0.7071,-0.5,-0.866,-0.7818,0.6235,11.164,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+14,70,1.568,5.7,25.12,89.82,3.72,-0.5,-0.866,0.5,0.866,0.4339,-0.901,27.259,0,0,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Daylight,Trunk Highway / Express Corridor,Winter,Moderate Rain,0
+7,50,2.71,2.25,27.5,79.6,4.48,0.9659,-0.2588,-1.0,-0.0,0.7818,0.6235,13.477,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+10,40,0.545,0.12,31.68,63.14,3.64,0.5,-0.866,0.5,-0.866,-0.9749,-0.2225,25.89,1,1,0,0,1,0,0,1,0,Auto-rickshaw,Roundabout,Daylight,Secondary Road,Summer,Very Light,1
+8,70,0.207,0.0,22.74,73.44,2.51,0.866,-0.5,-0.0,1.0,0.9749,-0.2225,57.995,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,No Rain,0
+7,50,2.4,10.51,28.62,75.67,5.26,0.9659,-0.2588,0.5,-0.866,-0.4339,-0.901,14.706,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Moderate Rain,1
+16,70,0.21,1.83,30.36,62.02,4.59,-0.866,-0.5,0.0,-1.0,-0.9749,-0.2225,57.851,1,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,1
+7,40,1.694,0.53,28.07,79.24,3.87,0.9659,-0.2588,-1.0,-0.0,-0.4339,-0.901,14.848,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Very Light,0
+21,50,0.06,0.01,29.41,67.02,3.85,-0.7071,0.7071,0.866,-0.5,-0.9749,-0.2225,47.17,1,0,1,0,0,0,1,0,0,Bus,Bridge/Flyover,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,0
+11,50,0.985,3.03,28.69,80.77,2.38,0.2588,-0.9659,-1.0,-0.0,0.0,1.0,25.189,0,0,0,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+1,40,1.516,0.0,29.16,68.84,2.46,0.2588,0.9659,1.0,0.0,-0.9749,-0.2225,15.898,1,0,1,1,0,0,0,0,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Summer,No Rain,0
+19,70,1.501,75.19,24.83,93.4,8.96,-0.9659,0.2588,-0.5,0.866,0.4339,-0.901,27.989,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,0
+17,50,1.283,0.14,24.43,89.59,4.38,-0.9659,-0.2588,-0.0,1.0,-0.4339,-0.901,21.901,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Very Light,0
+13,40,1.122,24.12,27.36,86.67,4.43,-0.2588,-0.9659,-0.5,-0.866,-0.7818,0.6235,18.85,1,0,0,0,1,0,0,1,0,Auto-rickshaw,Roundabout,Daylight,Secondary Road,Southwest Monsoon,Heavy Rain,0
+15,50,0.308,0.18,28.86,72.53,3.69,-0.7071,-0.7071,-0.866,-0.5,0.9749,-0.2225,38.226,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+0,40,0.414,3.75,30.19,69.18,3.72,0.0,1.0,0.0,-1.0,0.7818,0.6235,28.289,0,0,1,1,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,0
+15,30,0.183,2.84,28.15,82.88,2.23,-0.7071,-0.7071,-0.866,0.5,-0.4339,-0.901,25.359,0,0,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Local / Residential,Northeast Monsoon,Moderate Rain,1
+16,70,0.926,0.0,24.29,81.14,3.93,-0.866,-0.5,0.5,0.866,-0.7818,0.6235,36.345,1,0,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,0
+20,50,0.732,9.8,28.66,73.87,2.87,-0.866,0.5,0.866,-0.5,0.4339,-0.901,28.868,0,1,1,0,1,1,0,1,1,Two-Wheeler,T-Junction,Night - Dark / Poor Lighting,Primary Arterial,Summer,Moderate Rain,1
+8,50,0.083,0.0,23.98,76.56,3.05,0.866,-0.5,0.5,0.866,-0.9749,-0.2225,46.168,1,1,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,1
+9,50,1.575,0.11,29.61,71.14,5.47,0.7071,-0.7071,-0.5,-0.866,0.9749,-0.2225,19.417,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+22,50,0.541,0.0,29.06,65.42,4.42,-0.5,0.866,0.866,-0.5,0.4339,-0.901,32.446,0,0,1,0,0,1,1,0,0,Bus,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Summer,No Rain,1
+17,30,0.996,10.51,28.62,75.67,5.26,-0.9659,-0.2588,0.5,-0.866,-0.4339,-0.901,15.03,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Summer,Moderate Rain,0
+17,40,0.748,0.0,28.05,69.18,2.75,-0.9659,-0.2588,1.0,0.0,0.7818,0.6235,22.883,0,1,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,1
+8,40,0.615,16.97,25.26,88.64,5.88,0.866,-0.5,-0.5,0.866,0.7818,0.6235,24.768,0,1,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,1
+15,70,1.213,8.39,27.99,86.03,2.96,-0.7071,-0.7071,-0.866,0.5,0.9749,-0.2225,31.631,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+8,40,1.126,4.75,28.6,77.94,4.63,0.866,-0.5,-0.866,-0.5,0.7818,0.6235,18.815,0,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+17,40,1.03,0.46,30.92,61.35,5.05,-0.9659,-0.2588,0.5,-0.866,0.4339,-0.901,19.704,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Summer,Very Light,0
+21,40,0.591,0.03,30.6,70.54,3.47,-0.7071,0.7071,0.866,-0.5,0.9749,-0.2225,25.141,0,0,1,0,0,0,1,0,0,Bus,Roundabout,Night - Streetlights Lit,Secondary Road,Summer,No Rain,0
+7,70,1.509,1.48,28.04,75.62,2.67,0.9659,-0.2588,-1.0,-0.0,0.9749,-0.2225,27.9,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,0
+11,50,2.828,0.0,27.07,66.33,2.6,0.2588,-0.9659,1.0,0.0,-0.7818,0.6235,13.062,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Roundabout,Daylight,Primary Arterial,Summer,No Rain,1
+18,50,0.272,55.65,24.55,86.17,5.18,-1.0,-0.0,-0.0,1.0,0.4339,-0.901,39.308,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+0,50,0.247,1.83,30.36,62.02,4.59,0.0,1.0,0.0,-1.0,-0.9749,-0.2225,40.096,1,0,1,1,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,0
+13,50,0.162,8.29,27.1,78.95,4.25,-0.2588,-0.9659,-0.866,-0.5,-0.7818,0.6235,43.029,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+9,50,2.911,25.07,26.71,86.27,3.22,0.7071,-0.7071,-0.866,0.5,-0.4339,-0.901,12.784,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+9,50,1.262,33.34,27.61,83.03,3.34,0.7071,-0.7071,-0.5,-0.866,-0.9749,-0.2225,22.104,1,1,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Heavy Rain,1
+9,50,0.258,0.0,24.03,74.98,4.14,0.7071,-0.7071,0.5,0.866,0.0,1.0,39.746,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,1
+19,50,3.031,8.96,29.76,77.23,2.87,-0.9659,0.2588,-0.866,-0.5,0.0,1.0,12.404,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+9,40,1.199,0.04,30.49,71.1,4.03,0.7071,-0.7071,0.0,-1.0,0.4339,-0.901,18.19,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,No Rain,0
+9,40,2.965,0.0,27.6,66.3,2.63,0.7071,-0.7071,1.0,0.0,0.0,1.0,10.088,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Summer,No Rain,1
+8,40,0.219,4.75,28.6,77.94,4.63,0.866,-0.5,-0.866,-0.5,0.7818,0.6235,32.814,0,1,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+16,50,0.775,11.08,29.45,70.36,3.29,-0.866,-0.5,0.866,-0.5,0.9749,-0.2225,28.169,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Moderate Rain,1
+19,50,0.419,0.0,24.55,71.81,2.19,-0.9659,0.2588,0.5,0.866,0.0,1.0,35.236,0,1,0,0,0,1,0,0,0,Car/Jeep/Taxi,Bridge/Flyover,Night - Dark / Poor Lighting,Primary Arterial,Winter,No Rain,1
+9,50,3.113,2.46,30.08,70.68,4.39,0.7071,-0.7071,-0.866,-0.5,0.4339,-0.901,12.157,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+8,30,0.499,0.0,30.39,68.68,3.84,0.866,-0.5,0.866,-0.5,0.4339,-0.901,20.013,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Summer,No Rain,0
+15,50,0.258,0.46,29.59,68.16,3.2,-0.7071,-0.7071,0.866,-0.5,-0.4339,-0.901,39.746,0,0,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Summer,Very Light,0
+10,40,0.149,16.57,25.14,83.59,5.32,0.5,-0.866,0.866,0.5,-0.7818,0.6235,34.813,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Winter,Heavy Rain,0
+10,70,0.257,0.01,30.79,67.24,3.59,0.5,-0.866,0.866,-0.5,0.9749,-0.2225,55.688,0,1,0,0,0,0,0,0,0,Truck/Lorry,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+13,50,0.767,8.39,27.99,86.03,2.96,-0.2588,-0.9659,-0.866,0.5,0.9749,-0.2225,28.297,0,0,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+1,50,0.54,0.04,30.59,67.81,3.26,0.2588,0.9659,0.866,-0.5,-0.7818,0.6235,32.468,1,0,1,1,0,0,0,0,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,1
+7,50,1.694,84.05,24.09,92.22,8.1,0.9659,-0.2588,-0.5,0.866,0.9749,-0.2225,18.56,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,0
+18,40,0.331,2.72,28.27,78.55,3.07,-1.0,-0.0,-0.866,-0.5,-0.4339,-0.901,30.053,0,1,0,0,1,0,0,1,0,Bus,Four-arm Cross,Dusk/Dawn,Secondary Road,Southwest Monsoon,Moderate Rain,1
+20,70,0.568,0.0,27.36,67.1,2.43,-0.866,0.5,1.0,0.0,0.7818,0.6235,44.643,0,1,1,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Trunk Highway / Express Corridor,Summer,No Rain,1
+17,30,1.848,16.95,25.94,88.54,2.92,-0.9659,-0.2588,-0.5,0.866,-0.4339,-0.901,10.534,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Roundabout,Daylight,Local / Residential,Northeast Monsoon,Heavy Rain,0
+7,50,0.649,0.0,27.39,66.81,2.62,0.9659,-0.2588,1.0,0.0,-0.4339,-0.901,30.321,0,0,0,0,0,0,0,0,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Summer,No Rain,1
+10,70,0.559,1.7,29.33,73.9,3.03,0.5,-0.866,-0.5,-0.866,0.0,1.0,44.901,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,0
+17,50,0.425,0.03,30.57,70.44,3.45,-0.9659,-0.2588,0.866,-0.5,0.7818,0.6235,35.088,0,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Summer,No Rain,0
+16,50,1.089,0.03,24.31,78.7,3.74,-0.866,-0.5,0.5,0.866,0.4339,-0.901,23.935,0,0,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,1
+9,50,1.709,3.13,29.64,76.39,3.27,0.7071,-0.7071,-0.866,-0.5,-0.7818,0.6235,18.457,1,1,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+14,30,1.598,3.93,29.53,70.58,3.46,-0.5,-0.866,0.0,-1.0,0.7818,0.6235,11.547,0,0,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,1
+17,70,0.384,0.46,29.59,68.16,3.2,-0.9659,-0.2588,0.866,-0.5,-0.4339,-0.901,50.578,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,Very Light,1
+15,40,2.418,0.0,23.88,74.22,2.2,-0.7071,-0.7071,0.866,0.5,0.7818,0.6235,11.703,0,0,0,0,0,0,0,0,0,Truck/Lorry,Four-arm Cross,Daylight,Secondary Road,Winter,No Rain,1
+21,40,1.214,4.75,28.6,77.94,4.63,-0.7071,0.7071,-0.866,-0.5,0.7818,0.6235,18.067,0,0,1,0,1,0,1,1,0,Bus,T-Junction,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,1
+4,40,0.65,8.29,27.1,78.95,4.25,0.866,0.5,-0.866,-0.5,-0.7818,0.6235,24.242,1,0,1,1,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,0
+10,50,0.841,0.0,29.75,67.09,4.04,0.5,-0.866,1.0,0.0,0.0,1.0,27.159,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Summer,No Rain,1
+11,50,0.86,0.03,31.05,65.35,3.4,0.2588,-0.9659,0.5,-0.866,-0.7818,0.6235,26.882,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Summer,No Rain,0
+6,30,0.306,0.0,29.35,65.17,3.6,1.0,0.0,0.866,-0.5,0.9749,-0.2225,22.971,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Summer,No Rain,0
+2,40,0.989,1.39,30.73,65.28,3.81,0.5,0.866,0.0,-1.0,0.4339,-0.901,20.111,0,0,1,1,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Very Light,0
+10,40,0.302,0.34,24.53,79.32,4.16,0.5,-0.866,0.866,0.5,0.7818,0.6235,30.722,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Winter,Very Light,0
+19,40,1.205,4.57,26.59,86.79,2.14,-0.9659,0.2588,-0.5,0.866,0.0,1.0,18.141,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Moderate Rain,1
+9,50,0.97,1.1,25.26,88.24,4.53,0.7071,-0.7071,0.5,0.866,0.0,1.0,25.381,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,Very Light,1
+9,50,0.103,0.01,29.41,67.02,3.85,0.7071,-0.7071,0.866,-0.5,-0.9749,-0.2225,45.331,1,1,0,0,0,0,0,0,1,Two-Wheeler,Roundabout,Daylight,Primary Arterial,Summer,No Rain,1
+8,50,0.93,2.34,25.32,83.63,5.49,0.866,-0.5,-0.0,1.0,0.7818,0.6235,25.907,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+21,40,1.242,2.34,25.32,83.63,5.49,-0.7071,0.7071,-0.0,1.0,0.7818,0.6235,17.841,0,0,1,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Very Light,1
+20,40,0.486,1.38,28.35,74.71,3.89,-0.866,0.5,-0.5,-0.866,0.7818,0.6235,26.918,0,1,1,0,1,1,1,1,0,Truck/Lorry,T-Junction,Night - Dark / Poor Lighting,Secondary Road,Southwest Monsoon,Very Light,1
+23,40,1.825,49.77,26.12,89.51,2.85,-0.2588,0.9659,-0.5,0.866,-0.9749,-0.2225,14.159,1,0,1,1,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Heavy Rain,0
+14,50,0.474,0.0,28.49,67.19,2.64,-0.5,-0.866,1.0,0.0,0.4339,-0.901,33.921,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+0,50,2.305,0.09,31.04,66.18,3.53,0.0,1.0,0.866,-0.5,-0.4339,-0.901,15.129,0,0,1,1,0,0,1,0,0,Bus,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,1
+15,50,0.283,0.0,23.78,73.74,5.09,-0.7071,-0.7071,0.866,0.5,0.0,1.0,38.971,0,0,0,0,0,0,0,0,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,1
+13,70,0.273,2.35,25.77,84.35,4.43,-0.2588,-0.9659,-0.0,1.0,-0.4339,-0.901,54.988,0,0,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,0
+6,50,0.599,1.06,30.8,66.1,3.43,1.0,0.0,0.5,-0.866,0.0,1.0,31.27,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Summer,Very Light,0
+17,50,1.69,2.25,27.5,79.6,4.48,-0.9659,-0.2588,-1.0,-0.0,0.7818,0.6235,18.587,0,1,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+13,40,1.131,0.72,25.31,84.98,5.05,-0.2588,-0.9659,0.5,0.866,0.7818,0.6235,18.771,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Winter,Very Light,1
+10,40,3.111,0.01,29.41,67.02,3.85,0.5,-0.866,0.866,-0.5,-0.9749,-0.2225,9.73,1,1,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,0
+2,30,0.676,0.43,26.66,79.28,4.62,0.5,0.866,-1.0,-0.0,0.7818,0.6235,17.9,0,0,1,1,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Local / Residential,Southwest Monsoon,Very Light,0
+10,30,1.094,0.0,23.33,73.86,3.97,0.5,-0.866,0.866,0.5,-0.9749,-0.2225,14.327,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Local / Residential,Winter,No Rain,1
+20,50,2.481,0.0,26.38,70.72,2.35,-0.866,0.5,1.0,0.0,-0.9749,-0.2225,14.364,1,1,1,0,0,1,0,0,1,Two-Wheeler,T-Junction,Night - Dark / Poor Lighting,Primary Arterial,Summer,No Rain,1
+8,40,2.794,49.77,26.12,89.51,2.85,0.866,-0.5,-0.5,0.866,-0.9749,-0.2225,10.543,1,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,1
+18,70,1.509,3.3,27.66,83.27,2.53,-1.0,-0.0,-0.866,0.5,0.7818,0.6235,27.9,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+9,50,0.311,0.03,31.05,65.35,3.4,0.7071,-0.7071,0.5,-0.866,-0.7818,0.6235,38.139,1,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+17,50,1.426,0.0,29.75,67.09,4.04,-0.9659,-0.2588,1.0,0.0,0.0,1.0,20.61,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+12,70,0.177,0.87,24.0,81.99,3.63,0.0,-1.0,-0.0,1.0,0.7818,0.6235,59.473,0,0,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+16,70,0.395,30.77,25.71,90.13,3.17,-0.866,-0.5,-0.5,0.866,0.9749,-0.2225,50.179,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,1
+18,70,0.306,3.63,26.11,86.87,5.79,-1.0,-0.0,-0.5,0.866,-0.4339,-0.901,53.599,0,1,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Dusk/Dawn,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+8,50,0.453,2.4,27.49,75.01,4.81,0.866,-0.5,-0.5,-0.866,0.0,1.0,34.412,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+16,70,2.027,1.36,24.91,83.99,4.35,-0.866,-0.5,0.5,0.866,0.4339,-0.901,23.125,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Winter,Very Light,0
+20,70,0.397,58.61,26.09,90.36,6.4,-0.866,0.5,-0.5,0.866,-0.4339,-0.901,50.107,0,1,1,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Night - Streetlights Lit,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,0
+18,40,1.065,0.51,27.32,83.57,1.67,-1.0,-0.0,-0.866,0.5,-0.4339,-0.901,19.37,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Secondary Road,Northeast Monsoon,Very Light,0
+18,50,1.286,0.51,29.31,69.93,3.45,-1.0,-0.0,0.0,-1.0,-0.4339,-0.901,21.872,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Roundabout,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Very Light,0
+10,40,0.535,0.01,26.0,81.81,2.28,0.5,-0.866,-0.0,1.0,-0.9749,-0.2225,26.059,1,1,0,0,0,0,0,0,1,Pedestrian/Bicycle,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,No Rain,1
+16,70,0.341,9.41,27.76,82.77,3.0,-0.866,-0.5,-0.866,0.5,-0.7818,0.6235,52.2,1,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+18,50,2.025,2.4,27.49,75.01,4.81,-1.0,-0.0,-0.5,-0.866,0.0,1.0,16.529,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Very Light,1
+7,50,1.424,1.06,29.18,77.31,3.49,0.9659,-0.2588,-0.5,-0.866,0.9749,-0.2225,20.627,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+17,40,0.738,0.52,30.86,59.46,5.83,-0.9659,-0.2588,0.0,-1.0,0.9749,-0.2225,23.015,0,1,0,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+14,40,0.506,0.0,23.77,76.78,3.47,-0.5,-0.866,0.5,0.866,-0.7818,0.6235,26.56,1,0,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Winter,No Rain,1
+19,70,0.42,5.19,28.57,75.73,6.04,-0.9659,0.2588,0.5,-0.866,0.7818,0.6235,49.296,0,1,0,0,1,1,0,0,0,Bus,Mid-block / Straight Road,Night - Dark / Poor Lighting,Trunk Highway / Express Corridor,Summer,Moderate Rain,1
+12,40,1.453,9.8,26.06,91.13,4.65,0.0,-1.0,-0.5,0.866,0.7818,0.6235,16.307,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+8,50,2.308,0.0,29.75,67.09,4.04,0.866,-0.5,1.0,0.0,0.0,1.0,15.115,0,1,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,0
+21,50,1.482,1.39,30.73,65.28,3.81,-0.7071,0.7071,0.0,-1.0,0.4339,-0.901,20.145,0,0,1,0,1,1,0,1,0,Auto-rickshaw,T-Junction,Night - Dark / Poor Lighting,Primary Arterial,Southwest Monsoon,Very Light,1
+16,50,3.843,3.66,28.7,78.3,2.48,-0.866,-0.5,-0.866,-0.5,0.4339,-0.901,10.324,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+6,50,2.007,2.29,26.64,88.2,3.55,1.0,0.0,-0.5,0.866,0.7818,0.6235,16.628,0,0,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+18,50,0.395,1.22,26.55,84.54,2.18,-1.0,-0.0,-0.0,1.0,0.0,1.0,35.842,0,1,0,0,1,0,0,1,0,Truck/Lorry,Roundabout,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Very Light,1
+19,50,0.334,0.0,27.14,70.58,2.65,-0.9659,0.2588,1.0,0.0,0.4339,-0.901,37.481,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,1
+13,30,0.214,0.0,25.35,76.26,3.08,-0.2588,-0.9659,0.866,0.5,-0.9749,-0.2225,24.712,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Winter,No Rain,1
+15,40,1.526,2.25,27.5,79.6,4.48,-0.7071,-0.7071,-1.0,-0.0,0.7818,0.6235,15.835,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+7,70,2.17,7.5,26.66,88.16,2.35,0.9659,-0.2588,-0.5,0.866,-0.7818,0.6235,22.082,1,0,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+8,40,1.19,0.79,28.29,77.11,5.04,0.866,-0.5,-0.5,-0.866,-0.4339,-0.901,18.265,0,1,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+7,40,0.465,0.06,31.53,61.47,5.18,0.9659,-0.2588,0.5,-0.866,0.9749,-0.2225,27.304,0,0,0,0,0,0,0,0,0,Auto-rickshaw,Four-arm Cross,Daylight,Secondary Road,Summer,No Rain,1
+11,50,0.82,0.93,26.63,84.65,3.75,0.2588,-0.9659,-0.866,0.5,0.0,1.0,27.473,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+18,50,0.857,0.0,25.73,73.84,2.98,-1.0,-0.0,1.0,0.0,0.7818,0.6235,26.925,0,1,0,0,0,0,0,0,0,Truck/Lorry,Four-arm Cross,Dusk/Dawn,Primary Arterial,Summer,No Rain,1
+22,50,0.13,1.62,27.82,86.08,3.36,-0.5,0.866,-0.866,0.5,-0.9749,-0.2225,44.248,1,0,1,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Northeast Monsoon,Very Light,0
+7,50,1.869,2.16,29.34,67.78,4.03,0.9659,-0.2588,0.0,-1.0,0.0,1.0,17.428,0,0,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+20,40,0.829,3.3,27.66,83.27,2.53,-0.866,0.5,-0.866,0.5,0.7818,0.6235,21.87,0,1,1,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Moderate Rain,1
+21,40,1.557,1.42,27.61,85.69,2.95,-0.7071,0.7071,-1.0,-0.0,-0.4339,-0.901,15.643,0,0,1,0,1,0,1,1,0,Truck/Lorry,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Very Light,1
+17,40,1.723,1.86,31.56,64.6,4.32,-0.9659,-0.2588,0.5,-0.866,0.0,1.0,14.69,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Summer,Very Light,1
+9,40,0.338,5.19,28.57,75.73,6.04,0.7071,-0.7071,0.5,-0.866,0.7818,0.6235,29.895,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Summer,Moderate Rain,0
+8,50,0.374,1.9,28.93,73.64,4.02,0.866,-0.5,-0.866,-0.5,-0.7818,0.6235,36.39,1,1,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+6,70,0.739,1.1,25.26,88.24,4.53,1.0,0.0,0.5,0.866,0.0,1.0,40.253,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Winter,Very Light,1
+15,50,0.607,2.56,29.18,71.49,3.56,-0.7071,-0.7071,-0.866,-0.5,0.4339,-0.901,31.114,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+6,50,0.712,2.56,29.18,71.49,3.56,1.0,0.0,-0.866,-0.5,0.4339,-0.901,29.206,0,0,0,0,1,0,0,1,1,Pedestrian/Bicycle,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+20,40,0.739,23.68,26.42,86.5,3.88,-0.866,0.5,-0.5,0.866,0.7818,0.6235,23.002,0,1,1,0,1,1,1,1,0,Truck/Lorry,T-Junction,Night - Dark / Poor Lighting,Secondary Road,Northeast Monsoon,Heavy Rain,1
+9,50,0.149,0.0,24.14,72.46,2.68,0.7071,-0.7071,0.5,0.866,0.7818,0.6235,43.516,0,1,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,1
+8,50,0.429,0.0,25.35,76.26,3.08,0.866,-0.5,0.866,0.5,-0.9749,-0.2225,34.99,1,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,1
+7,50,0.752,3.03,30.22,73.42,4.92,0.9659,-0.2588,0.0,-1.0,0.9749,-0.2225,28.539,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+8,70,0.907,0.0,27.81,65.82,2.6,0.866,-0.5,1.0,0.0,-0.7818,0.6235,36.707,1,1,0,0,0,0,0,0,0,Bus,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+18,50,0.37,7.01,28.56,76.84,4.1,-1.0,-0.0,-0.5,-0.866,0.4339,-0.901,36.496,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+16,40,0.821,3.57,28.91,71.41,3.23,-0.866,-0.5,-0.866,-0.5,0.0,1.0,21.966,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+13,70,1.723,0.0,28.05,69.18,2.75,-0.2588,-0.9659,1.0,0.0,0.7818,0.6235,25.707,0,0,0,0,0,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+9,40,1.673,4.41,29.73,70.59,4.61,0.7071,-0.7071,-0.5,-0.866,-0.9749,-0.2225,14.964,1,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+7,50,1.46,3.03,30.22,73.42,4.92,0.9659,-0.2588,0.0,-1.0,0.9749,-0.2225,20.325,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+19,50,1.637,5.0,26.3,89.74,2.88,-0.9659,0.2588,-0.5,0.866,0.0,1.0,18.961,0,1,0,0,1,1,0,1,1,Two-Wheeler,Four-arm Cross,Night - Dark / Poor Lighting,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+11,40,2.234,2.04,31.8,66.72,5.14,0.2588,-0.9659,0.5,-0.866,-0.4339,-0.901,12.369,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Secondary Road,Summer,Very Light,1
+17,70,0.753,0.0,30.48,68.14,3.48,-0.9659,-0.2588,0.866,-0.5,0.7818,0.6235,39.932,0,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,0
+18,50,2.466,0.0,23.62,73.36,2.19,-1.0,-0.0,-0.0,1.0,-0.9749,-0.2225,14.426,1,1,0,0,0,0,0,0,0,Auto-rickshaw,T-Junction,Dusk/Dawn,Primary Arterial,Northeast Monsoon,No Rain,1
+6,50,2.212,0.46,29.59,68.16,3.2,1.0,0.0,0.866,-0.5,-0.4339,-0.901,15.567,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Very Light,1
+6,50,1.684,13.32,26.1,84.9,3.76,1.0,0.0,-0.866,-0.5,-0.9749,-0.2225,18.629,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+10,70,0.983,3.93,29.53,70.58,3.46,0.5,-0.866,0.0,-1.0,0.7818,0.6235,35.3,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,0
+14,70,1.61,1.22,26.55,84.54,2.18,-0.5,-0.866,-0.0,1.0,0.0,1.0,26.82,0,0,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,0
+17,40,1.408,8.54,30.41,69.79,3.25,-0.9659,-0.2588,0.0,-1.0,0.0,1.0,16.611,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+11,70,0.35,0.8,32.48,64.75,4.22,0.2588,-0.9659,0.5,-0.866,0.9749,-0.2225,51.852,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,Very Light,1
+8,30,2.035,4.16,27.19,82.65,2.13,0.866,-0.5,-0.866,0.5,0.7818,0.6235,9.885,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Local / Residential,Northeast Monsoon,Moderate Rain,0
+1,40,0.367,6.67,26.41,82.03,5.46,0.2588,0.9659,-0.866,0.5,0.4339,-0.901,29.261,0,0,1,1,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Moderate Rain,1
+18,40,0.465,4.57,26.59,86.79,2.14,-1.0,-0.0,-0.5,0.866,0.0,1.0,27.304,0,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,T-Junction,Dusk/Dawn,Secondary Road,Northeast Monsoon,Moderate Rain,1
+16,40,1.376,0.75,26.86,81.23,4.13,-0.866,-0.5,-0.866,0.5,0.9749,-0.2225,16.835,0,0,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Very Light,0
+4,70,1.414,0.66,29.41,69.89,4.69,0.866,0.5,-0.866,-0.5,0.0,1.0,28.998,0,0,1,1,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Night - Streetlights Lit,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,0
+16,50,2.142,3.63,26.11,86.87,5.79,-0.866,-0.5,-0.5,0.866,-0.4339,-0.901,15.913,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,0
+9,30,0.163,0.26,30.9,66.19,2.82,0.7071,-0.7071,0.866,-0.5,-0.4339,-0.901,25.795,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Local / Residential,Summer,Very Light,0
+11,50,0.041,42.52,25.22,87.17,6.2,0.2588,-0.9659,-0.0,1.0,-0.4339,-0.901,48.031,0,0,0,0,1,0,0,1,0,Bus,Bridge/Flyover,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+6,40,2.61,0.0,26.05,69.28,2.72,1.0,0.0,1.0,0.0,-0.4339,-0.901,11.08,0,0,0,0,0,0,0,0,1,Two-Wheeler,Bridge/Flyover,Daylight,Secondary Road,Summer,No Rain,1
+14,50,0.198,0.2,24.29,74.34,4.37,-0.5,-0.866,0.866,0.5,0.9749,-0.2225,41.736,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Winter,Very Light,1
+11,50,2.764,7.5,26.66,88.16,2.35,0.2588,-0.9659,-0.5,0.866,-0.7818,0.6235,13.284,1,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+10,40,0.956,0.44,27.7,75.72,4.38,0.5,-0.866,-0.866,-0.5,0.0,1.0,20.45,0,1,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+20,40,0.472,4.71,27.92,82.95,2.43,-0.866,0.5,-0.866,0.5,0.0,1.0,27.174,0,1,1,0,1,1,1,0,0,Truck/Lorry,Mid-block / Straight Road,Night - Dark / Poor Lighting,Secondary Road,Northeast Monsoon,Moderate Rain,1
+8,70,0.328,0.26,30.54,57.15,6.78,0.866,-0.5,0.0,-1.0,0.7818,0.6235,52.711,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,1
+17,40,1.622,0.08,28.63,76.31,4.64,-0.9659,-0.2588,-1.0,-0.0,0.0,1.0,15.256,0,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,No Rain,1
+17,50,1.848,0.0,25.21,70.83,2.02,-0.9659,-0.2588,0.866,0.5,0.4339,-0.901,17.556,0,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,1
+4,50,0.421,2.72,28.96,74.16,4.54,0.866,0.5,-0.866,-0.5,0.7818,0.6235,35.186,0,0,1,1,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+22,50,1.789,2.6,27.99,82.21,3.28,-0.5,0.866,-1.0,-0.0,0.4339,-0.901,17.928,0,0,1,0,1,1,0,1,0,Car/Jeep/Taxi,Roundabout,Night - Dark / Poor Lighting,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+7,40,2.595,0.54,29.81,70.88,5.57,0.9659,-0.2588,0.0,-1.0,0.7818,0.6235,11.127,0,0,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+14,30,1.702,18.47,25.87,90.86,3.66,-0.5,-0.866,-0.5,0.866,0.4339,-0.901,11.103,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Northeast Monsoon,Heavy Rain,0
+18,40,2.562,3.67,29.32,70.51,4.8,-1.0,-0.0,0.5,-0.866,0.0,1.0,11.23,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Dusk/Dawn,Secondary Road,Summer,Moderate Rain,1
+10,50,1.878,16.95,25.94,88.54,2.92,0.5,-0.866,-0.5,0.866,-0.4339,-0.901,17.373,0,1,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+1,70,0.55,2.47,28.18,74.48,4.25,0.2588,0.9659,-0.866,-0.5,-0.7818,0.6235,45.161,1,0,1,1,1,0,0,1,0,Car/Jeep/Taxi,Roundabout,Night - Streetlights Lit,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,1
+9,50,2.111,1.86,31.56,64.6,4.32,0.7071,-0.7071,0.5,-0.866,0.0,1.0,16.072,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Summer,Very Light,1
+11,40,0.661,1.87,28.12,79.09,2.48,0.2588,-0.9659,-1.0,-0.0,-0.4339,-0.901,24.082,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Very Light,0
+9,30,1.437,0.52,30.86,59.46,5.83,0.7071,-0.7071,0.0,-1.0,0.9749,-0.2225,12.31,0,1,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Local / Residential,Southwest Monsoon,Very Light,1
+19,40,0.544,3.98,25.84,86.13,4.15,-0.9659,0.2588,-0.0,1.0,0.4339,-0.901,25.907,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Moderate Rain,1
+7,50,1.69,4.58,29.44,79.59,4.02,0.9659,-0.2588,-0.5,-0.866,0.4339,-0.901,18.587,0,0,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+11,50,1.115,0.01,29.56,68.6,3.55,0.2588,-0.9659,0.866,-0.5,0.7818,0.6235,23.641,0,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Summer,No Rain,1
+22,50,1.454,0.18,28.86,72.53,3.69,-0.5,0.866,-0.866,-0.5,0.9749,-0.2225,20.375,0,0,1,0,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,0
+21,30,0.451,0.0,23.88,74.22,2.2,-0.7071,0.7071,0.866,0.5,0.7818,0.6235,20.675,0,0,1,0,0,0,1,0,0,Truck/Lorry,T-Junction,Night - Streetlights Lit,Local / Residential,Winter,No Rain,1
+16,50,0.572,0.81,30.51,61.99,4.15,-0.866,-0.5,0.0,-1.0,-0.7818,0.6235,31.807,1,0,0,0,1,0,0,1,0,Truck/Lorry,Roundabout,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+18,50,1.326,4.31,25.38,82.76,5.76,-1.0,-0.0,0.866,0.5,-0.9749,-0.2225,21.496,1,1,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Dusk/Dawn,Primary Arterial,Winter,Moderate Rain,0
+20,70,0.284,0.0,23.62,73.36,2.19,-0.866,0.5,-0.0,1.0,-0.9749,-0.2225,54.517,1,1,1,0,0,1,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Dark / Poor Lighting,Trunk Highway / Express Corridor,Northeast Monsoon,No Rain,0
+8,40,0.465,0.0,23.46,72.72,2.0,0.866,-0.5,-0.0,1.0,-0.4339,-0.901,27.304,0,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Northeast Monsoon,No Rain,1
+10,50,1.196,1.7,29.33,73.9,3.03,0.5,-0.866,-0.5,-0.866,0.0,1.0,22.769,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+11,50,1.365,4.67,31.89,63.15,3.66,0.2588,-0.9659,0.5,-0.866,-0.7818,0.6235,21.142,1,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Moderate Rain,0
+8,40,3.394,3.63,26.11,86.87,5.79,0.866,-0.5,-0.5,0.866,-0.4339,-0.901,9.103,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+2,70,0.692,3.93,29.53,70.58,3.46,0.5,0.866,0.0,-1.0,0.7818,0.6235,41.371,0,0,1,1,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Night - Streetlights Lit,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,1
+7,50,0.628,0.0,31.69,64.22,4.67,0.9659,-0.2588,0.866,-0.5,-0.9749,-0.2225,30.713,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Summer,No Rain,1
+10,50,0.682,6.67,26.41,82.03,5.46,0.5,-0.866,-0.866,0.5,0.4339,-0.901,29.727,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,0
+18,70,1.954,0.0,25.31,77.26,3.13,-1.0,-0.0,0.866,0.5,-0.7818,0.6235,23.697,1,1,0,0,0,0,0,0,1,Two-Wheeler,Roundabout,Dusk/Dawn,Trunk Highway / Express Corridor,Winter,No Rain,0
+20,40,1.117,8.29,27.1,78.95,4.25,-0.866,0.5,-0.866,-0.5,-0.7818,0.6235,18.895,1,1,1,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,0
+16,50,0.409,0.0,25.26,71.58,2.63,-0.866,-0.5,0.866,0.5,-0.4339,-0.901,35.486,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Roundabout,Daylight,Primary Arterial,Winter,No Rain,1
+0,40,0.533,0.81,30.51,61.99,4.15,0.0,1.0,0.0,-1.0,-0.7818,0.6235,26.093,1,0,1,1,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Very Light,0
+18,50,1.596,1.22,26.09,86.45,4.89,-1.0,-0.0,-0.0,1.0,0.9749,-0.2225,19.26,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Very Light,1
+13,40,2.655,4.07,29.57,75.8,3.95,-0.2588,-0.9659,-0.866,-0.5,-0.9749,-0.2225,10.944,1,0,0,0,1,0,0,1,1,Pedestrian/Bicycle,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+14,40,0.409,3.13,29.64,76.39,3.27,-0.5,-0.866,-0.866,-0.5,-0.7818,0.6235,28.389,1,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+9,70,0.644,18.25,26.46,88.38,5.56,0.7071,-0.7071,-0.5,0.866,0.4339,-0.901,42.579,0,1,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,1
+17,30,1.751,0.04,31.66,63.83,4.22,-0.9659,-0.2588,0.5,-0.866,0.0,1.0,10.905,0,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Local / Residential,Summer,No Rain,1
+18,70,0.666,0.0,27.6,66.3,2.63,-1.0,-0.0,1.0,0.0,0.0,1.0,42.017,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Trunk Highway / Express Corridor,Summer,No Rain,0
+20,50,0.197,0.6,30.79,63.05,3.11,-0.866,0.5,0.0,-1.0,-0.4339,-0.901,41.771,0,1,1,0,1,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,0
+9,40,0.237,3.98,25.84,86.13,4.15,0.7071,-0.7071,-0.0,1.0,0.4339,-0.901,32.336,0,1,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+11,70,1.606,2.25,27.5,79.6,4.48,0.2588,-0.9659,-1.0,-0.0,0.7818,0.6235,26.861,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,0
+17,40,0.661,4.75,28.6,77.94,4.63,-0.9659,-0.2588,-0.866,-0.5,0.7818,0.6235,24.082,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+12,40,2.033,0.57,30.03,65.59,3.15,0.0,-1.0,0.866,-0.5,0.7818,0.6235,13.188,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Summer,Very Light,1
+8,50,1.08,0.0,24.14,72.46,2.68,0.866,-0.5,0.5,0.866,0.7818,0.6235,24.038,0,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,1
+19,50,0.333,0.07,31.24,61.36,3.94,-0.9659,0.2588,0.5,-0.866,-0.4339,-0.901,37.509,0,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,0
+8,30,2.657,2.34,25.32,83.63,5.49,0.866,-0.5,-0.0,1.0,0.7818,0.6235,8.203,0,1,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Local / Residential,Northeast Monsoon,Very Light,0
+17,50,0.155,6.49,28.25,79.51,2.74,-0.9659,-0.2588,-0.866,0.5,0.9749,-0.2225,43.29,0,1,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+7,40,0.854,0.0,24.14,72.46,2.68,0.9659,-0.2588,0.5,0.866,0.7818,0.6235,21.575,0,0,0,0,0,0,0,0,1,Two-Wheeler,Roundabout,Daylight,Secondary Road,Winter,No Rain,0
+7,50,2.591,0.0,23.99,77.33,3.87,0.9659,-0.2588,0.5,0.866,0.7818,0.6235,13.924,0,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Winter,No Rain,1
+9,50,0.414,1.6,24.96,82.85,5.48,0.7071,-0.7071,-0.0,1.0,0.9749,-0.2225,35.361,0,1,0,0,1,0,0,1,0,Truck/Lorry,Roundabout,Daylight,Primary Arterial,Northeast Monsoon,Very Light,0
+9,50,0.733,2.84,28.15,82.88,2.23,0.7071,-0.7071,-0.866,0.5,-0.4339,-0.901,28.852,0,1,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,0
+22,40,1.548,1.78,30.51,58.87,5.71,-0.5,0.866,0.0,-1.0,-0.9749,-0.2225,15.699,1,0,1,0,1,0,1,1,0,Truck/Lorry,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Very Light,1
+10,50,0.783,1.4,27.53,80.84,1.92,0.5,-0.866,-1.0,-0.0,0.9749,-0.2225,28.043,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+16,70,0.495,3.03,30.22,73.42,4.92,-0.866,-0.5,0.0,-1.0,0.9749,-0.2225,46.823,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,1
+6,70,0.056,0.69,29.83,65.22,3.56,1.0,0.0,0.866,-0.5,-0.7818,0.6235,66.288,1,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,Very Light,1
+14,30,0.669,2.42,29.7,72.35,4.79,-0.5,-0.866,-0.866,-0.5,-0.4339,-0.901,17.975,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,0
+9,70,1.363,0.57,30.03,65.59,3.15,0.7071,-0.7071,0.866,-0.5,0.7818,0.6235,29.623,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,Very Light,1
+5,50,1.114,0.09,31.04,66.18,3.53,0.9659,0.2588,0.866,-0.5,-0.4339,-0.901,23.652,0,0,1,0,0,0,1,0,0,Truck/Lorry,Four-arm Cross,Dusk/Dawn,Primary Arterial,Summer,No Rain,1
+16,30,0.964,0.02,30.66,68.93,3.53,-0.866,-0.5,0.866,-0.5,0.0,1.0,15.275,0,0,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Local / Residential,Summer,No Rain,1
+10,50,1.687,0.04,30.59,67.81,3.26,0.5,-0.866,0.866,-0.5,-0.7818,0.6235,18.608,1,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Summer,No Rain,0
+8,50,1.783,5.98,27.63,78.27,2.08,0.866,-0.5,-0.866,0.5,-0.7818,0.6235,17.966,1,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+6,50,0.205,16.09,26.97,86.98,4.23,1.0,0.0,-0.866,0.5,-0.7818,0.6235,41.494,1,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+14,30,0.425,0.0,23.77,76.78,3.47,-0.5,-0.866,0.5,0.866,-0.7818,0.6235,21.053,1,0,0,0,0,0,0,0,0,Truck/Lorry,Bridge/Flyover,Daylight,Local / Residential,Winter,No Rain,1
+9,30,1.672,0.3,25.18,86.05,3.81,0.7071,-0.7071,0.5,0.866,-0.9749,-0.2225,11.228,1,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Winter,Very Light,1
+22,50,0.432,0.26,30.54,57.15,6.78,-0.5,0.866,0.0,-1.0,0.7818,0.6235,34.916,0,0,1,0,1,0,1,1,0,Truck/Lorry,T-Junction,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,1
+11,50,0.157,0.12,31.68,63.14,3.64,0.2588,-0.9659,0.5,-0.866,-0.9749,-0.2225,43.215,1,0,0,0,1,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Very Light,1
+15,40,0.351,0.06,27.55,81.28,4.16,-0.7071,-0.7071,-1.0,-0.0,0.9749,-0.2225,29.608,0,0,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,No Rain,1
+15,50,1.245,0.5,29.77,70.39,4.97,-0.7071,-0.7071,-0.866,-0.5,0.9749,-0.2225,22.272,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+10,30,0.385,0.72,25.31,84.98,5.05,0.5,-0.866,0.5,0.866,0.7818,0.6235,21.661,0,1,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Local / Residential,Winter,Very Light,1
+20,50,0.825,15.69,28.67,77.17,3.4,-0.866,0.5,-0.5,-0.866,0.4339,-0.901,27.397,0,1,1,0,1,1,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Southwest Monsoon,Heavy Rain,1
+12,40,0.15,0.2,24.29,74.34,4.37,0.0,-1.0,0.866,0.5,0.9749,-0.2225,34.783,0,0,0,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Secondary Road,Winter,Very Light,0
+10,70,0.262,0.03,24.31,78.7,3.74,0.5,-0.866,0.5,0.866,0.4339,-0.901,55.468,0,1,0,0,0,0,0,0,1,Two-Wheeler,Bridge/Flyover,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,0
+21,50,3.6,16.63,26.91,89.41,5.24,-0.7071,0.7071,-0.5,0.866,-0.9749,-0.2225,10.87,1,0,1,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Northeast Monsoon,Heavy Rain,0
+15,30,1.569,0.0,30.49,68.04,3.8,-0.7071,-0.7071,0.866,-0.5,0.0,1.0,11.678,0,0,0,0,0,0,0,0,0,Bus,Four-arm Cross,Daylight,Local / Residential,Summer,No Rain,1
+19,50,1.931,6.87,25.99,84.01,5.71,-0.9659,0.2588,-0.0,1.0,0.0,1.0,17.059,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+8,30,1.148,1.71,29.41,77.28,3.79,0.866,-0.5,-0.5,-0.866,0.7818,0.6235,13.966,0,1,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Local / Residential,Southwest Monsoon,Very Light,0
+16,50,3.383,0.0,27.19,76.99,3.06,-0.866,-0.5,1.0,0.0,0.9749,-0.2225,11.408,0,0,0,0,0,0,0,0,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Summer,No Rain,1
+22,50,0.199,9.41,27.76,82.77,3.0,-0.5,0.866,-0.866,0.5,-0.7818,0.6235,41.701,1,0,1,0,1,1,1,1,0,Bus,Roundabout,Night - Dark / Poor Lighting,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+21,40,0.166,0.0,27.81,65.82,2.6,-0.7071,0.7071,1.0,0.0,-0.7818,0.6235,34.305,1,0,1,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Night - Streetlights Lit,Secondary Road,Summer,No Rain,0
+0,40,2.442,0.02,24.1,75.69,2.23,0.0,1.0,0.5,0.866,0.9749,-0.2225,11.621,0,0,1,1,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Winter,No Rain,1
+18,40,0.409,1.81,30.36,74.5,5.02,-1.0,-0.0,0.5,-0.866,0.9749,-0.2225,28.389,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Secondary Road,Summer,Very Light,1
+10,40,0.237,3.75,30.19,69.18,3.72,0.5,-0.866,0.0,-1.0,0.7818,0.6235,32.336,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+5,50,1.316,1.48,28.04,75.62,2.67,0.9659,0.2588,-1.0,-0.0,0.9749,-0.2225,21.589,0,0,1,0,1,0,0,1,1,Two-Wheeler,Roundabout,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Very Light,1
+8,50,0.256,0.0,27.19,76.99,3.06,0.866,-0.5,1.0,0.0,0.9749,-0.2225,39.809,0,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Summer,No Rain,1
+11,50,0.886,0.0,26.05,69.28,2.72,0.2588,-0.9659,1.0,0.0,-0.4339,-0.901,26.511,0,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Summer,No Rain,0
+11,70,0.523,16.97,25.26,88.64,5.88,0.2588,-0.9659,-0.5,0.866,0.7818,0.6235,45.962,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,1
+15,70,1.394,5.0,26.3,89.74,2.88,-0.7071,-0.7071,-0.5,0.866,0.0,1.0,29.24,0,0,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+14,50,0.708,2.16,29.34,67.78,4.03,-0.5,-0.866,0.0,-1.0,0.0,1.0,29.274,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+18,50,1.622,0.0,30.43,62.89,4.0,-1.0,-0.0,1.0,0.0,0.7818,0.6235,19.069,0,1,0,0,0,0,0,0,1,Two-Wheeler,Roundabout,Dusk/Dawn,Primary Arterial,Summer,No Rain,1
+13,30,0.575,0.0,30.39,68.68,3.84,-0.2588,-0.9659,0.866,-0.5,0.4339,-0.901,19.048,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Local / Residential,Summer,No Rain,0
+16,40,0.392,8.9,29.12,66.84,4.26,-0.866,-0.5,0.0,-1.0,-0.7818,0.6235,28.736,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+15,70,0.181,2.77,27.57,79.63,6.44,-0.7071,-0.7071,-0.5,-0.866,0.4339,-0.901,59.272,0,0,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,0
+7,50,0.117,0.0,27.14,70.58,2.65,0.9659,-0.2588,1.0,0.0,0.4339,-0.901,44.763,0,0,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Summer,No Rain,1
+18,50,1.062,1.81,30.36,74.5,5.02,-1.0,-0.0,0.5,-0.866,0.9749,-0.2225,24.248,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Summer,Very Light,1
+13,50,0.505,0.0,29.75,67.09,4.04,-0.2588,-0.9659,1.0,0.0,0.0,1.0,33.223,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Summer,No Rain,1
+7,40,0.419,0.0,28.32,67.15,2.48,0.9659,-0.2588,1.0,0.0,0.9749,-0.2225,28.189,0,0,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,0
+9,50,0.899,0.87,24.0,81.99,3.63,0.7071,-0.7071,-0.0,1.0,0.7818,0.6235,26.33,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+9,40,0.527,3.03,30.22,73.42,4.92,0.7071,-0.7071,0.0,-1.0,0.9749,-0.2225,26.195,0,1,0,0,1,0,0,1,0,Bus,Roundabout,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+7,50,1.552,5.59,27.43,87.9,2.94,0.9659,-0.2588,-0.866,0.5,-0.9749,-0.2225,19.592,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+7,70,2.207,3.3,27.66,83.27,2.53,0.9659,-0.2588,-0.866,0.5,0.7818,0.6235,21.827,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+9,40,3.558,0.0,25.46,83.88,2.34,0.7071,-0.7071,0.5,0.866,0.4339,-0.901,8.776,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Winter,No Rain,1
+8,50,0.287,0.06,28.14,79.05,4.56,0.866,-0.5,-1.0,-0.0,-0.9749,-0.2225,38.85,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,No Rain,1
+12,50,0.505,36.4,26.05,89.87,5.45,0.0,-1.0,-0.5,0.866,0.0,1.0,33.223,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,0
+14,70,0.674,2.25,27.5,79.6,4.48,-0.5,-0.866,-1.0,-0.0,0.7818,0.6235,41.816,0,0,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,1
+3,70,0.687,4.74,26.53,87.73,2.14,0.7071,0.7071,-0.5,0.866,-0.7818,0.6235,41.494,1,0,1,1,1,1,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Dark / Poor Lighting,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,0
+8,40,0.663,8.8,27.14,80.63,3.89,0.866,-0.5,-1.0,-0.0,-0.4339,-0.901,24.053,0,1,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+15,40,1.339,0.0,23.88,74.22,2.2,-0.7071,-0.7071,0.866,0.5,0.7818,0.6235,17.101,0,0,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Winter,No Rain,1
+9,40,0.776,9.8,26.06,91.13,4.65,0.7071,-0.7071,-0.5,0.866,0.7818,0.6235,22.523,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+20,40,1.403,2.72,29.63,70.11,3.87,-0.866,0.5,0.0,-1.0,0.9749,-0.2225,16.646,0,1,1,0,1,0,1,1,0,Bus,Roundabout,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,0
+21,50,0.331,0.0,24.29,81.14,3.93,-0.7071,0.7071,0.5,0.866,-0.7818,0.6235,37.566,1,0,1,0,0,1,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Night - Dark / Poor Lighting,Primary Arterial,Winter,No Rain,0
+14,50,0.978,0.0,24.03,74.98,4.14,-0.5,-0.866,0.5,0.866,0.0,1.0,25.278,0,0,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,0
+9,50,1.096,1.87,28.12,79.09,2.48,0.7071,-0.7071,-1.0,-0.0,-0.4339,-0.901,23.855,0,1,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+19,40,1.462,8.54,30.41,69.79,3.25,-0.9659,0.2588,0.0,-1.0,0.0,1.0,16.247,0,1,0,0,1,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,0
+8,50,0.847,2.47,28.18,74.48,4.25,0.866,-0.5,-0.866,-0.5,-0.7818,0.6235,27.071,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+19,40,0.08,0.0,28.9,67.68,3.99,-0.9659,0.2588,0.866,-0.5,-0.4339,-0.901,37.037,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Summer,No Rain,1
+22,70,0.922,1.42,27.37,81.11,4.27,-0.5,0.866,-0.866,-0.5,0.0,1.0,36.42,0,0,1,0,1,1,1,1,0,Bus,Bridge/Flyover,Night - Dark / Poor Lighting,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,1
+7,50,0.663,2.59,28.65,78.84,4.22,0.9659,-0.2588,-0.866,-0.5,0.9749,-0.2225,30.066,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+19,50,0.663,0.0,23.05,71.29,2.86,-0.9659,0.2588,0.866,0.5,0.4339,-0.901,30.066,0,1,0,0,0,1,0,0,0,Truck/Lorry,T-Junction,Night - Dark / Poor Lighting,Primary Arterial,Winter,No Rain,1
+10,70,0.106,0.04,31.66,63.83,4.22,0.5,-0.866,0.5,-0.866,0.0,1.0,63.291,0,1,0,0,0,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+7,40,0.138,0.01,26.0,81.81,2.28,0.9659,-0.2588,-0.0,1.0,-0.9749,-0.2225,35.149,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,No Rain,1
+10,50,0.727,1.42,27.61,85.69,2.95,0.5,-0.866,-1.0,-0.0,-0.4339,-0.901,28.952,0,1,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+9,50,0.462,0.46,31.15,58.94,5.78,0.7071,-0.7071,0.0,-1.0,0.4339,-0.901,34.2,0,1,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+9,50,2.022,4.45,27.94,82.9,1.94,0.7071,-0.7071,-0.866,0.5,-0.7818,0.6235,16.545,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Roundabout,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,0
+18,50,0.118,3.91,28.76,77.89,5.09,-1.0,-0.0,-0.5,-0.866,-0.7818,0.6235,44.723,1,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+9,50,1.344,4.16,27.19,82.65,2.13,0.7071,-0.7071,-0.866,0.5,0.7818,0.6235,21.331,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+17,70,1.434,2.18,25.43,88.69,3.77,-0.9659,-0.2588,0.5,0.866,-0.4339,-0.901,28.759,0,1,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Winter,Very Light,1
+22,30,0.565,0.0,27.14,70.58,2.65,-0.5,0.866,1.0,0.0,0.4339,-0.901,19.169,0,0,1,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Local / Residential,Summer,No Rain,1
+19,50,0.396,40.12,25.04,93.15,3.46,-0.9659,0.2588,0.5,0.866,0.9749,-0.2225,35.817,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Winter,Heavy Rain,1
+11,50,0.901,1.62,27.82,86.08,3.36,0.2588,-0.9659,-0.866,0.5,-0.9749,-0.2225,26.302,1,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Very Light,0
+20,50,0.482,0.26,29.6,62.29,5.58,-0.866,0.5,0.0,-1.0,-0.7818,0.6235,33.738,1,1,1,0,1,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,1
+10,50,1.695,6.91,27.37,79.09,4.65,0.5,-0.866,-1.0,-0.0,0.0,1.0,18.553,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+10,50,0.88,0.0,25.56,71.3,2.23,0.5,-0.866,1.0,0.0,-0.4339,-0.901,26.596,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+10,50,0.257,0.0,23.5,71.32,2.75,0.5,-0.866,0.866,0.5,-0.9749,-0.2225,39.777,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,1
+9,30,0.409,1.63,28.68,76.66,5.08,0.7071,-0.7071,-0.5,-0.866,0.9749,-0.2225,21.292,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Local / Residential,Southwest Monsoon,Very Light,1
+8,40,0.497,0.0,23.89,80.05,5.38,0.866,-0.5,-0.0,1.0,-0.9749,-0.2225,26.72,1,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,No Rain,1
+18,50,0.616,9.8,26.06,91.13,4.65,-1.0,-0.0,-0.5,0.866,0.7818,0.6235,30.941,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Moderate Rain,0
+20,30,0.348,0.26,29.6,62.29,5.58,-0.866,0.5,0.0,-1.0,-0.7818,0.6235,22.255,1,1,1,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Local / Residential,Southwest Monsoon,Very Light,1
+16,70,1.479,9.8,26.06,91.13,4.65,-0.866,-0.5,-0.5,0.866,0.7818,0.6235,28.237,0,0,0,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,0
+15,30,2.166,33.34,27.61,83.03,3.34,-0.7071,-0.7071,-0.5,-0.866,-0.9749,-0.2225,9.476,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Southwest Monsoon,Heavy Rain,1
+9,40,0.912,4.58,29.44,79.59,4.02,0.7071,-0.7071,-0.5,-0.866,0.4339,-0.901,20.921,0,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+14,50,0.548,0.09,25.87,85.08,3.44,-0.5,-0.866,-0.0,1.0,0.7818,0.6235,32.3,0,0,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,No Rain,1
+16,50,2.067,0.77,30.57,68.32,3.28,-0.866,-0.5,0.5,-0.866,-0.7818,0.6235,16.303,1,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Summer,Very Light,1
+7,40,2.226,0.0,29.06,65.42,4.42,0.9659,-0.2588,0.866,-0.5,0.4339,-0.901,12.399,0,0,0,0,0,0,0,0,1,Pedestrian/Bicycle,T-Junction,Daylight,Secondary Road,Summer,No Rain,1
+17,40,0.498,0.0,25.11,78.3,3.02,-0.9659,-0.2588,0.866,0.5,0.7818,0.6235,26.702,0,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Winter,No Rain,1
+22,50,0.918,1.7,28.33,76.84,5.1,-0.5,0.866,-0.5,-0.866,0.7818,0.6235,26.069,0,0,1,0,1,0,0,1,1,Pedestrian/Bicycle,Roundabout,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,1
+18,50,2.974,0.0,23.88,74.22,2.2,-1.0,-0.0,0.866,0.5,0.7818,0.6235,12.582,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Primary Arterial,Winter,No Rain,1
+17,40,1.344,0.91,29.6,72.84,2.56,-0.9659,-0.2588,0.866,-0.5,-0.9749,-0.2225,17.065,1,1,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Secondary Road,Summer,Very Light,1
+20,50,1.5,0.0,30.39,68.68,3.84,-0.866,0.5,0.866,-0.5,0.4339,-0.901,20.0,0,1,1,0,0,1,0,0,0,Car/Jeep/Taxi,Roundabout,Night - Dark / Poor Lighting,Primary Arterial,Summer,No Rain,1
+7,40,0.297,0.11,31.7,65.24,3.59,0.9659,-0.2588,0.0,-1.0,0.7818,0.6235,30.84,0,0,0,0,1,0,0,1,0,Bus,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+17,70,0.021,0.03,24.96,82.33,4.51,-0.9659,-0.2588,-0.0,1.0,0.4339,-0.901,68.56,0,1,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,No Rain,1
+4,50,0.536,0.0,23.99,77.33,3.87,0.866,0.5,0.5,0.866,0.7818,0.6235,32.552,0,0,1,1,0,0,0,0,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Primary Arterial,Winter,No Rain,1
+18,40,0.235,1.39,30.73,65.28,3.81,-1.0,-0.0,0.0,-1.0,0.4339,-0.901,32.389,0,1,0,0,1,0,0,1,0,Bus,Roundabout,Dusk/Dawn,Secondary Road,Southwest Monsoon,Very Light,1
+7,40,0.204,0.04,31.66,63.83,4.22,0.9659,-0.2588,0.5,-0.866,0.0,1.0,33.223,0,0,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Summer,No Rain,1
+11,30,2.962,2.4,27.49,75.01,4.81,0.2588,-0.9659,-0.5,-0.866,0.0,1.0,7.572,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Southwest Monsoon,Very Light,1
+18,50,0.707,4.41,29.73,70.59,4.61,-1.0,-0.0,-0.5,-0.866,-0.9749,-0.2225,29.291,1,1,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+13,30,1.467,1.85,27.36,83.06,1.41,-0.2588,-0.9659,-0.866,0.5,0.4339,-0.901,12.161,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Northeast Monsoon,Very Light,1
+19,50,0.757,0.0,24.55,71.81,2.19,-0.9659,0.2588,0.5,0.866,0.0,1.0,28.458,0,1,0,0,0,1,0,0,0,Car/Jeep/Taxi,Bridge/Flyover,Night - Dark / Poor Lighting,Primary Arterial,Winter,No Rain,1
+12,30,0.857,21.37,26.41,88.91,3.88,0.0,-1.0,-0.5,0.866,0.0,1.0,16.155,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Northeast Monsoon,Heavy Rain,0
+18,40,0.254,0.4,29.95,60.72,6.44,-1.0,-0.0,0.0,-1.0,0.0,1.0,31.898,0,1,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Dusk/Dawn,Secondary Road,Southwest Monsoon,Very Light,1
+5,50,0.354,0.0,28.05,69.18,2.75,0.9659,0.2588,1.0,0.0,0.7818,0.6235,36.928,0,0,1,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Summer,No Rain,1
+7,70,0.341,0.26,30.98,57.52,5.58,0.9659,-0.2588,0.0,-1.0,-0.4339,-0.901,52.2,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,0
+17,40,0.273,0.0,27.25,73.2,3.08,-0.9659,-0.2588,1.0,0.0,0.4339,-0.901,31.422,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Summer,No Rain,1
+7,40,1.22,0.15,24.2,81.65,5.13,0.9659,-0.2588,-0.0,1.0,-0.4339,-0.901,18.018,0,0,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Secondary Road,Northeast Monsoon,Very Light,0
+13,50,0.185,1.74,27.49,82.14,1.78,-0.2588,-0.9659,-0.866,0.5,0.9749,-0.2225,42.194,0,0,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+11,50,0.017,1.89,31.01,61.63,3.59,0.2588,-0.9659,0.0,-1.0,-0.9749,-0.2225,49.164,1,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+0,40,1.357,0.09,24.56,75.09,3.88,0.0,1.0,0.5,0.866,-0.4339,-0.901,16.971,0,0,1,1,0,1,0,0,0,Car/Jeep/Taxi,T-Junction,Night - Dark / Poor Lighting,Secondary Road,Winter,No Rain,1
+18,40,3.466,4.74,26.53,87.73,2.14,-1.0,-0.0,-0.5,0.866,-0.7818,0.6235,8.957,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Secondary Road,Northeast Monsoon,Moderate Rain,1
+8,40,0.864,2.18,25.43,88.69,3.77,0.866,-0.5,0.5,0.866,-0.4339,-0.901,21.459,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Winter,Very Light,1
+8,50,0.072,0.0,30.25,70.11,3.19,0.866,-0.5,0.866,-0.5,-0.7818,0.6235,46.642,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,0
+19,40,0.093,40.12,25.04,93.15,3.46,-0.9659,0.2588,0.5,0.866,0.9749,-0.2225,36.597,0,1,0,0,1,1,0,1,1,Two-Wheeler,Four-arm Cross,Night - Dark / Poor Lighting,Secondary Road,Winter,Heavy Rain,1
+20,30,1.109,0.44,27.7,75.72,4.38,-0.866,0.5,-0.866,-0.5,0.0,1.0,14.225,0,1,1,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Local / Residential,Southwest Monsoon,Very Light,0
+13,30,1.42,5.01,28.29,80.48,2.95,-0.2588,-0.9659,-1.0,-0.0,-0.9749,-0.2225,12.397,1,0,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,0
+9,40,1.123,0.0,24.37,78.76,4.45,0.7071,-0.7071,0.866,0.5,0.0,1.0,18.841,0,1,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Secondary Road,Winter,No Rain,0
+17,50,0.761,0.81,23.66,80.7,4.6,-0.9659,-0.2588,0.5,0.866,-0.4339,-0.901,28.393,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Winter,Very Light,0
+15,50,0.544,0.14,24.43,89.59,4.38,-0.7071,-0.7071,-0.0,1.0,-0.4339,-0.901,32.383,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Very Light,0
+8,50,1.249,0.0,24.49,77.96,3.39,0.866,-0.5,0.5,0.866,-0.9749,-0.2225,22.232,1,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,1
+7,30,0.751,2.72,28.27,78.55,3.07,0.9659,-0.2588,-0.866,-0.5,-0.4339,-0.901,17.133,0,0,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,1
+11,40,0.268,9.41,27.76,82.77,3.0,0.2588,-0.9659,-0.866,0.5,-0.7818,0.6235,31.546,1,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+22,50,0.209,0.05,28.44,77.69,5.65,-0.5,0.866,-1.0,-0.0,0.0,1.0,41.356,0,0,1,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,No Rain,1
+6,70,2.122,0.48,24.66,80.87,5.58,1.0,0.0,-0.0,1.0,0.4339,-0.901,22.422,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+10,30,2.744,0.0,32.34,60.03,4.33,0.5,-0.866,0.866,-0.5,-0.4339,-0.901,8.013,0,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Summer,No Rain,0
+12,50,1.622,0.0,27.07,66.33,2.6,0.0,-1.0,1.0,0.0,-0.7818,0.6235,19.069,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Summer,No Rain,1
+23,50,1.495,8.29,24.93,84.78,4.55,-0.2588,0.9659,0.5,0.866,0.0,1.0,20.04,0,0,1,1,1,1,0,1,0,Auto-rickshaw,T-Junction,Night - Dark / Poor Lighting,Primary Arterial,Winter,Moderate Rain,1
+7,50,0.134,16.09,26.97,86.98,4.23,0.9659,-0.2588,-0.866,0.5,-0.7818,0.6235,44.092,1,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+17,50,1.095,0.4,29.95,60.72,6.44,-0.9659,-0.2588,0.0,-1.0,0.0,1.0,23.866,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+16,50,0.364,6.91,27.37,79.09,4.65,-0.866,-0.5,-1.0,-0.0,0.0,1.0,36.657,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+1,50,1.543,4.71,27.92,82.95,2.43,0.2588,0.9659,-0.866,0.5,0.0,1.0,19.662,0,0,1,1,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+19,50,1.685,2.18,25.43,88.69,3.77,-0.9659,0.2588,0.5,0.866,-0.4339,-0.901,18.622,0,1,0,0,1,1,0,1,1,Two-Wheeler,Bridge/Flyover,Night - Dark / Poor Lighting,Primary Arterial,Winter,Very Light,1
+14,50,2.747,3.93,28.16,77.95,2.17,-0.5,-0.866,-1.0,-0.0,0.4339,-0.901,13.344,0,0,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+17,40,0.512,2.87,26.34,87.86,3.81,-0.9659,-0.2588,-0.5,0.866,0.9749,-0.2225,26.455,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+22,40,0.305,0.09,25.87,85.08,3.44,-0.5,0.866,-0.0,1.0,0.7818,0.6235,30.651,0,0,1,0,0,0,0,0,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,No Rain,1
+18,40,0.288,1.36,24.91,83.99,4.35,-1.0,-0.0,0.5,0.866,0.4339,-0.901,31.056,0,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,Four-arm Cross,Dusk/Dawn,Secondary Road,Winter,Very Light,1
+16,50,1.665,16.57,25.14,83.59,5.32,-0.866,-0.5,0.866,0.5,-0.7818,0.6235,18.762,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Winter,Heavy Rain,1
+22,50,0.708,11.24,28.09,78.8,3.07,-0.5,0.866,-0.5,-0.866,0.9749,-0.2225,29.274,0,0,1,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+10,50,0.604,4.74,26.53,87.73,2.14,0.5,-0.866,-0.5,0.866,-0.7818,0.6235,31.172,1,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+13,40,1.025,0.48,24.66,80.87,5.58,-0.2588,-0.9659,-0.0,1.0,0.4339,-0.901,19.753,0,0,0,0,1,0,0,1,1,Pedestrian/Bicycle,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Very Light,1
+17,50,2.515,0.03,30.6,70.54,3.47,-0.9659,-0.2588,0.866,-0.5,0.9749,-0.2225,14.225,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Roundabout,Daylight,Primary Arterial,Summer,No Rain,0
+7,50,0.338,5.7,25.12,89.82,3.72,0.9659,-0.2588,0.5,0.866,0.4339,-0.901,37.369,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Winter,Moderate Rain,0
+17,30,3.109,0.0,29.35,65.17,3.6,-0.9659,-0.2588,0.866,-0.5,0.9749,-0.2225,7.301,0,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Summer,No Rain,1
+12,40,1.085,2.42,29.7,72.35,4.79,0.0,-1.0,-0.866,-0.5,-0.4339,-0.901,19.185,0,0,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+19,50,0.391,0.17,28.09,80.56,4.62,-0.9659,0.2588,-1.0,-0.0,-0.7818,0.6235,35.945,1,1,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,1
+15,50,0.581,0.0,23.68,71.58,2.5,-0.7071,-0.7071,0.866,0.5,0.0,1.0,31.626,0,0,0,0,0,0,0,0,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,1
+11,40,0.956,23.68,26.42,86.5,3.88,0.2588,-0.9659,-0.5,0.866,0.7818,0.6235,20.45,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,0
+21,40,0.224,6.04,28.44,80.78,2.85,-0.7071,0.7071,-1.0,-0.0,-0.7818,0.6235,32.68,1,0,1,0,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,0
+0,40,0.763,2.35,25.77,84.35,4.43,0.0,1.0,-0.0,1.0,-0.4339,-0.901,22.689,0,0,1,1,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Very Light,1
+2,40,1.282,4.31,27.07,85.11,2.19,0.5,0.866,-0.866,0.5,0.0,1.0,17.528,0,0,1,1,1,0,1,1,0,Truck/Lorry,T-Junction,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Moderate Rain,1
+2,50,2.5,2.56,28.71,77.43,5.03,0.5,0.866,-0.5,-0.866,0.7818,0.6235,14.286,0,0,1,1,1,1,0,1,1,Two-Wheeler,Four-arm Cross,Night - Dark / Poor Lighting,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+11,40,1.561,0.0,24.29,81.14,3.93,0.2588,-0.9659,0.5,0.866,-0.7818,0.6235,15.619,1,0,0,0,0,0,0,0,0,Truck/Lorry,T-Junction,Daylight,Secondary Road,Winter,No Rain,1
+17,40,0.874,0.0,28.34,71.11,2.73,-0.9659,-0.2588,1.0,0.0,-0.4339,-0.901,21.345,0,1,0,0,0,0,0,0,0,Auto-rickshaw,T-Junction,Daylight,Secondary Road,Summer,No Rain,1
+6,40,1.004,0.03,30.6,70.54,3.47,1.0,0.0,0.866,-0.5,0.9749,-0.2225,19.96,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,0
+12,50,0.558,0.01,24.47,81.58,3.57,0.0,-1.0,0.5,0.866,0.9749,-0.2225,32.092,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Winter,No Rain,0
+20,30,1.712,18.25,26.46,88.38,5.56,-0.866,0.5,-0.5,0.866,0.4339,-0.901,11.062,0,1,1,0,1,1,0,1,1,Pedestrian/Bicycle,Four-arm Cross,Night - Dark / Poor Lighting,Local / Residential,Northeast Monsoon,Heavy Rain,1
+14,70,1.349,6.87,25.99,84.01,5.71,-0.5,-0.866,-0.0,1.0,0.0,1.0,29.8,0,0,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,0
+15,50,1.024,9.11,28.93,81.02,2.17,-0.7071,-0.7071,-0.5,-0.866,-0.9749,-0.2225,24.704,1,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+12,50,0.277,1.33,30.89,67.21,3.98,0.0,-1.0,0.5,-0.866,-0.4339,-0.901,39.154,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Summer,Very Light,1
+8,50,0.938,0.01,29.41,67.02,3.85,0.866,-0.5,0.866,-0.5,-0.9749,-0.2225,25.8,1,1,0,0,0,0,0,0,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Summer,No Rain,1
+12,50,0.627,0.0,23.75,71.75,4.04,0.0,-1.0,0.866,0.5,0.4339,-0.901,30.731,0,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Winter,No Rain,1
+18,40,1.432,1.87,28.12,79.09,2.48,-1.0,-0.0,-1.0,-0.0,-0.4339,-0.901,16.447,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Secondary Road,Southwest Monsoon,Very Light,0
+15,70,0.53,1.86,31.56,64.6,4.32,-0.7071,-0.7071,0.5,-0.866,0.0,1.0,45.752,0,0,0,0,1,0,0,1,0,Truck/Lorry,Roundabout,Daylight,Trunk Highway / Express Corridor,Summer,Very Light,1
+10,50,1.271,29.98,25.83,92.6,5.53,0.5,-0.866,-0.5,0.866,-0.9749,-0.2225,22.017,1,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,0
+22,50,0.338,4.31,25.38,82.76,5.76,-0.5,0.866,0.866,0.5,-0.9749,-0.2225,37.369,1,0,1,0,1,0,1,1,0,Bus,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Winter,Moderate Rain,0
+8,30,0.655,0.12,31.68,63.14,3.64,0.866,-0.5,0.5,-0.866,-0.9749,-0.2225,18.127,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Local / Residential,Summer,Very Light,1
+6,40,0.372,0.0,31.45,64.25,3.4,1.0,0.0,0.866,-0.5,-0.7818,0.6235,29.155,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Secondary Road,Summer,No Rain,1
+21,40,0.402,3.98,25.84,86.13,4.15,-0.7071,0.7071,-0.0,1.0,0.4339,-0.901,28.531,0,0,1,0,1,0,1,0,0,Truck/Lorry,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Moderate Rain,1
+7,40,2.559,55.65,24.55,86.17,5.18,0.9659,-0.2588,-0.0,1.0,0.4339,-0.901,11.239,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,0
+17,50,1.75,16.57,25.14,83.59,5.32,-0.9659,-0.2588,0.866,0.5,-0.7818,0.6235,18.182,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Winter,Heavy Rain,0
+17,40,4.378,0.0,24.14,72.46,2.68,-0.9659,-0.2588,0.5,0.866,0.7818,0.6235,7.438,0,1,0,0,0,0,0,0,0,Bus,T-Junction,Daylight,Secondary Road,Winter,No Rain,0
+20,30,1.149,0.08,28.63,76.31,4.64,-0.866,0.5,-1.0,-0.0,0.0,1.0,13.96,0,1,1,0,0,0,1,0,0,Bus,Mid-block / Straight Road,Night - Streetlights Lit,Local / Residential,Southwest Monsoon,No Rain,1
+0,40,0.186,8.12,24.05,85.8,5.27,0.0,1.0,0.5,0.866,-0.9749,-0.2225,33.727,1,0,1,1,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Winter,Moderate Rain,1
+8,50,1.127,5.98,27.63,78.27,2.08,0.866,-0.5,-0.866,0.5,-0.7818,0.6235,23.507,1,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+17,70,0.822,0.46,29.59,68.16,3.2,-0.9659,-0.2588,0.866,-0.5,-0.4339,-0.901,38.419,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Summer,Very Light,0
+14,50,0.857,16.63,26.91,89.41,5.24,-0.5,-0.866,-0.5,0.866,-0.9749,-0.2225,26.925,1,0,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,0
+17,70,0.488,2.25,27.5,79.6,4.48,-0.9659,-0.2588,-1.0,-0.0,0.7818,0.6235,47.043,0,1,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,1
+20,50,0.475,0.79,25.21,86.9,4.28,-0.866,0.5,0.5,0.866,-0.7818,0.6235,33.898,1,1,1,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Winter,Very Light,0
+17,50,0.138,1.7,29.33,73.9,3.03,-0.9659,-0.2588,-0.5,-0.866,0.0,1.0,43.937,0,1,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+8,50,2.366,0.0,26.75,65.68,2.68,0.866,-0.5,1.0,0.0,-0.9749,-0.2225,14.854,1,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+17,50,0.427,0.46,29.59,68.16,3.2,-0.9659,-0.2588,0.866,-0.5,-0.4339,-0.901,35.039,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Summer,Very Light,1
+11,50,0.667,1.3,31.14,65.6,6.5,0.2588,-0.9659,0.5,-0.866,-0.9749,-0.2225,29.994,1,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Summer,Very Light,0
+15,50,1.42,0.37,28.07,81.65,3.16,-0.7071,-0.7071,-0.866,0.5,0.0,1.0,20.661,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+18,50,0.964,3.81,28.44,83.88,3.12,-1.0,-0.0,-0.866,0.5,-0.4339,-0.901,25.458,0,1,0,0,1,0,0,1,0,Truck/Lorry,Bridge/Flyover,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+7,30,0.164,0.69,29.83,65.22,3.56,0.9659,-0.2588,0.866,-0.5,-0.7818,0.6235,25.773,1,0,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Local / Residential,Summer,Very Light,1
+14,50,1.479,6.04,28.44,80.78,2.85,-0.5,-0.866,-1.0,-0.0,-0.7818,0.6235,20.169,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+5,30,1.683,12.76,25.44,91.47,2.51,0.9659,0.2588,-0.5,0.866,0.0,1.0,11.182,0,0,1,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Local / Residential,Northeast Monsoon,Moderate Rain,0
+11,40,1.011,0.75,31.67,68.77,4.51,0.2588,-0.9659,0.5,-0.866,0.4339,-0.901,19.891,0,0,0,0,1,0,0,1,1,Pedestrian/Bicycle,T-Junction,Daylight,Secondary Road,Summer,Very Light,1
+10,50,1.46,0.0,24.61,81.15,2.66,0.5,-0.866,0.5,0.866,-0.9749,-0.2225,20.325,1,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,0
+17,50,0.501,0.03,30.6,70.54,3.47,-0.9659,-0.2588,0.866,-0.5,0.9749,-0.2225,33.311,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Four-arm Cross,Daylight,Primary Arterial,Summer,No Rain,1
+17,50,2.212,0.3,25.18,86.05,3.81,-0.9659,-0.2588,0.5,0.866,-0.9749,-0.2225,15.567,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Winter,Very Light,0
+17,40,1.812,20.62,26.72,89.65,7.25,-0.9659,-0.2588,-0.5,0.866,-0.4339,-0.901,14.225,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,0
+14,50,1.423,8.29,24.93,84.78,4.55,-0.5,-0.866,0.5,0.866,0.0,1.0,20.636,0,0,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Primary Arterial,Winter,Moderate Rain,1
+5,40,1.648,6.91,27.37,79.09,4.65,0.9659,0.2588,-1.0,-0.0,0.0,1.0,15.106,0,0,1,0,1,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Dusk/Dawn,Secondary Road,Southwest Monsoon,Moderate Rain,0
+12,30,0.237,0.0,23.31,74.17,3.97,0.0,-1.0,0.866,0.5,-0.4339,-0.901,24.252,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Local / Residential,Winter,No Rain,1
+8,70,1.403,0.0,26.75,65.68,2.68,0.866,-0.5,1.0,0.0,-0.9749,-0.2225,29.13,1,1,0,0,0,0,0,0,0,Truck/Lorry,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+19,40,0.768,5.59,27.43,87.9,2.94,-0.9659,0.2588,-0.866,0.5,-0.9749,-0.2225,22.624,1,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Moderate Rain,0
+5,50,0.445,5.98,27.63,78.27,2.08,0.9659,0.2588,-0.866,0.5,-0.7818,0.6235,34.602,1,0,1,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+10,50,0.748,0.03,31.05,65.35,3.4,0.5,-0.866,0.5,-0.866,-0.7818,0.6235,28.604,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+15,40,0.836,0.01,29.41,67.02,3.85,-0.7071,-0.7071,0.866,-0.5,-0.9749,-0.2225,21.786,1,0,0,0,0,0,0,0,0,Bus,T-Junction,Daylight,Secondary Road,Summer,No Rain,1
+10,50,0.516,0.0,23.46,72.72,2.0,0.5,-0.866,-0.0,1.0,-0.4339,-0.901,32.982,0,1,0,0,0,0,0,0,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,No Rain,1
+12,50,0.288,0.11,29.61,71.14,5.47,0.0,-1.0,-0.5,-0.866,0.9749,-0.2225,38.82,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+18,50,0.33,8.77,28.84,76.77,3.92,-1.0,-0.0,-0.5,-0.866,-0.4339,-0.901,37.594,0,1,0,0,1,0,0,1,0,Bus,T-Junction,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+12,70,1.443,0.91,29.6,72.84,2.56,0.0,-1.0,0.866,-0.5,-0.9749,-0.2225,28.653,1,0,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Trunk Highway / Express Corridor,Summer,Very Light,1
+9,50,0.382,75.19,24.83,93.4,8.96,0.7071,-0.7071,-0.5,0.866,0.4339,-0.901,36.179,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,0
+13,70,0.244,0.99,27.87,72.92,3.09,-0.2588,-0.9659,-0.866,-0.5,0.7818,0.6235,56.27,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,1
+5,40,0.143,2.59,28.65,78.84,4.22,0.9659,0.2588,-0.866,-0.5,0.9749,-0.2225,34.996,0,0,1,0,1,0,1,1,0,Truck/Lorry,Four-arm Cross,Dusk/Dawn,Secondary Road,Southwest Monsoon,Moderate Rain,1
+7,50,2.786,1.86,31.56,64.6,4.32,0.9659,-0.2588,0.5,-0.866,0.0,1.0,13.207,0,0,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Summer,Very Light,1
+13,70,1.203,0.0,25.73,73.84,2.98,-0.2588,-0.9659,1.0,0.0,0.7818,0.6235,31.775,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+18,70,0.294,37.11,27.14,88.45,3.12,-1.0,-0.0,-0.866,0.5,0.7818,0.6235,54.096,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,1
+10,50,1.228,0.0,23.77,76.78,3.47,0.5,-0.866,0.5,0.866,-0.7818,0.6235,22.442,1,1,0,0,0,0,0,0,0,Auto-rickshaw,T-Junction,Daylight,Primary Arterial,Winter,No Rain,1
+17,50,0.477,12.76,25.44,91.47,2.51,-0.9659,-0.2588,-0.5,0.866,0.0,1.0,33.852,0,1,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+16,40,0.106,6.49,28.25,79.51,2.74,-0.866,-0.5,-0.866,0.5,0.9749,-0.2225,36.166,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+16,50,0.307,16.09,26.97,86.98,4.23,-0.866,-0.5,-0.866,0.5,-0.7818,0.6235,38.256,1,0,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,0
+11,50,1.08,0.0,27.07,66.33,2.6,0.2588,-0.9659,1.0,0.0,-0.7818,0.6235,24.038,1,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Summer,No Rain,1
+7,50,0.829,1.9,28.93,73.64,4.02,0.9659,-0.2588,-0.866,-0.5,-0.7818,0.6235,27.337,1,0,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+5,50,0.5,0.92,24.37,79.08,3.45,0.9659,0.2588,-0.0,1.0,0.9749,-0.2225,33.333,0,0,1,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Very Light,1
+7,50,1.453,11.0,26.46,90.25,3.43,0.9659,-0.2588,-0.5,0.866,0.9749,-0.2225,20.383,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+12,70,0.822,0.48,24.66,80.87,5.58,0.0,-1.0,-0.0,1.0,0.4339,-0.901,38.419,0,0,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+11,40,0.224,0.06,31.53,61.47,5.18,0.2588,-0.9659,0.5,-0.866,0.9749,-0.2225,32.68,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Summer,No Rain,1
+11,50,1.025,0.57,30.03,65.59,3.15,0.2588,-0.9659,0.866,-0.5,0.7818,0.6235,24.691,0,0,0,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Very Light,1
+15,50,0.398,0.02,30.85,66.53,3.55,-0.7071,-0.7071,0.866,-0.5,0.4339,-0.901,35.765,0,0,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+18,30,0.379,8.39,27.99,86.03,2.96,-1.0,-0.0,-0.866,0.5,0.9749,-0.2225,21.755,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Local / Residential,Northeast Monsoon,Moderate Rain,1
+19,40,0.258,1.06,30.8,66.1,3.43,-0.9659,0.2588,0.5,-0.866,0.0,1.0,31.797,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Summer,Very Light,0
+17,70,0.073,12.76,25.44,91.47,2.51,-0.9659,-0.2588,-0.5,0.866,0.0,1.0,65.238,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,0
+13,40,1.298,20.62,26.72,89.65,7.25,-0.2588,-0.9659,-0.5,0.866,-0.4339,-0.901,17.406,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,1
+16,40,0.256,0.0,27.36,67.1,2.43,-0.866,-0.5,1.0,0.0,0.7818,0.6235,31.847,0,0,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,0
+21,50,2.772,0.72,25.31,84.98,5.05,-0.7071,0.7071,0.5,0.866,0.7818,0.6235,13.256,0,0,1,0,1,1,1,0,0,Bus,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Winter,Very Light,1
+18,50,2.721,1.3,31.14,65.6,6.5,-1.0,-0.0,0.5,-0.866,-0.9749,-0.2225,13.437,1,1,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Dusk/Dawn,Primary Arterial,Summer,Very Light,1
+17,70,2.726,0.46,29.59,68.16,3.2,-0.9659,-0.2588,0.866,-0.5,-0.4339,-0.901,18.787,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Summer,Very Light,1
+21,50,2.679,0.6,30.79,63.05,3.11,-0.7071,0.7071,0.0,-1.0,-0.4339,-0.901,13.591,0,0,1,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,0
+20,50,0.152,5.7,25.12,89.82,3.72,-0.866,0.5,0.5,0.866,0.4339,-0.901,43.403,0,1,1,0,1,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Winter,Moderate Rain,1
+13,40,0.996,0.04,30.59,67.81,3.26,-0.2588,-0.9659,0.866,-0.5,-0.7818,0.6235,20.04,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Roundabout,Daylight,Secondary Road,Summer,No Rain,0
+20,40,0.99,0.0,25.73,73.84,2.98,-0.866,0.5,1.0,0.0,0.7818,0.6235,20.101,0,1,1,0,0,0,0,0,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Summer,No Rain,1
+21,50,2.103,0.05,28.44,77.69,5.65,-0.7071,0.7071,-1.0,-0.0,0.0,1.0,16.113,0,0,1,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,No Rain,1
+18,50,0.275,0.6,30.79,63.05,3.11,-1.0,-0.0,0.0,-1.0,-0.4339,-0.901,39.216,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Very Light,1
+20,50,2.648,0.0,23.78,73.74,5.09,-0.866,0.5,0.866,0.5,0.0,1.0,13.706,0,1,1,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Winter,No Rain,0
+9,40,1.266,0.6,30.79,63.05,3.11,0.7071,-0.7071,0.0,-1.0,-0.4339,-0.901,17.652,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+11,30,0.588,0.0,23.58,76.0,4.33,0.2588,-0.9659,-0.0,1.0,0.0,1.0,18.892,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Local / Residential,Northeast Monsoon,No Rain,1
+9,40,1.426,21.55,26.93,87.39,2.23,0.7071,-0.7071,-0.866,-0.5,-0.4339,-0.901,16.488,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Heavy Rain,1
+18,40,0.568,0.0,23.62,73.36,2.19,-1.0,-0.0,-0.0,1.0,-0.9749,-0.2225,25.51,1,1,0,0,0,0,0,0,1,Two-Wheeler,Bridge/Flyover,Dusk/Dawn,Secondary Road,Northeast Monsoon,No Rain,1
+10,70,0.535,3.75,30.19,69.18,3.72,0.5,-0.866,0.0,-1.0,0.7818,0.6235,45.603,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,0
+7,40,2.671,37.11,27.14,88.45,3.12,0.9659,-0.2588,-0.866,0.5,0.7818,0.6235,10.896,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,0
+7,70,0.201,8.8,27.14,80.63,3.89,0.9659,-0.2588,-1.0,-0.0,-0.4339,-0.901,58.285,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,1
+8,50,1.11,0.01,24.47,81.58,3.57,0.866,-0.5,0.5,0.866,0.9749,-0.2225,23.697,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,1
+12,70,1.553,30.77,25.71,90.13,3.17,0.0,-1.0,-0.5,0.866,0.9749,-0.2225,27.419,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,0
+10,40,1.162,3.02,28.06,86.34,2.55,0.5,-0.866,-0.866,0.5,-0.7818,0.6235,18.501,1,1,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,0
+10,50,0.977,3.17,27.58,85.61,3.15,0.5,-0.866,-0.866,0.5,0.4339,-0.901,25.291,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+16,30,0.917,4.75,28.6,77.94,4.63,-0.866,-0.5,-0.866,-0.5,0.7818,0.6235,15.649,0,0,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,1
+15,40,0.721,0.46,29.59,68.16,3.2,-0.7071,-0.7071,0.866,-0.5,-0.4339,-0.901,23.242,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Summer,Very Light,1
+14,40,3.057,0.53,28.07,79.24,3.87,-0.5,-0.866,-1.0,-0.0,-0.4339,-0.901,9.86,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Very Light,0
+3,50,1.874,0.0,25.56,71.3,2.23,0.7071,0.7071,1.0,0.0,-0.4339,-0.901,17.397,0,0,1,1,0,0,0,0,1,Pedestrian/Bicycle,Bridge/Flyover,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,0
+12,40,0.01,0.0,30.43,62.89,4.0,0.0,-1.0,1.0,0.0,0.7818,0.6235,39.604,0,0,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,0
+7,70,2.68,1.38,28.35,74.71,3.89,0.9659,-0.2588,-0.5,-0.866,0.7818,0.6235,19.022,0,0,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,0
+20,50,0.872,3.81,28.44,83.88,3.12,-0.866,0.5,-0.866,0.5,-0.4339,-0.901,26.709,0,1,1,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Northeast Monsoon,Moderate Rain,0
+13,40,2.37,0.0,23.28,70.24,2.6,-0.2588,-0.9659,0.866,0.5,-0.4339,-0.901,11.869,0,0,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Winter,No Rain,0
+9,40,1.143,0.93,26.63,84.65,3.75,0.7071,-0.7071,-0.866,0.5,0.0,1.0,18.665,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Very Light,1
+9,70,0.201,0.0,26.05,75.21,3.01,0.7071,-0.7071,1.0,0.0,0.0,1.0,58.285,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+0,70,1.237,0.0,25.21,70.83,2.02,0.0,1.0,0.866,0.5,0.4339,-0.901,31.292,0,0,1,1,0,0,1,0,0,Bus,Mid-block / Straight Road,Night - Streetlights Lit,Trunk Highway / Express Corridor,Winter,No Rain,0
+20,50,0.91,0.0,27.6,66.3,2.63,-0.866,0.5,1.0,0.0,0.0,1.0,26.178,0,1,1,0,0,0,1,0,0,Truck/Lorry,T-Junction,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,1
+17,50,1.732,0.0,25.35,76.26,3.08,-0.9659,-0.2588,0.866,0.5,-0.9749,-0.2225,18.302,1,1,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,0
+22,50,1.354,0.54,30.36,62.24,3.44,-0.5,0.866,0.0,-1.0,0.0,1.0,21.24,0,0,1,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,1
+9,50,1.587,0.0,26.05,69.28,2.72,0.7071,-0.7071,1.0,0.0,-0.4339,-0.901,19.327,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Roundabout,Daylight,Primary Arterial,Summer,No Rain,1
+6,70,0.415,0.0,23.99,77.33,3.87,1.0,0.0,0.5,0.866,0.7818,0.6235,49.47,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,1
+14,40,0.215,1.37,28.25,81.59,3.06,-0.5,-0.866,-1.0,-0.0,0.4339,-0.901,32.922,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+16,30,1.864,6.91,27.37,79.09,4.65,-0.866,-0.5,-1.0,-0.0,0.0,1.0,10.475,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,1
+20,40,0.288,0.0,23.62,73.36,2.19,-0.866,0.5,-0.0,1.0,-0.9749,-0.2225,31.056,1,1,1,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,No Rain,1
+19,50,1.449,1.86,31.56,64.6,4.32,-0.9659,0.2588,0.5,-0.866,0.0,1.0,20.416,0,1,0,0,1,1,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Summer,Very Light,1
+15,70,0.197,2.72,28.27,78.55,3.07,-0.7071,-0.7071,-0.866,-0.5,-0.4339,-0.901,58.48,0,0,0,0,1,0,0,1,0,Bus,Bridge/Flyover,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,1
+20,40,0.112,4.75,28.6,77.94,4.63,-0.866,0.5,-0.866,-0.5,0.7818,0.6235,35.971,0,1,1,0,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,0
+14,50,1.404,1.63,28.68,76.66,5.08,-0.5,-0.866,-0.5,-0.866,0.9749,-0.2225,20.799,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+11,30,1.216,0.25,29.4,71.61,4.85,0.2588,-0.9659,-0.5,-0.866,0.4339,-0.901,13.538,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Local / Residential,Southwest Monsoon,Very Light,1
+11,40,1.774,0.0,25.35,76.26,3.08,0.2588,-0.9659,0.866,0.5,-0.9749,-0.2225,14.42,1,0,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Winter,No Rain,1
+16,50,0.903,7.02,27.25,81.85,3.28,-0.866,-0.5,-1.0,-0.0,0.4339,-0.901,26.274,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+11,50,0.086,5.0,26.3,89.74,2.88,0.2588,-0.9659,-0.5,0.866,0.0,1.0,46.041,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+8,40,0.147,18.56,28.63,80.28,3.56,0.866,-0.5,-0.5,-0.866,-0.4339,-0.901,34.874,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Heavy Rain,1
+9,40,2.251,0.0,25.33,84.5,2.63,0.7071,-0.7071,0.5,0.866,-0.4339,-0.901,12.304,0,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Winter,No Rain,1
+13,70,0.894,3.81,28.44,83.88,3.12,-0.2588,-0.9659,-0.866,0.5,-0.4339,-0.901,36.959,0,0,0,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,0
+7,40,1.622,1.74,27.49,82.14,1.78,0.9659,-0.2588,-0.866,0.5,0.9749,-0.2225,15.256,0,0,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,Very Light,1
+11,40,0.34,3.63,26.11,86.87,5.79,0.2588,-0.9659,-0.5,0.866,-0.4339,-0.901,29.851,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+8,70,0.829,2.72,28.27,78.55,3.07,0.866,-0.5,-0.866,-0.5,-0.4339,-0.901,38.272,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,1
+12,50,1.023,0.93,26.63,84.65,3.75,0.0,-1.0,-0.866,0.5,0.0,1.0,24.716,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+12,70,0.45,0.0,30.49,68.04,3.8,0.0,-1.0,0.866,-0.5,0.0,1.0,48.276,0,0,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+21,40,2.415,2.72,28.27,78.55,3.07,-0.7071,0.7071,-0.866,-0.5,-0.4339,-0.901,11.713,0,0,1,0,1,0,0,1,1,Two-Wheeler,Roundabout,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,1
+11,50,1.069,0.01,31.1,65.79,2.98,0.2588,-0.9659,0.0,-1.0,0.9749,-0.2225,24.166,0,0,0,0,0,0,0,0,1,Pedestrian/Bicycle,Bridge/Flyover,Daylight,Primary Arterial,Southwest Monsoon,No Rain,1
+6,50,0.727,0.54,29.81,70.88,5.57,1.0,0.0,0.0,-1.0,0.7818,0.6235,28.952,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+17,50,0.227,0.01,31.1,65.79,2.98,-0.9659,-0.2588,0.0,-1.0,0.9749,-0.2225,40.75,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,No Rain,1
+8,40,3.082,0.51,27.32,83.57,1.67,0.866,-0.5,-0.866,0.5,-0.4339,-0.901,9.799,0,1,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Secondary Road,Northeast Monsoon,Very Light,1
+20,40,1.189,16.13,29.19,79.81,2.6,-0.866,0.5,-0.5,-0.866,-0.4339,-0.901,18.273,0,1,1,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Heavy Rain,1
+7,30,1.216,8.8,27.14,80.63,3.89,0.9659,-0.2588,-1.0,-0.0,-0.4339,-0.901,13.538,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,0
+15,30,1.525,2.6,27.99,82.21,3.28,-0.7071,-0.7071,-1.0,-0.0,0.4339,-0.901,11.881,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,0
+11,70,2.888,11.24,28.09,78.8,3.07,0.2588,-0.9659,-0.5,-0.866,0.9749,-0.2225,18.004,0,0,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,1
+4,50,0.28,9.8,28.66,73.87,2.87,0.866,0.5,0.866,-0.5,0.4339,-0.901,39.062,0,0,1,1,1,1,1,0,0,Truck/Lorry,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Summer,Moderate Rain,1
+15,50,0.629,1.38,28.35,74.71,3.89,-0.7071,-0.7071,-0.5,-0.866,0.7818,0.6235,30.694,0,0,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+21,50,1.309,0.07,31.32,64.2,3.98,-0.7071,0.7071,0.5,-0.866,0.4339,-0.901,21.654,0,0,1,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,0
+5,50,0.09,58.61,26.09,90.36,6.4,0.9659,0.2588,-0.5,0.866,-0.4339,-0.901,45.872,0,0,1,0,1,0,1,0,0,Bus,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+9,30,2.39,0.3,25.18,86.05,3.81,0.7071,-0.7071,0.5,0.866,-0.9749,-0.2225,8.85,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Winter,Very Light,1
+18,40,0.943,23.68,26.42,86.5,3.88,-1.0,-0.0,-0.5,0.866,0.7818,0.6235,20.587,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Secondary Road,Northeast Monsoon,Heavy Rain,1
+9,30,1.057,0.0,23.28,70.24,2.6,0.7071,-0.7071,0.866,0.5,-0.4339,-0.901,14.584,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Winter,No Rain,1
+17,50,1.021,0.0,23.89,80.05,5.38,-0.9659,-0.2588,-0.0,1.0,-0.9749,-0.2225,24.74,1,1,0,0,0,0,0,0,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,No Rain,1
+7,50,0.879,2.29,26.64,88.2,3.55,0.9659,-0.2588,-0.5,0.866,0.7818,0.6235,26.61,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Very Light,0
+19,50,0.441,2.87,26.34,87.86,3.81,-0.9659,0.2588,-0.5,0.866,0.9749,-0.2225,34.698,0,1,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Night - Streetlights Lit,Primary Arterial,Northeast Monsoon,Moderate Rain,0
+17,40,0.267,0.0,28.32,67.15,2.48,-0.9659,-0.2588,1.0,0.0,0.9749,-0.2225,31.571,0,1,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,1
+17,40,2.192,0.0,24.49,77.96,3.39,-0.9659,-0.2588,0.5,0.866,-0.9749,-0.2225,12.531,1,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Winter,No Rain,0
+14,50,0.454,4.59,28.26,81.32,3.28,-0.5,-0.866,-1.0,-0.0,0.7818,0.6235,34.388,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+16,40,0.438,0.4,29.95,60.72,6.44,-0.866,-0.5,0.0,-1.0,0.0,1.0,27.816,0,0,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Secondary Road,Southwest Monsoon,Very Light,0
+5,30,1.201,75.19,24.83,93.4,8.96,0.9659,0.2588,-0.5,0.866,0.4339,-0.901,13.63,0,0,1,0,1,0,1,0,0,Bus,Mid-block / Straight Road,Dusk/Dawn,Local / Residential,Northeast Monsoon,Heavy Rain,0
+16,50,0.185,4.45,27.94,82.9,1.94,-0.866,-0.5,-0.866,0.5,-0.7818,0.6235,42.194,1,0,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+20,50,3.163,11.08,29.45,70.36,3.29,-0.866,0.5,0.866,-0.5,0.9749,-0.2225,12.011,0,1,1,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Summer,Moderate Rain,0
+17,30,1.408,5.0,26.3,89.74,2.88,-0.9659,-0.2588,-0.5,0.866,0.0,1.0,12.458,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Local / Residential,Northeast Monsoon,Moderate Rain,0
+18,50,2.446,3.67,29.32,70.51,4.8,-1.0,-0.0,0.5,-0.866,0.0,1.0,14.51,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Roundabout,Dusk/Dawn,Primary Arterial,Summer,Moderate Rain,1
+17,50,0.856,1.7,29.33,73.9,3.03,-0.9659,-0.2588,-0.5,-0.866,0.0,1.0,26.94,0,1,0,0,1,0,0,1,0,Bus,Bridge/Flyover,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+16,40,0.391,0.38,30.07,69.84,3.89,-0.866,-0.5,0.5,-0.866,-0.7818,0.6235,28.756,1,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Summer,Very Light,0
+20,50,0.139,61.12,25.53,92.82,4.06,-0.866,0.5,-0.5,0.866,-0.7818,0.6235,43.898,1,1,1,0,1,1,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+10,50,0.829,0.0,24.41,74.19,2.09,0.5,-0.866,0.5,0.866,-0.7818,0.6235,27.337,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,1
+9,70,0.633,5.98,27.63,78.27,2.08,0.7071,-0.7071,-0.866,0.5,-0.7818,0.6235,42.866,1,1,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+4,40,0.489,0.18,31.03,66.44,3.82,0.866,0.5,0.5,-0.866,-0.9749,-0.2225,26.864,1,0,1,1,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Summer,Very Light,1
+18,50,1.716,0.38,30.07,69.84,3.89,-1.0,-0.0,0.5,-0.866,-0.7818,0.6235,18.409,1,1,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Summer,Very Light,1
+9,70,0.937,0.04,30.59,67.81,3.26,0.7071,-0.7071,0.866,-0.5,-0.7818,0.6235,36.138,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+6,40,0.425,7.5,26.66,88.16,2.35,1.0,0.0,-0.5,0.866,-0.7818,0.6235,28.07,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,0
+6,50,0.232,0.38,30.07,69.84,3.89,1.0,0.0,0.5,-0.866,-0.7818,0.6235,40.584,1,0,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Primary Arterial,Summer,Very Light,1
+11,50,1.089,4.16,27.19,82.65,2.13,0.2588,-0.9659,-0.866,0.5,0.7818,0.6235,23.935,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+16,50,0.486,0.75,31.67,68.77,4.51,-0.866,-0.5,0.5,-0.866,0.4339,-0.901,33.647,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Summer,Very Light,1
+9,50,3.114,0.01,30.79,67.24,3.59,0.7071,-0.7071,0.866,-0.5,0.9749,-0.2225,12.154,0,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,0
+8,40,1.125,0.07,30.16,62.14,5.32,0.866,-0.5,0.0,-1.0,-0.4339,-0.901,18.824,0,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Southwest Monsoon,No Rain,1
+20,50,0.355,15.69,28.67,77.17,3.4,-0.866,0.5,-0.5,-0.866,0.4339,-0.901,36.9,0,1,1,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Heavy Rain,1
+22,70,0.341,37.11,27.14,88.45,3.12,-0.5,0.866,-0.866,0.5,0.7818,0.6235,52.2,0,0,1,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,0
+19,30,0.289,2.16,29.34,67.78,4.03,-0.9659,0.2588,0.0,-1.0,0.0,1.0,23.274,0,1,0,0,1,1,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Dark / Poor Lighting,Local / Residential,Southwest Monsoon,Very Light,1
+17,40,1.864,0.0,23.5,71.32,2.75,-0.9659,-0.2588,0.866,0.5,-0.9749,-0.2225,13.966,1,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Winter,No Rain,1
+9,70,2.499,0.0,23.77,76.78,3.47,0.7071,-0.7071,0.5,0.866,-0.7818,0.6235,20.006,1,1,0,0,0,0,0,0,0,Bus,Bridge/Flyover,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,1
+11,70,1.597,1.78,30.51,58.87,5.71,0.2588,-0.9659,0.0,-1.0,-0.9749,-0.2225,26.954,1,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,1
+9,50,0.982,0.01,30.79,67.24,3.59,0.7071,-0.7071,0.866,-0.5,0.9749,-0.2225,25.227,0,1,0,0,0,0,0,0,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Summer,No Rain,1
+10,30,0.322,0.0,25.56,71.3,2.23,0.5,-0.866,1.0,0.0,-0.4339,-0.901,22.693,0,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Local / Residential,Summer,No Rain,1
+16,50,0.22,0.0,32.34,60.03,4.33,-0.866,-0.5,0.866,-0.5,-0.4339,-0.901,40.984,0,0,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Summer,No Rain,0
+17,40,0.664,2.22,25.13,77.02,4.35,-0.9659,-0.2588,0.866,0.5,-0.4339,-0.901,24.038,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Secondary Road,Winter,Very Light,1
+16,70,0.974,3.17,27.55,76.29,4.34,-0.866,-0.5,-0.5,-0.866,-0.7818,0.6235,35.461,1,0,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,1
+12,30,2.497,1.87,28.12,79.09,2.48,0.0,-1.0,-1.0,-0.0,-0.4339,-0.901,8.579,0,0,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Local / Residential,Southwest Monsoon,Very Light,1
+10,50,0.111,0.0,25.11,78.3,3.02,0.5,-0.866,0.866,0.5,0.7818,0.6235,45.005,0,1,0,0,0,0,0,0,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,1
+2,30,0.822,0.71,30.97,68.59,4.88,0.5,0.866,0.5,-0.866,0.0,1.0,16.465,0,0,1,1,1,1,0,1,1,Two-Wheeler,T-Junction,Night - Dark / Poor Lighting,Local / Residential,Summer,Very Light,1
+9,40,0.488,12.49,29.57,71.3,2.07,0.7071,-0.7071,0.0,-1.0,-0.9749,-0.2225,26.882,1,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+7,40,0.446,33.34,27.61,83.03,3.34,0.9659,-0.2588,-0.5,-0.866,-0.9749,-0.2225,27.663,1,0,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Heavy Rain,1
+5,40,0.348,18.47,25.87,90.86,3.66,0.9659,0.2588,-0.5,0.866,0.4339,-0.901,29.674,0,0,1,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Secondary Road,Northeast Monsoon,Heavy Rain,1
+19,50,0.876,0.0,24.42,74.63,4.18,-0.9659,0.2588,0.866,0.5,0.4339,-0.901,26.652,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Winter,No Rain,0
+10,70,0.461,40.64,26.64,87.96,3.2,0.5,-0.866,-0.5,0.866,-0.7818,0.6235,47.912,1,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,0
+20,30,0.221,29.98,25.83,92.6,5.53,-0.866,0.5,-0.5,0.866,-0.9749,-0.2225,24.57,1,1,1,0,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Local / Residential,Northeast Monsoon,Heavy Rain,0
+17,50,0.873,0.57,30.03,65.59,3.15,-0.9659,-0.2588,0.866,-0.5,0.7818,0.6235,26.695,0,1,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Summer,Very Light,1
+0,30,2.85,0.0,25.33,84.5,2.63,0.0,1.0,0.5,0.866,-0.4339,-0.901,7.792,0,0,1,1,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Local / Residential,Winter,No Rain,1
+20,50,0.295,4.16,27.19,82.65,2.13,-0.866,0.5,-0.866,0.5,0.7818,0.6235,38.61,0,1,1,0,1,0,1,1,0,Bus,T-Junction,Night - Streetlights Lit,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+16,50,0.555,20.62,26.72,89.65,7.25,-0.866,-0.5,-0.5,0.866,-0.4339,-0.901,32.154,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+19,50,1.165,0.0,26.48,73.74,2.57,-0.9659,0.2588,1.0,0.0,-0.7818,0.6235,23.095,1,1,0,0,0,0,0,0,0,Bus,T-Junction,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,0
+22,70,2.023,1.22,26.09,86.45,4.89,-0.5,0.866,-0.0,1.0,0.9749,-0.2225,23.156,0,0,1,0,1,0,1,0,0,Bus,Mid-block / Straight Road,Night - Streetlights Lit,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+18,50,0.568,0.0,26.75,65.68,2.68,-1.0,-0.0,1.0,0.0,-0.9749,-0.2225,31.888,1,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Summer,No Rain,1
+8,30,0.133,0.0,28.49,67.19,2.64,0.866,-0.5,1.0,0.0,0.4339,-0.901,26.478,0,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Local / Residential,Summer,No Rain,1
+11,40,0.372,0.0,26.69,75.07,2.79,0.2588,-0.9659,1.0,0.0,0.0,1.0,29.155,0,0,0,0,0,0,0,0,1,Pedestrian/Bicycle,Four-arm Cross,Daylight,Secondary Road,Summer,No Rain,1
+10,40,2.575,0.91,29.23,75.12,4.39,0.5,-0.866,-0.5,-0.866,-0.9749,-0.2225,11.189,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+12,50,1.334,5.19,28.57,75.73,6.04,0.0,-1.0,0.5,-0.866,0.7818,0.6235,21.422,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Moderate Rain,1
+10,50,0.78,0.03,30.57,70.44,3.45,0.5,-0.866,0.866,-0.5,0.7818,0.6235,28.09,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+20,40,2.113,0.51,27.32,83.57,1.67,-0.866,0.5,-0.866,0.5,-0.4339,-0.901,12.849,0,1,1,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Very Light,1
+20,70,0.161,23.68,26.42,86.5,3.88,-0.866,0.5,-0.5,0.866,0.7818,0.6235,60.293,0,1,1,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Night - Streetlights Lit,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,1
+17,40,0.794,2.34,25.32,83.63,5.49,-0.9659,-0.2588,-0.0,1.0,0.7818,0.6235,22.297,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Very Light,0
+11,50,0.233,0.01,24.47,81.58,3.57,0.2588,-0.9659,0.5,0.866,0.9749,-0.2225,40.552,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Winter,No Rain,1
+6,70,1.131,2.35,25.77,84.35,4.43,1.0,0.0,-0.0,1.0,-0.4339,-0.901,32.848,0,0,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+7,30,0.872,3.18,27.5,83.95,3.6,0.9659,-0.2588,-0.866,-0.5,0.4339,-0.901,16.026,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,0
+21,50,0.303,2.4,27.49,75.01,4.81,-0.7071,0.7071,-0.5,-0.866,0.0,1.0,38.373,0,0,1,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,1
+13,40,0.819,0.04,28.42,79.69,4.88,-0.2588,-0.9659,-1.0,-0.0,0.7818,0.6235,21.99,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,No Rain,1
+11,70,2.276,0.07,31.24,61.36,3.94,0.2588,-0.9659,0.5,-0.866,-0.4339,-0.901,21.368,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+11,40,1.622,0.48,24.66,80.87,5.58,0.2588,-0.9659,-0.0,1.0,0.4339,-0.901,15.256,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Northeast Monsoon,Very Light,1
+20,70,0.183,0.04,31.66,63.83,4.22,-0.866,0.5,0.5,-0.866,0.0,1.0,59.172,0,1,1,0,0,1,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Dark / Poor Lighting,Trunk Highway / Express Corridor,Summer,No Rain,0
+23,30,0.087,40.12,25.04,93.15,3.46,-0.2588,0.9659,0.5,0.866,0.9749,-0.2225,27.599,0,0,1,1,1,1,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Night - Dark / Poor Lighting,Local / Residential,Winter,Heavy Rain,1
+14,50,1.765,2.16,29.34,67.78,4.03,-0.5,-0.866,0.0,-1.0,0.0,1.0,18.083,0,0,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+9,70,1.579,0.81,23.66,80.7,4.6,0.7071,-0.7071,0.5,0.866,-0.4339,-0.901,27.142,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Winter,Very Light,1
+16,30,2.223,0.0,30.0,70.4,2.98,-0.866,-0.5,0.866,-0.5,-0.9749,-0.2225,9.308,1,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Summer,No Rain,1
+20,50,1.645,16.04,27.5,80.44,3.31,-0.866,0.5,-0.866,-0.5,-0.9749,-0.2225,18.904,1,1,1,0,1,1,0,1,1,Two-Wheeler,T-Junction,Night - Dark / Poor Lighting,Primary Arterial,Southwest Monsoon,Heavy Rain,1
+6,40,0.633,1.78,30.51,58.87,5.71,1.0,0.0,0.0,-1.0,-0.9749,-0.2225,24.495,1,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Very Light,0
+13,40,0.485,0.06,28.14,79.05,4.56,-0.2588,-0.9659,-1.0,-0.0,-0.9749,-0.2225,26.936,1,0,0,0,0,0,0,0,0,Bus,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,No Rain,1
+8,50,0.207,8.96,29.76,77.23,2.87,0.866,-0.5,-0.866,-0.5,0.0,1.0,41.425,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+18,40,1.961,0.24,27.8,83.46,3.36,-1.0,-0.0,-0.866,0.5,0.4339,-0.901,13.509,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Secondary Road,Northeast Monsoon,Very Light,1
+18,30,2.42,6.91,27.37,79.09,4.65,-1.0,-0.0,-1.0,-0.0,0.0,1.0,8.772,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Dusk/Dawn,Local / Residential,Southwest Monsoon,Moderate Rain,0
+3,30,1.077,3.17,27.58,85.61,3.15,0.7071,0.7071,-0.866,0.5,0.4339,-0.901,14.444,0,0,1,1,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Night - Streetlights Lit,Local / Residential,Northeast Monsoon,Moderate Rain,0
+10,50,0.153,0.75,31.67,68.77,4.51,0.5,-0.866,0.5,-0.866,0.4339,-0.901,43.365,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Summer,Very Light,1
+10,40,0.391,3.13,29.64,76.39,3.27,0.5,-0.866,-0.866,-0.5,-0.7818,0.6235,28.756,1,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+11,70,0.395,0.4,29.95,60.72,6.44,0.2588,-0.9659,0.0,-1.0,0.0,1.0,50.179,0,0,0,0,1,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,1
+14,30,2.306,4.82,30.14,72.95,3.26,-0.5,-0.866,0.5,-0.866,0.4339,-0.901,9.074,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Local / Residential,Summer,Moderate Rain,0
+16,50,1.451,40.64,26.64,87.96,3.2,-0.866,-0.5,-0.5,0.866,-0.7818,0.6235,20.4,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+8,50,0.587,0.0,25.26,71.58,2.63,0.866,-0.5,0.866,0.5,-0.4339,-0.901,31.506,0,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,0
+14,70,0.872,0.54,27.19,85.22,2.07,-0.5,-0.866,-0.866,0.5,-0.9749,-0.2225,37.393,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+8,70,1.721,0.14,24.43,89.59,4.38,0.866,-0.5,-0.0,1.0,-0.4339,-0.901,25.726,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+17,40,1.658,0.0,23.28,70.24,2.6,-0.9659,-0.2588,0.866,0.5,-0.4339,-0.901,15.049,0,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Winter,No Rain,0
+10,70,0.76,0.0,24.61,81.15,2.66,0.5,-0.866,0.5,0.866,-0.9749,-0.2225,39.773,1,1,0,0,0,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,0
+18,50,0.063,12.49,29.57,71.3,2.07,-1.0,-0.0,0.0,-1.0,-0.9749,-0.2225,47.037,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+15,40,0.504,1.7,29.33,73.9,3.03,-0.7071,-0.7071,-0.5,-0.866,0.0,1.0,26.596,0,0,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+3,70,2.651,0.01,31.1,65.79,2.98,0.7071,0.7071,0.0,-1.0,0.9749,-0.2225,19.173,0,0,1,1,0,0,1,0,0,Truck/Lorry,Bridge/Flyover,Night - Streetlights Lit,Trunk Highway / Express Corridor,Southwest Monsoon,No Rain,1
+17,50,0.261,0.0,23.5,77.93,5.18,-0.9659,-0.2588,-0.0,1.0,-0.7818,0.6235,39.651,1,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,No Rain,1
+6,70,1.98,0.0,23.5,71.32,2.75,1.0,0.0,0.866,0.5,-0.9749,-0.2225,23.49,1,0,0,0,0,0,0,0,0,Auto-rickshaw,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,1
+6,70,0.178,3.67,29.32,70.51,4.8,1.0,0.0,0.5,-0.866,0.0,1.0,59.423,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,Moderate Rain,0
+19,50,0.228,2.25,27.5,79.6,4.48,-0.9659,0.2588,-1.0,-0.0,0.7818,0.6235,40.717,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,1
+17,70,0.547,3.98,25.84,86.13,4.15,-0.9659,-0.2588,-0.0,1.0,0.4339,-0.901,45.249,0,1,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+13,70,2.058,15.69,28.67,77.17,3.4,-0.2588,-0.9659,-0.5,-0.866,0.4339,-0.901,22.891,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Heavy Rain,1
+19,50,2.247,3.03,30.22,73.42,4.92,-0.9659,0.2588,0.0,-1.0,0.9749,-0.2225,15.399,0,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+9,50,1.927,0.0,26.69,75.07,2.79,0.7071,-0.7071,1.0,0.0,0.0,1.0,17.082,0,1,0,0,0,0,0,0,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Summer,No Rain,1
+18,40,2.093,0.0,25.21,70.83,2.02,-1.0,-0.0,0.866,0.5,0.4339,-0.901,12.932,0,1,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Dusk/Dawn,Secondary Road,Winter,No Rain,1
+14,70,0.573,0.0,28.49,67.19,2.64,-0.5,-0.866,1.0,0.0,0.4339,-0.901,44.501,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+15,40,0.118,0.57,30.03,65.59,3.15,-0.7071,-0.7071,0.866,-0.5,0.7818,0.6235,35.778,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Summer,Very Light,1
+10,50,2.155,0.0,23.99,77.33,3.87,0.5,-0.866,0.5,0.866,0.7818,0.6235,15.848,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Winter,No Rain,1
+14,40,0.606,0.0,23.62,73.36,2.19,-0.5,-0.866,-0.0,1.0,-0.9749,-0.2225,24.907,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,No Rain,1
+16,50,0.864,1.62,27.82,86.08,3.36,-0.866,-0.5,-0.866,0.5,-0.9749,-0.2225,26.824,1,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Very Light,0
+17,50,1.029,0.17,25.44,79.29,3.94,-0.9659,-0.2588,0.866,0.5,0.0,1.0,24.643,0,1,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Daylight,Primary Arterial,Winter,Very Light,1
+19,40,0.951,25.07,26.71,86.27,3.22,-0.9659,0.2588,-0.866,0.5,-0.4339,-0.901,20.502,0,1,0,0,1,0,0,1,0,Bus,Roundabout,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Heavy Rain,0
+17,50,2.413,8.8,27.14,80.63,3.89,-0.9659,-0.2588,-1.0,-0.0,-0.4339,-0.901,14.65,0,1,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+16,50,1.532,4.07,29.57,75.8,3.95,-0.866,-0.5,-0.866,-0.5,-0.9749,-0.2225,19.747,1,0,0,0,1,0,0,1,1,Pedestrian/Bicycle,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+14,40,0.568,0.17,25.44,79.29,3.94,-0.5,-0.866,0.866,0.5,0.0,1.0,25.51,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Winter,Very Light,1
+17,40,0.354,0.0,28.9,67.68,3.99,-0.9659,-0.2588,0.866,-0.5,-0.4339,-0.901,29.542,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Roundabout,Daylight,Secondary Road,Summer,No Rain,1
+15,40,1.976,0.01,26.0,81.81,2.28,-0.7071,-0.7071,-0.0,1.0,-0.9749,-0.2225,13.441,1,0,0,0,0,0,0,0,0,Auto-rickshaw,Bridge/Flyover,Daylight,Secondary Road,Northeast Monsoon,No Rain,0
+5,50,0.844,4.82,30.14,72.95,3.26,0.9659,0.2588,0.5,-0.866,0.4339,-0.901,27.115,0,0,1,0,1,0,0,1,1,Two-Wheeler,T-Junction,Dusk/Dawn,Primary Arterial,Summer,Moderate Rain,1
+9,50,0.902,0.52,30.86,59.46,5.83,0.7071,-0.7071,0.0,-1.0,0.9749,-0.2225,26.288,0,1,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+18,50,1.004,0.46,29.59,68.16,3.2,-1.0,-0.0,0.866,-0.5,-0.4339,-0.901,24.95,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Summer,Very Light,1
+4,30,0.438,1.83,28.63,74.76,3.99,0.866,0.5,-0.866,-0.5,-0.9749,-0.2225,20.862,1,0,1,1,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Local / Residential,Southwest Monsoon,Very Light,0
+16,40,0.519,4.41,29.73,70.59,4.61,-0.866,-0.5,-0.5,-0.866,-0.9749,-0.2225,26.333,1,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+20,70,0.532,0.0,27.14,70.58,2.65,-0.866,0.5,1.0,0.0,0.4339,-0.901,45.692,0,1,1,0,0,1,1,0,0,Truck/Lorry,Four-arm Cross,Night - Dark / Poor Lighting,Trunk Highway / Express Corridor,Summer,No Rain,1
+10,40,0.361,0.0,24.14,72.46,2.68,0.5,-0.866,0.5,0.866,0.7818,0.6235,29.39,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Winter,No Rain,0
+9,50,0.805,0.92,24.37,79.08,3.45,0.7071,-0.7071,-0.0,1.0,0.9749,-0.2225,27.701,0,1,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+10,50,0.566,0.15,26.58,82.01,1.82,0.5,-0.866,-0.0,1.0,-0.7818,0.6235,31.928,1,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+19,40,0.161,0.0,24.55,71.81,2.19,-0.9659,0.2588,0.5,0.866,0.0,1.0,34.453,0,1,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Winter,No Rain,0
+10,50,0.507,0.26,32.33,64.26,4.21,0.5,-0.866,0.5,-0.866,0.7818,0.6235,33.179,0,1,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Very Light,1
+18,40,2.292,1.06,29.18,77.31,3.49,-1.0,-0.0,-0.5,-0.866,0.9749,-0.2225,12.151,0,1,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Dusk/Dawn,Secondary Road,Southwest Monsoon,Very Light,1
+19,40,0.31,0.11,31.7,65.24,3.59,-0.9659,0.2588,0.0,-1.0,0.7818,0.6235,30.534,0,1,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Very Light,1
+17,30,0.932,0.06,28.14,79.05,4.56,-0.9659,-0.2588,-1.0,-0.0,-0.9749,-0.2225,15.528,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Roundabout,Daylight,Local / Residential,Southwest Monsoon,No Rain,0
+19,40,0.633,3.57,28.91,71.41,3.23,-0.9659,0.2588,-0.866,-0.5,0.0,1.0,24.495,0,1,0,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Moderate Rain,0
+14,30,2.079,12.16,26.38,86.49,5.12,-0.5,-0.866,-1.0,-0.0,-0.9749,-0.2225,9.743,1,0,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,1
+7,50,0.628,6.04,28.44,80.78,2.85,0.9659,-0.2588,-1.0,-0.0,-0.7818,0.6235,30.713,1,0,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+1,50,1.37,5.7,25.12,89.82,3.72,0.2588,0.9659,0.5,0.866,0.4339,-0.901,21.097,0,0,1,1,1,0,1,1,0,Bus,Bridge/Flyover,Night - Streetlights Lit,Primary Arterial,Winter,Moderate Rain,1
+10,40,1.661,7.28,28.31,82.06,2.49,0.5,-0.866,-1.0,-0.0,-0.9749,-0.2225,15.032,1,1,0,0,1,0,0,1,0,Auto-rickshaw,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+19,30,0.18,21.37,26.41,88.91,3.88,-0.9659,0.2588,-0.5,0.866,0.0,1.0,25.424,0,1,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Night - Streetlights Lit,Local / Residential,Northeast Monsoon,Heavy Rain,0
+12,50,0.752,21.25,28.19,79.6,3.18,0.0,-1.0,-1.0,-0.0,0.9749,-0.2225,28.539,0,0,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Heavy Rain,1
+10,50,2.19,0.0,23.78,73.74,5.09,0.5,-0.866,0.866,0.5,0.0,1.0,15.674,0,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,0
+19,50,2.547,1.89,31.01,61.63,3.59,-0.9659,0.2588,0.0,-1.0,-0.9749,-0.2225,14.096,1,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,1
+9,50,0.321,0.0,25.35,76.26,3.08,0.7071,-0.7071,0.866,0.5,-0.9749,-0.2225,37.85,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,0
+11,40,1.097,3.05,30.24,69.94,6.35,0.2588,-0.9659,0.5,-0.866,-0.7818,0.6235,19.075,1,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Summer,Moderate Rain,0
+17,40,1.1,0.0,27.25,73.2,3.08,-0.9659,-0.2588,1.0,0.0,0.4339,-0.901,19.048,0,1,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,0
+23,70,1.923,0.54,27.19,85.22,2.07,-0.2588,0.9659,-0.866,0.5,-0.9749,-0.2225,23.948,1,0,1,1,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+18,40,0.807,0.0,23.05,71.29,2.86,-1.0,-0.0,0.866,0.5,0.4339,-0.901,22.136,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Dusk/Dawn,Secondary Road,Winter,No Rain,0
+4,40,2.353,0.26,30.9,66.19,2.82,0.866,0.5,0.866,-0.5,-0.4339,-0.901,11.93,0,0,1,1,1,1,0,1,1,Two-Wheeler,T-Junction,Night - Dark / Poor Lighting,Secondary Road,Summer,Very Light,1
+21,50,0.636,0.31,30.82,71.57,5.27,-0.7071,0.7071,0.5,-0.866,0.7818,0.6235,30.562,0,0,1,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Summer,Very Light,0
+7,40,2.511,0.04,30.59,67.81,3.26,0.9659,-0.2588,0.866,-0.5,-0.7818,0.6235,11.393,1,0,0,0,0,0,0,0,1,Pedestrian/Bicycle,Roundabout,Daylight,Secondary Road,Summer,No Rain,1
+14,30,0.66,1.06,30.8,66.1,3.43,-0.5,-0.866,0.5,-0.866,0.0,1.0,18.072,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Local / Residential,Summer,Very Light,1
+10,50,0.492,1.1,25.26,88.24,4.53,0.5,-0.866,0.5,0.866,0.0,1.0,33.512,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Winter,Very Light,0
+12,50,0.719,0.0,32.34,60.03,4.33,0.0,-1.0,0.866,-0.5,-0.4339,-0.901,29.087,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+15,50,1.806,16.63,26.91,89.41,5.24,-0.7071,-0.7071,-0.5,0.866,-0.9749,-0.2225,17.819,1,0,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+6,40,2.485,18.25,26.46,88.38,5.56,1.0,0.0,-0.5,0.866,0.4339,-0.901,11.478,0,0,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,0
+18,40,1.725,0.0,25.21,70.83,2.02,-1.0,-0.0,0.866,0.5,0.4339,-0.901,14.679,0,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Secondary Road,Winter,No Rain,0
+19,40,0.729,0.0,30.43,62.89,4.0,-0.9659,0.2588,1.0,0.0,0.7818,0.6235,23.135,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Bridge/Flyover,Night - Streetlights Lit,Secondary Road,Summer,No Rain,1
+18,50,1.16,0.0,23.78,73.74,5.09,-1.0,-0.0,0.866,0.5,0.0,1.0,23.148,0,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Winter,No Rain,0
+17,70,1.215,0.0,28.18,67.38,2.81,-0.9659,-0.2588,1.0,0.0,0.0,1.0,31.603,0,1,0,0,0,0,0,0,0,Bus,Bridge/Flyover,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,0
+5,70,0.682,3.91,28.76,77.89,5.09,0.9659,0.2588,-0.5,-0.866,-0.7818,0.6235,41.617,1,0,1,0,1,0,1,1,0,Truck/Lorry,Bridge/Flyover,Dusk/Dawn,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,0
+18,40,1.961,0.26,30.98,57.52,5.58,-1.0,-0.0,0.0,-1.0,-0.4339,-0.901,13.509,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Secondary Road,Southwest Monsoon,Very Light,0
+8,50,1.618,0.0,26.75,65.68,2.68,0.866,-0.5,1.0,0.0,-0.9749,-0.2225,19.099,1,1,0,0,0,0,0,0,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Summer,No Rain,1
+8,50,0.871,2.47,28.18,74.48,4.25,0.866,-0.5,-0.866,-0.5,-0.7818,0.6235,26.724,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+21,50,1.653,4.57,26.59,86.79,2.14,-0.7071,0.7071,-0.5,0.866,0.0,1.0,18.847,0,0,1,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+13,50,0.608,4.67,31.89,63.15,3.66,-0.2588,-0.9659,0.5,-0.866,-0.7818,0.6235,31.095,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Summer,Moderate Rain,1
+14,40,0.803,11.0,26.46,90.25,3.43,-0.5,-0.866,-0.5,0.866,0.9749,-0.2225,22.185,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+9,40,0.7,11.85,27.85,78.27,3.94,0.7071,-0.7071,-0.5,-0.866,-0.9749,-0.2225,23.529,1,1,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+14,40,1.756,3.17,27.58,85.61,3.15,-0.5,-0.866,-0.866,0.5,0.4339,-0.901,14.514,0,0,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+1,30,1.499,0.0,23.98,76.56,3.05,0.2588,0.9659,0.5,0.866,-0.9749,-0.2225,12.005,1,0,1,1,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Night - Streetlights Lit,Local / Residential,Winter,No Rain,1
+13,50,0.918,0.0,24.61,81.15,2.66,-0.2588,-0.9659,0.5,0.866,-0.9749,-0.2225,26.069,1,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Winter,No Rain,1
+1,50,0.349,1.83,28.63,74.76,3.99,0.2588,0.9659,-0.866,-0.5,-0.9749,-0.2225,37.064,1,0,1,1,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,1
+19,50,2.905,0.72,25.31,84.98,5.05,-0.9659,0.2588,0.5,0.866,0.7818,0.6235,12.804,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Winter,Very Light,0
+7,40,1.453,18.47,25.87,90.86,3.66,0.9659,-0.2588,-0.5,0.866,0.4339,-0.901,16.307,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,1
+19,70,1.018,0.0,23.23,74.93,4.5,-0.9659,0.2588,0.866,0.5,-0.7818,0.6235,34.688,1,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Trunk Highway / Express Corridor,Winter,No Rain,0
+7,50,1.985,10.51,28.62,75.67,5.26,0.9659,-0.2588,0.5,-0.866,-0.4339,-0.901,16.75,0,0,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Primary Arterial,Summer,Moderate Rain,1
+20,40,1.567,40.64,26.64,87.96,3.2,-0.866,0.5,-0.5,0.866,-0.7818,0.6235,15.582,1,1,1,0,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Heavy Rain,0
+10,50,0.742,0.0,27.07,66.33,2.6,0.5,-0.866,1.0,0.0,-0.7818,0.6235,28.703,1,1,0,0,0,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+6,50,1.084,0.0,23.31,74.17,3.97,1.0,0.0,0.866,0.5,-0.4339,-0.901,23.992,0,0,0,0,0,0,0,0,0,Bus,Roundabout,Daylight,Primary Arterial,Winter,No Rain,1
+9,50,0.198,0.37,28.07,81.65,3.16,0.7071,-0.7071,-0.866,0.5,0.0,1.0,41.736,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+6,40,1.305,1.22,26.55,84.54,2.18,1.0,0.0,-0.0,1.0,0.0,1.0,17.354,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Very Light,1
+18,70,0.665,0.0,23.62,73.36,2.19,-1.0,-0.0,-0.0,1.0,-0.9749,-0.2225,42.042,1,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Trunk Highway / Express Corridor,Northeast Monsoon,No Rain,0
+23,30,0.902,4.75,28.6,77.94,4.63,-0.2588,0.9659,-0.866,-0.5,0.7818,0.6235,15.773,0,0,1,1,1,0,1,1,0,Truck/Lorry,Bridge/Flyover,Night - Streetlights Lit,Local / Residential,Southwest Monsoon,Moderate Rain,1
+13,50,0.565,21.55,26.93,87.39,2.23,-0.2588,-0.9659,-0.866,-0.5,-0.4339,-0.901,31.949,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Heavy Rain,1
+19,50,0.451,0.0,26.75,65.68,2.68,-0.9659,0.2588,1.0,0.0,-0.9749,-0.2225,34.459,1,1,0,0,0,1,0,0,1,Two-Wheeler,Four-arm Cross,Night - Dark / Poor Lighting,Primary Arterial,Summer,No Rain,1
+22,30,0.324,0.03,24.31,78.7,3.74,-0.5,0.866,0.5,0.866,0.4339,-0.901,22.659,0,0,1,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Local / Residential,Winter,No Rain,1
+21,50,1.52,1.37,28.25,81.59,3.06,-0.7071,0.7071,-1.0,-0.0,0.4339,-0.901,19.841,0,0,1,0,1,1,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Southwest Monsoon,Very Light,1
+14,50,0.724,3.71,25.88,85.41,5.24,-0.5,-0.866,-0.0,1.0,-0.9749,-0.2225,29.002,1,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+18,40,0.459,0.52,30.86,59.46,5.83,-1.0,-0.0,0.0,-1.0,0.9749,-0.2225,27.416,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Secondary Road,Southwest Monsoon,Very Light,0
+7,50,1.149,0.02,30.85,66.53,3.55,0.9659,-0.2588,0.866,-0.5,0.4339,-0.901,23.267,0,0,0,0,0,0,0,0,0,Bus,T-Junction,Daylight,Primary Arterial,Summer,No Rain,1
+7,50,0.051,0.0,23.78,73.74,5.09,0.9659,-0.2588,0.866,0.5,0.0,1.0,47.574,0,0,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,1
+9,50,2.944,0.0,32.34,60.03,4.33,0.7071,-0.7071,0.866,-0.5,-0.4339,-0.901,12.677,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+14,50,0.725,0.0,22.74,73.44,2.51,-0.5,-0.866,-0.0,1.0,0.9749,-0.2225,28.986,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,No Rain,0
+18,70,0.429,17.88,26.48,89.13,3.63,-1.0,-0.0,-0.866,0.5,-0.9749,-0.2225,48.985,1,1,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Dusk/Dawn,Trunk Highway / Express Corridor,Northeast Monsoon,Heavy Rain,1
+9,50,1.36,0.0,24.49,77.96,3.39,0.7071,-0.7071,0.5,0.866,-0.9749,-0.2225,21.186,1,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Winter,No Rain,1
+21,50,1.092,3.3,27.66,83.27,2.53,-0.7071,0.7071,-0.866,0.5,0.7818,0.6235,23.901,0,0,1,0,1,1,0,1,1,Two-Wheeler,T-Junction,Night - Dark / Poor Lighting,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+21,50,0.5,0.46,30.92,61.35,5.05,-0.7071,0.7071,0.5,-0.866,0.4339,-0.901,33.333,0,0,1,0,1,0,1,1,0,Bus,T-Junction,Night - Streetlights Lit,Primary Arterial,Summer,Very Light,1
+7,70,1.423,0.79,25.21,86.9,4.28,0.9659,-0.2588,0.5,0.866,-0.7818,0.6235,28.89,1,0,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Winter,Very Light,1
+22,70,0.192,0.0,23.05,71.29,2.86,-0.5,0.866,0.866,0.5,0.4339,-0.901,58.725,0,0,1,0,0,1,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Night - Dark / Poor Lighting,Trunk Highway / Express Corridor,Winter,No Rain,0
+17,70,0.145,2.4,26.83,86.29,1.91,-0.9659,-0.2588,-0.5,0.866,0.7818,0.6235,61.135,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,0
+16,70,0.628,0.25,29.4,71.61,4.85,-0.866,-0.5,-0.5,-0.866,0.4339,-0.901,42.998,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Roundabout,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,0
+19,50,1.984,0.0,23.5,77.93,5.18,-0.9659,0.2588,-0.0,1.0,-0.7818,0.6235,16.756,1,1,0,0,0,1,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Northeast Monsoon,No Rain,0
+15,70,1.042,0.24,27.8,83.46,3.36,-0.7071,-0.7071,-0.866,0.5,0.4339,-0.901,34.28,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+19,50,0.524,0.0,28.9,67.68,3.99,-0.9659,0.2588,0.866,-0.5,-0.4339,-0.901,32.808,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Roundabout,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,1
+0,50,0.27,0.57,30.03,65.59,3.15,0.0,1.0,0.866,-0.5,0.7818,0.6235,39.37,0,0,1,1,1,0,0,1,1,Two-Wheeler,Roundabout,Night - Streetlights Lit,Primary Arterial,Summer,Very Light,0
+7,70,0.282,9.8,28.66,73.87,2.87,0.9659,-0.2588,0.866,-0.5,0.4339,-0.901,54.602,0,0,0,0,1,0,0,1,0,Bus,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,Moderate Rain,1
+13,40,0.764,0.2,24.29,74.34,4.37,-0.2588,-0.9659,0.866,0.5,0.9749,-0.2225,22.676,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Winter,Very Light,1
+17,50,1.343,0.91,29.23,75.12,4.39,-0.9659,-0.2588,-0.5,-0.866,-0.9749,-0.2225,21.34,1,1,0,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+11,50,0.698,0.23,25.21,82.87,4.46,0.2588,-0.9659,0.5,0.866,0.9749,-0.2225,29.446,0,0,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Primary Arterial,Winter,Very Light,0
+19,30,0.047,0.0,24.38,74.76,3.0,-0.9659,0.2588,0.866,0.5,0.9749,-0.2225,28.653,0,1,0,0,0,1,0,0,1,Two-Wheeler,T-Junction,Night - Dark / Poor Lighting,Local / Residential,Winter,No Rain,1
+14,50,1.266,0.08,28.63,76.31,4.64,-0.5,-0.866,-1.0,-0.0,0.0,1.0,22.065,0,0,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,No Rain,0
+15,50,1.86,5.19,28.57,75.73,6.04,-0.7071,-0.7071,0.5,-0.866,0.7818,0.6235,17.483,0,0,0,0,1,0,0,1,0,Truck/Lorry,Roundabout,Daylight,Primary Arterial,Summer,Moderate Rain,1
+7,50,0.372,9.8,28.66,73.87,2.87,0.9659,-0.2588,0.866,-0.5,0.4339,-0.901,36.443,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Summer,Moderate Rain,1
+4,40,1.703,0.0,27.14,70.58,2.65,0.866,0.5,1.0,0.0,0.4339,-0.901,14.798,0,0,1,1,0,0,0,0,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Summer,No Rain,1
+6,50,1.678,0.0,24.42,74.63,4.18,1.0,0.0,0.866,0.5,0.4339,-0.901,18.671,0,0,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,1
+18,50,1.802,3.18,27.5,83.95,3.6,-1.0,-0.0,-0.866,-0.5,0.4339,-0.901,17.844,0,1,0,0,1,0,0,1,0,Bus,T-Junction,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+16,50,0.361,0.0,23.98,76.56,3.05,-0.866,-0.5,0.5,0.866,-0.9749,-0.2225,36.738,1,0,0,0,0,0,0,0,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Winter,No Rain,1
+11,50,1.699,0.0,25.33,84.5,2.63,0.2588,-0.9659,0.5,0.866,-0.4339,-0.901,18.525,0,0,0,0,0,0,0,0,1,Pedestrian/Bicycle,T-Junction,Daylight,Primary Arterial,Winter,No Rain,1
+7,40,0.328,37.11,27.14,88.45,3.12,0.9659,-0.2588,-0.866,0.5,0.7818,0.6235,30.12,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,1
+13,70,0.476,5.3,27.3,86.85,2.04,-0.2588,-0.9659,-0.866,0.5,-0.9749,-0.2225,47.425,1,0,0,0,1,0,0,1,0,Bus,Roundabout,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+21,40,1.033,3.91,28.76,77.89,5.09,-0.7071,0.7071,-0.5,-0.866,-0.7818,0.6235,19.675,1,0,1,0,1,1,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Dark / Poor Lighting,Secondary Road,Southwest Monsoon,Moderate Rain,1
+11,50,1.843,16.04,27.5,80.44,3.31,0.2588,-0.9659,-0.866,-0.5,-0.9749,-0.2225,17.587,1,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Heavy Rain,0
+7,70,0.153,16.04,27.5,80.44,3.31,0.9659,-0.2588,-0.866,-0.5,-0.9749,-0.2225,60.711,1,0,0,0,1,0,0,1,1,Pedestrian/Bicycle,T-Junction,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Heavy Rain,0
+10,40,1.418,0.26,30.54,57.15,6.78,0.5,-0.866,0.0,-1.0,0.7818,0.6235,16.543,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Very Light,0
+18,40,0.181,16.63,26.91,89.41,5.24,-1.0,-0.0,-0.5,0.866,-0.9749,-0.2225,33.87,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Dusk/Dawn,Secondary Road,Northeast Monsoon,Heavy Rain,1
+10,50,0.338,0.66,29.41,69.89,4.69,0.5,-0.866,-0.866,-0.5,0.0,1.0,37.369,0,1,0,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+8,40,0.697,0.0,27.66,68.3,2.64,0.866,-0.5,1.0,0.0,0.9749,-0.2225,23.571,0,1,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,0
+8,50,0.51,2.25,27.5,79.6,4.48,0.866,-0.5,-1.0,-0.0,0.7818,0.6235,33.113,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+6,70,0.75,2.56,28.71,77.43,5.03,1.0,0.0,-0.5,-0.866,0.7818,0.6235,40.0,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,0
+18,50,0.951,0.91,29.23,75.12,4.39,-1.0,-0.0,-0.5,-0.866,-0.9749,-0.2225,25.628,1,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,T-Junction,Dusk/Dawn,Primary Arterial,Southwest Monsoon,Very Light,1
+16,40,0.485,8.8,27.14,80.63,3.89,-0.866,-0.5,-1.0,-0.0,-0.4339,-0.901,26.936,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,1
+14,40,2.646,0.52,30.86,59.46,5.83,-0.5,-0.866,0.0,-1.0,0.9749,-0.2225,10.971,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+8,30,2.51,0.48,24.66,80.87,5.58,0.866,-0.5,-0.0,1.0,0.4339,-0.901,8.547,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Local / Residential,Northeast Monsoon,Very Light,1
+10,40,1.273,0.4,29.46,72.52,4.62,0.5,-0.866,-0.5,-0.866,-0.4339,-0.901,17.598,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+17,50,0.481,0.01,26.8,75.29,2.73,-0.9659,-0.2588,1.0,0.0,0.7818,0.6235,33.761,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Primary Arterial,Summer,No Rain,0
+9,70,2.784,0.58,29.77,67.39,3.35,0.7071,-0.7071,0.866,-0.5,0.0,1.0,18.499,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Summer,Very Light,1
+21,70,0.742,0.0,27.14,70.58,2.65,-0.7071,0.7071,1.0,0.0,0.4339,-0.901,40.184,0,0,1,0,0,1,0,0,0,Auto-rickshaw,Roundabout,Night - Dark / Poor Lighting,Trunk Highway / Express Corridor,Summer,No Rain,1
+16,70,1.633,2.34,25.32,83.63,5.49,-0.866,-0.5,-0.0,1.0,0.7818,0.6235,26.586,0,0,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+10,40,0.508,4.31,25.38,82.76,5.76,0.5,-0.866,0.866,0.5,-0.9749,-0.2225,26.525,1,1,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Secondary Road,Winter,Moderate Rain,0
+11,30,0.544,7.02,27.25,81.85,3.28,0.2588,-0.9659,-1.0,-0.0,0.4339,-0.901,19.43,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,1
+10,40,1.149,2.34,25.32,83.63,5.49,0.5,-0.866,-0.0,1.0,0.7818,0.6235,18.613,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,Very Light,1
+21,50,1.826,0.0,23.05,71.29,2.86,-0.7071,0.7071,0.866,0.5,0.4339,-0.901,17.693,0,0,1,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Winter,No Rain,1
+15,50,1.848,2.47,28.18,74.48,4.25,-0.7071,-0.7071,-0.866,-0.5,-0.7818,0.6235,17.556,1,0,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+17,40,2.596,0.43,26.66,79.28,4.62,-0.9659,-0.2588,-1.0,-0.0,0.7818,0.6235,11.123,0,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+8,30,1.355,2.18,25.43,88.69,3.77,0.866,-0.5,0.5,0.866,-0.4339,-0.901,12.739,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Local / Residential,Winter,Very Light,1
+14,50,2.153,55.65,24.55,86.17,5.18,-0.5,-0.866,-0.0,1.0,0.4339,-0.901,15.858,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+8,50,2.791,3.18,27.5,83.95,3.6,0.866,-0.5,-0.866,-0.5,0.4339,-0.901,13.189,0,1,0,0,1,0,0,1,0,Bus,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+19,40,0.384,0.01,30.79,67.24,3.59,-0.9659,0.2588,0.866,-0.5,0.9749,-0.2225,28.902,0,1,0,0,0,0,0,0,1,Two-Wheeler,Roundabout,Night - Streetlights Lit,Secondary Road,Summer,No Rain,1
+17,50,0.397,7.13,27.3,83.09,2.6,-0.9659,-0.2588,-1.0,-0.0,-0.7818,0.6235,35.791,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+13,50,0.541,1.06,29.18,77.31,3.49,-0.2588,-0.9659,-0.5,-0.866,0.9749,-0.2225,32.446,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+10,50,0.889,16.95,25.94,88.54,2.92,0.5,-0.866,-0.5,0.866,-0.4339,-0.901,26.469,0,1,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+1,70,0.529,3.02,28.06,86.34,2.55,0.2588,0.9659,-0.866,0.5,-0.7818,0.6235,45.782,1,0,1,1,1,0,1,1,0,Truck/Lorry,Bridge/Flyover,Night - Streetlights Lit,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+9,40,0.149,0.0,28.05,69.18,2.75,0.7071,-0.7071,1.0,0.0,0.7818,0.6235,34.813,0,1,0,0,0,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,1
+17,70,1.077,0.0,27.66,68.3,2.64,-0.9659,-0.2588,1.0,0.0,0.9749,-0.2225,33.702,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+16,50,0.299,8.77,28.84,76.77,3.92,-0.866,-0.5,-0.5,-0.866,-0.4339,-0.901,38.491,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Roundabout,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+20,40,0.522,55.65,24.55,86.17,5.18,-0.866,0.5,-0.0,1.0,0.4339,-0.901,26.281,0,1,1,0,1,1,0,1,1,Two-Wheeler,Four-arm Cross,Night - Dark / Poor Lighting,Secondary Road,Northeast Monsoon,Heavy Rain,1
+9,50,3.058,3.17,27.58,85.61,3.15,0.7071,-0.7071,-0.866,0.5,0.4339,-0.901,12.321,0,1,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+12,50,0.915,3.13,29.64,76.39,3.27,0.0,-1.0,-0.866,-0.5,-0.7818,0.6235,26.11,1,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+11,50,1.738,0.11,29.61,71.14,5.47,0.2588,-0.9659,-0.5,-0.866,0.9749,-0.2225,18.262,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,0
+16,40,1.493,0.0,28.05,69.18,2.75,-0.866,-0.5,1.0,0.0,0.7818,0.6235,16.045,0,0,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Summer,No Rain,1
+7,40,0.137,0.44,27.7,75.72,4.38,0.9659,-0.2588,-0.866,-0.5,0.0,1.0,35.18,0,0,0,0,1,0,0,1,0,Bus,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Very Light,1
+2,50,1.066,0.03,24.31,78.7,3.74,0.5,0.866,0.5,0.866,0.4339,-0.901,24.201,0,0,1,1,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Winter,No Rain,1
+18,40,0.818,3.57,28.91,71.41,3.23,-1.0,-0.0,-0.866,-0.5,0.0,1.0,22.002,0,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Secondary Road,Southwest Monsoon,Moderate Rain,1
+9,50,0.916,0.6,29.44,69.42,4.16,0.7071,-0.7071,-0.866,-0.5,0.7818,0.6235,26.096,0,1,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+23,50,0.537,0.0,31.45,64.25,3.4,-0.2588,0.9659,0.866,-0.5,-0.7818,0.6235,32.531,1,0,1,1,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,0
+2,30,0.237,0.0,25.56,71.3,2.23,0.5,0.866,1.0,0.0,-0.4339,-0.901,24.252,0,0,1,1,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Streetlights Lit,Local / Residential,Summer,No Rain,0
+17,50,3.827,0.0,23.33,73.86,3.97,-0.9659,-0.2588,0.866,0.5,-0.9749,-0.2225,10.358,1,1,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Winter,No Rain,0
+17,70,0.585,0.0,24.49,77.96,3.39,-0.9659,-0.2588,0.5,0.866,-0.9749,-0.2225,44.164,1,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,1
+3,70,0.65,2.87,26.34,87.86,3.81,0.7071,0.7071,-0.5,0.866,0.9749,-0.2225,42.424,0,0,1,1,1,1,0,0,1,Two-Wheeler,Mid-block / Straight Road,Night - Dark / Poor Lighting,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+13,40,2.72,0.0,23.94,76.97,2.2,-0.2588,-0.9659,-0.0,1.0,-0.7818,0.6235,10.753,1,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,No Rain,1
+17,50,0.983,0.69,29.83,65.22,3.56,-0.9659,-0.2588,0.866,-0.5,-0.7818,0.6235,25.214,1,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Summer,Very Light,0
+10,40,0.343,0.69,29.83,65.22,3.56,0.5,-0.866,0.866,-0.5,-0.7818,0.6235,29.784,1,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Summer,Very Light,0
+17,40,0.592,3.71,25.88,85.41,5.24,-0.9659,-0.2588,-0.0,1.0,-0.9749,-0.2225,25.126,1,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+0,70,0.872,7.01,28.56,76.84,4.1,0.0,1.0,-0.5,-0.866,0.4339,-0.901,37.393,0,0,1,1,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,0
+10,40,0.352,15.69,28.67,77.17,3.4,0.5,-0.866,-0.5,-0.866,0.4339,-0.901,29.586,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Heavy Rain,1
+13,50,1.273,1.86,31.56,64.6,4.32,-0.2588,-0.9659,0.5,-0.866,0.0,1.0,21.997,0,0,0,0,1,0,0,1,0,Bus,Roundabout,Daylight,Primary Arterial,Summer,Very Light,1
+17,50,2.34,0.3,25.18,86.05,3.81,-0.9659,-0.2588,0.5,0.866,-0.9749,-0.2225,14.97,1,1,0,0,1,0,0,1,0,Truck/Lorry,Four-arm Cross,Daylight,Primary Arterial,Winter,Very Light,1
+18,70,0.441,6.0,25.7,85.87,5.16,-1.0,-0.0,-0.0,1.0,-0.7818,0.6235,48.577,1,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+14,50,0.223,33.34,27.61,83.03,3.34,-0.5,-0.866,-0.5,-0.866,-0.9749,-0.2225,40.883,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Heavy Rain,0
+10,50,1.405,7.13,27.3,83.09,2.6,0.5,-0.866,-1.0,-0.0,-0.7818,0.6235,20.79,1,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+9,40,0.247,0.03,24.31,78.7,3.74,0.7071,-0.7071,0.5,0.866,0.4339,-0.901,32.077,0,1,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Secondary Road,Winter,No Rain,1
+15,70,1.58,1.62,27.82,86.08,3.36,-0.7071,-0.7071,-0.866,0.5,-0.9749,-0.2225,27.132,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+10,50,0.272,3.72,26.85,85.99,1.69,0.5,-0.866,-0.5,0.866,-0.9749,-0.2225,39.308,1,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+9,50,1.733,0.2,24.29,74.34,4.37,0.7071,-0.7071,0.866,0.5,0.9749,-0.2225,18.295,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Primary Arterial,Winter,Very Light,1
+14,50,0.146,18.25,26.46,88.38,5.56,-0.5,-0.866,-0.5,0.866,0.4339,-0.901,43.63,0,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+16,40,0.128,0.0,25.0,74.23,2.11,-0.866,-0.5,0.866,0.5,0.9749,-0.2225,35.461,0,0,0,0,0,0,0,0,0,Truck/Lorry,T-Junction,Daylight,Secondary Road,Winter,No Rain,1
+7,40,2.914,0.8,32.48,64.75,4.22,0.9659,-0.2588,0.5,-0.866,0.9749,-0.2225,10.22,0,0,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Secondary Road,Summer,Very Light,1
+7,40,1.286,0.0,23.75,71.75,4.04,0.9659,-0.2588,0.866,0.5,0.4339,-0.901,17.498,0,0,0,0,0,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Secondary Road,Winter,No Rain,1
+8,40,1.702,0.08,28.63,76.31,4.64,0.866,-0.5,-1.0,-0.0,0.0,1.0,14.804,0,1,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Southwest Monsoon,No Rain,1
+22,40,0.254,0.01,24.47,81.58,3.57,-0.5,0.866,0.5,0.866,0.9749,-0.2225,31.898,0,0,1,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Winter,No Rain,1
+9,50,0.178,1.39,30.73,65.28,3.81,0.7071,-0.7071,0.0,-1.0,0.4339,-0.901,42.445,0,1,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+7,30,1.346,3.17,27.55,76.29,4.34,0.9659,-0.2588,-0.5,-0.866,-0.7818,0.6235,12.788,1,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,1
+11,50,0.06,0.04,30.49,71.1,4.03,0.2588,-0.9659,0.0,-1.0,0.4339,-0.901,47.17,0,0,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Primary Arterial,Southwest Monsoon,No Rain,1
+9,70,2.704,0.0,27.23,68.57,2.42,0.7071,-0.7071,1.0,0.0,-0.9749,-0.2225,18.898,1,1,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Summer,No Rain,1
+9,30,0.865,0.27,29.77,68.45,2.06,0.7071,-0.7071,0.0,-1.0,-0.7818,0.6235,16.086,1,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Southwest Monsoon,Very Light,1
+12,50,2.361,0.25,29.4,71.61,4.85,0.0,-1.0,-0.5,-0.866,0.4339,-0.901,14.877,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+12,40,1.144,0.0,29.75,67.09,4.04,0.0,-1.0,1.0,0.0,0.0,1.0,18.657,0,0,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,1
+19,30,0.906,0.17,28.09,80.56,4.62,-0.9659,0.2588,-1.0,-0.0,-0.7818,0.6235,15.74,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Night - Streetlights Lit,Local / Residential,Southwest Monsoon,Very Light,0
+18,70,2.372,0.66,29.41,69.89,4.69,-1.0,-0.0,-0.866,-0.5,0.0,1.0,20.759,0,1,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Dusk/Dawn,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,1
+19,50,0.295,1.6,24.96,82.85,5.48,-0.9659,0.2588,-0.0,1.0,0.9749,-0.2225,38.61,0,1,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Northeast Monsoon,Very Light,0
+17,50,0.483,0.25,29.4,71.61,4.85,-0.9659,-0.2588,-0.5,-0.866,0.4339,-0.901,33.715,0,1,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+18,50,1.035,75.19,24.83,93.4,8.96,-1.0,-0.0,-0.5,0.866,0.4339,-0.901,24.57,0,1,0,0,1,0,0,0,1,Pedestrian/Bicycle,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+17,50,0.557,2.28,28.04,81.28,2.28,-0.9659,-0.2588,-0.866,0.5,-0.4339,-0.901,32.113,0,1,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+11,50,1.557,0.0,25.31,77.26,3.13,0.2588,-0.9659,0.866,0.5,-0.7818,0.6235,19.554,1,0,0,0,0,0,0,0,0,Auto-rickshaw,T-Junction,Daylight,Primary Arterial,Winter,No Rain,1
+22,40,2.543,1.48,28.04,75.62,2.67,-0.5,0.866,-1.0,-0.0,0.9749,-0.2225,11.29,0,0,1,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Very Light,1
+10,50,1.008,0.0,23.68,71.58,2.5,0.5,-0.866,0.866,0.5,0.0,1.0,24.9,0,1,0,0,0,0,0,0,1,Pedestrian/Bicycle,Bridge/Flyover,Daylight,Primary Arterial,Winter,No Rain,1
+20,50,1.47,0.0,28.9,67.68,3.99,-0.866,0.5,0.866,-0.5,-0.4339,-0.901,20.243,0,1,1,0,0,1,1,0,0,Truck/Lorry,Mid-block / Straight Road,Night - Dark / Poor Lighting,Primary Arterial,Summer,No Rain,1
+17,50,3.356,9.41,27.76,82.77,3.0,-0.9659,-0.2588,-0.866,0.5,-0.7818,0.6235,11.478,1,1,0,0,1,0,0,1,1,Pedestrian/Bicycle,Bridge/Flyover,Daylight,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+17,50,1.188,0.0,27.23,68.57,2.42,-0.9659,-0.2588,1.0,0.0,-0.9749,-0.2225,22.852,1,1,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,No Rain,1
+19,70,0.958,0.24,27.8,83.46,3.36,-0.9659,0.2588,-0.866,0.5,0.4339,-0.901,35.751,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Roundabout,Night - Streetlights Lit,Trunk Highway / Express Corridor,Northeast Monsoon,Very Light,1
+21,50,1.722,3.03,28.69,80.77,2.38,-0.7071,0.7071,-1.0,-0.0,0.0,1.0,18.369,0,0,1,0,1,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+13,50,0.914,0.26,30.9,66.19,2.82,-0.2588,-0.9659,0.866,-0.5,-0.4339,-0.901,26.123,0,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Very Light,1
+11,50,2.675,0.91,29.6,72.84,2.56,0.2588,-0.9659,0.866,-0.5,-0.9749,-0.2225,13.605,1,0,0,0,1,0,0,1,1,Pedestrian/Bicycle,Four-arm Cross,Daylight,Primary Arterial,Summer,Very Light,0
+18,30,1.167,9.96,29.91,71.51,3.38,-1.0,-0.0,0.0,-1.0,0.4339,-0.901,13.844,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Bridge/Flyover,Dusk/Dawn,Local / Residential,Southwest Monsoon,Moderate Rain,1
+11,40,0.875,3.93,29.53,70.58,3.46,0.2588,-0.9659,0.0,-1.0,0.7818,0.6235,21.333,0,0,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+17,70,1.041,0.0,24.37,78.76,4.45,-0.9659,-0.2588,0.866,0.5,0.0,1.0,34.297,0,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,1
+13,40,0.171,0.23,25.21,82.87,4.46,-0.2588,-0.9659,0.5,0.866,0.9749,-0.2225,34.159,0,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Secondary Road,Winter,Very Light,1
+19,50,1.261,0.03,30.57,70.44,3.45,-0.9659,0.2588,0.866,-0.5,0.7818,0.6235,22.114,0,1,0,0,0,0,0,0,1,Two-Wheeler,Four-arm Cross,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,0
+5,50,0.839,0.0,25.11,78.3,3.02,0.9659,0.2588,0.866,0.5,0.7818,0.6235,27.189,0,0,1,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Primary Arterial,Winter,No Rain,0
+18,40,0.593,8.54,30.41,69.79,3.25,-1.0,-0.0,0.0,-1.0,0.0,1.0,25.11,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Secondary Road,Southwest Monsoon,Moderate Rain,1
+7,30,0.35,3.17,27.55,76.29,4.34,0.9659,-0.2588,-0.5,-0.866,-0.7818,0.6235,22.222,1,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Southwest Monsoon,Moderate Rain,1
+16,50,1.709,0.0,22.74,73.44,2.51,-0.866,-0.5,-0.0,1.0,0.9749,-0.2225,18.457,0,0,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,No Rain,1
+6,40,0.271,10.51,28.62,75.67,5.26,1.0,0.0,0.5,-0.866,-0.4339,-0.901,31.471,0,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Summer,Moderate Rain,1
+20,50,3.423,0.25,29.4,71.61,4.85,-0.866,0.5,-0.5,-0.866,0.4339,-0.901,11.305,0,1,1,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Night - Streetlights Lit,Primary Arterial,Southwest Monsoon,Very Light,1
+20,30,1.145,3.91,28.76,77.89,5.09,-0.866,0.5,-0.5,-0.866,-0.7818,0.6235,13.986,1,1,1,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Night - Streetlights Lit,Local / Residential,Southwest Monsoon,Moderate Rain,1
+9,40,0.183,0.0,28.49,67.19,2.64,0.7071,-0.7071,1.0,0.0,0.4339,-0.901,33.812,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Secondary Road,Summer,No Rain,0
+6,50,0.452,2.56,29.18,71.49,3.56,1.0,0.0,-0.866,-0.5,0.4339,-0.901,34.435,0,0,0,0,1,0,0,1,0,Truck/Lorry,T-Junction,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+7,40,0.186,17.88,26.48,89.13,3.63,0.9659,-0.2588,-0.866,0.5,-0.9749,-0.2225,33.727,1,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,1
+7,50,0.371,0.46,31.15,58.94,5.78,0.9659,-0.2588,0.0,-1.0,0.4339,-0.901,36.47,0,0,0,0,1,0,0,1,0,Truck/Lorry,Bridge/Flyover,Daylight,Primary Arterial,Southwest Monsoon,Very Light,1
+13,40,0.941,3.13,29.64,76.39,3.27,-0.2588,-0.9659,-0.866,-0.5,-0.7818,0.6235,20.608,1,0,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+9,70,1.374,4.45,27.94,82.9,1.94,0.7071,-0.7071,-0.866,0.5,-0.7818,0.6235,29.486,1,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,1
+16,50,1.652,74.21,26.52,94.08,8.82,-0.866,-0.5,-0.5,0.866,0.4339,-0.901,18.854,0,0,0,0,1,0,0,1,0,Auto-rickshaw,Four-arm Cross,Daylight,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+11,50,1.704,0.09,25.87,85.08,3.44,0.2588,-0.9659,-0.0,1.0,0.7818,0.6235,18.491,0,0,0,0,0,0,0,0,1,Two-Wheeler,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,No Rain,0
+13,50,1.733,0.48,24.66,80.87,5.58,-0.2588,-0.9659,-0.0,1.0,0.4339,-0.901,18.295,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,T-Junction,Daylight,Primary Arterial,Northeast Monsoon,Very Light,1
+10,70,0.399,9.11,28.93,81.02,2.17,0.5,-0.866,-0.5,-0.866,-0.9749,-0.2225,50.036,1,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Moderate Rain,1
+9,70,0.347,0.0,24.14,72.46,2.68,0.7071,-0.7071,0.5,0.866,0.7818,0.6235,51.967,0,1,0,0,0,0,0,0,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Trunk Highway / Express Corridor,Winter,No Rain,0
+0,50,0.16,4.82,30.14,72.95,3.26,0.0,1.0,0.5,-0.866,0.4339,-0.901,43.103,0,0,1,1,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Primary Arterial,Summer,Moderate Rain,1
+9,40,0.7,36.4,26.05,89.87,5.45,0.7071,-0.7071,-0.5,0.866,0.0,1.0,23.529,0,1,0,0,1,0,0,1,0,Car/Jeep/Taxi,Four-arm Cross,Daylight,Secondary Road,Northeast Monsoon,Heavy Rain,1
+18,30,1.862,0.57,30.03,65.59,3.15,-1.0,-0.0,0.866,-0.5,0.7818,0.6235,10.482,0,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Dusk/Dawn,Local / Residential,Summer,Very Light,1
+5,50,2.006,18.47,25.87,90.86,3.66,0.9659,0.2588,-0.5,0.866,0.4339,-0.901,16.633,0,0,1,0,1,0,1,1,0,Bus,Four-arm Cross,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Heavy Rain,1
+10,70,3.13,0.66,29.41,69.89,4.69,0.5,-0.866,-0.866,-0.5,0.0,1.0,16.949,0,1,0,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Daylight,Trunk Highway / Express Corridor,Southwest Monsoon,Very Light,0
+13,30,0.846,5.3,27.3,86.85,2.04,-0.2588,-0.9659,-0.866,0.5,-0.9749,-0.2225,16.251,1,0,0,0,1,0,0,0,0,Bus,Mid-block / Straight Road,Daylight,Local / Residential,Northeast Monsoon,Moderate Rain,1
+9,50,1.194,0.09,25.87,85.08,3.44,0.7071,-0.7071,-0.0,1.0,0.7818,0.6235,22.789,0,1,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Northeast Monsoon,No Rain,1
+10,40,0.493,5.3,27.3,86.85,2.04,0.5,-0.866,-0.866,0.5,-0.9749,-0.2225,26.792,1,1,0,0,1,0,0,1,0,Truck/Lorry,Bridge/Flyover,Daylight,Secondary Road,Northeast Monsoon,Moderate Rain,1
+16,40,0.256,3.03,28.21,77.62,4.27,-0.866,-0.5,-0.5,-0.866,0.0,1.0,31.847,0,0,0,0,1,0,0,1,1,Two-Wheeler,Roundabout,Daylight,Secondary Road,Southwest Monsoon,Moderate Rain,0
+22,40,0.348,0.44,27.7,75.72,4.38,-0.5,0.866,-0.866,-0.5,0.0,1.0,29.674,0,0,1,0,1,0,1,1,0,Truck/Lorry,Four-arm Cross,Night - Streetlights Lit,Secondary Road,Southwest Monsoon,Very Light,0
+15,50,2.004,2.56,28.71,77.43,5.03,-0.7071,-0.7071,-0.5,-0.866,0.7818,0.6235,16.644,0,0,0,0,1,0,0,1,0,Car/Jeep/Taxi,Roundabout,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+7,70,0.605,7.5,26.66,88.16,2.35,0.9659,-0.2588,-0.5,0.866,-0.7818,0.6235,43.614,1,0,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Trunk Highway / Express Corridor,Northeast Monsoon,Moderate Rain,0
+18,70,1.362,0.0,24.41,74.19,2.09,-1.0,-0.0,0.5,0.866,-0.7818,0.6235,29.636,1,1,0,0,0,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Dusk/Dawn,Trunk Highway / Express Corridor,Winter,No Rain,1
+20,40,1.328,1.74,27.49,82.14,1.78,-0.866,0.5,-0.866,0.5,0.9749,-0.2225,17.182,0,1,1,0,1,0,0,1,1,Two-Wheeler,T-Junction,Night - Streetlights Lit,Secondary Road,Northeast Monsoon,Very Light,1
+18,50,0.214,7.5,26.66,88.16,2.35,-1.0,-0.0,-0.5,0.866,-0.7818,0.6235,41.186,1,1,0,0,1,0,0,1,1,Two-Wheeler,Four-arm Cross,Dusk/Dawn,Primary Arterial,Northeast Monsoon,Moderate Rain,1
+18,40,1.197,16.97,25.26,88.64,5.88,-1.0,-0.0,-0.5,0.866,0.7818,0.6235,18.207,0,1,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Dusk/Dawn,Secondary Road,Northeast Monsoon,Heavy Rain,0
+17,50,1.338,4.07,29.41,72.53,3.33,-0.9659,-0.2588,0.5,-0.866,-0.9749,-0.2225,21.386,1,1,0,0,1,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Primary Arterial,Summer,Moderate Rain,1
+20,50,0.656,0.0,29.75,67.09,4.04,-0.866,0.5,1.0,0.0,0.0,1.0,30.193,0,1,1,0,0,0,1,0,0,Bus,Mid-block / Straight Road,Night - Streetlights Lit,Primary Arterial,Summer,No Rain,0
+5,40,1.198,9.8,28.66,73.87,2.87,0.9659,0.2588,0.866,-0.5,0.4339,-0.901,18.198,0,0,1,0,1,0,0,1,1,Two-Wheeler,Bridge/Flyover,Dusk/Dawn,Secondary Road,Summer,Moderate Rain,1
+15,40,1.563,0.0,23.5,77.93,5.18,-0.7071,-0.7071,-0.0,1.0,-0.7818,0.6235,15.607,1,0,0,0,0,0,0,0,1,Two-Wheeler,Mid-block / Straight Road,Daylight,Secondary Road,Northeast Monsoon,No Rain,0
+8,50,1.574,8.77,28.84,76.77,3.92,0.866,-0.5,-0.5,-0.866,-0.4339,-0.901,19.425,0,1,0,0,1,0,0,0,0,Truck/Lorry,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+7,30,1.247,0.15,26.58,82.01,1.82,0.9659,-0.2588,-0.0,1.0,-0.7818,0.6235,13.351,1,0,0,0,1,0,0,1,1,Two-Wheeler,T-Junction,Daylight,Local / Residential,Northeast Monsoon,Very Light,1
+13,30,1.43,0.79,25.21,86.9,4.28,-0.2588,-0.9659,0.5,0.866,-0.7818,0.6235,12.346,1,0,0,0,1,0,0,1,0,Auto-rickshaw,T-Junction,Daylight,Local / Residential,Winter,Very Light,1
+8,40,1.966,0.0,25.21,70.83,2.02,0.866,-0.5,0.866,0.5,0.4339,-0.901,13.486,0,1,0,0,0,0,0,0,1,Pedestrian/Bicycle,T-Junction,Daylight,Secondary Road,Winter,No Rain,1
+13,50,0.941,5.64,26.74,81.52,2.73,-0.2588,-0.9659,-0.866,-0.5,-0.7818,0.6235,25.76,1,0,0,0,1,0,0,0,0,Car/Jeep/Taxi,Mid-block / Straight Road,Daylight,Primary Arterial,Southwest Monsoon,Moderate Rain,0
+20,50,0.723,11.85,27.85,78.27,3.94,-0.866,0.5,-0.5,-0.866,-0.9749,-0.2225,29.019,1,1,1,0,1,1,0,1,1,Two-Wheeler,Roundabout,Night - Dark / Poor Lighting,Primary Arterial,Southwest Monsoon,Moderate Rain,1
+19,40,0.839,0.0,27.19,76.99,3.06,-0.9659,0.2588,1.0,0.0,0.9749,-0.2225,21.751,0,1,0,0,0,0,0,0,0,Auto-rickshaw,Mid-block / Straight Road,Night - Streetlights Lit,Secondary Road,Summer,No Rain,1

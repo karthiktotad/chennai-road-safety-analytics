@@ -1,0 +1,39 @@
+{
+  "target_binary": "severe_accident",
+  "target_multiclass": "severity_multiclass",
+  "numerical_features": [
+    "accident_hour",
+    "speed_limit_kmh",
+    "distance_to_nearest_junction_km",
+    "rainfall_mm",
+    "temp_mean_c",
+    "relative_humidity_pct",
+    "wind_speed_ms",
+    "hour_sin",
+    "hour_cos",
+    "month_sin",
+    "month_cos",
+    "dow_sin",
+    "dow_cos",
+    "speed_junction_exposure"
+  ],
+  "binary_features": [
+    "is_weekend",
+    "is_peak_hour",
+    "is_night",
+    "is_late_night",
+    "is_rainy_day",
+    "is_unlit_darkness",
+    "night_heavy_vehicle",
+    "wet_road_junction",
+    "is_vulnerable_user"
+  ],
+  "categorical_features": [
+    "vehicle_type",
+    "junction_type",
+    "lighting_condition",
+    "road_classification",
+    "season",
+    "rainfall_category"
+  ]
+}

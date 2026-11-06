@@ -1,0 +1,37 @@
+# Python environment
+.venv/
+env/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Secrets & Environment variables
+.env
+*.env
+!.env.example
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large raw datasets & models (keep folder structure with .gitkeep)
+# data/raw/*
+# !data/raw/.gitkeep
+# models/*.joblib
+# models/*.pkl
+
+# Logs
+logs/*.log

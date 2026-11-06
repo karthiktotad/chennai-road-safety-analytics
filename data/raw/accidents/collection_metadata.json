@@ -1,0 +1,76 @@
+{
+  "collection_timestamp": "2026-11-06T20:55:20.619245",
+  "total_files": 7,
+  "items": [
+    {
+      "dataset_name": "Chennai Road Crashes Data (1998-2025)",
+      "filename": "chennai_road_crashes_1998_2025.csv",
+      "category": "accidents",
+      "format": "CSV",
+      "url": "https://data.opencity.in/dataset/2c742a2c-c559-4d9c-9987-8566aadb933c/resource/29162b87-f1a7-4011-b309-b14d904f9a7d/download/chennai-road-crashes-1998-2025.csv",
+      "file_path": "data/raw/accidents/chennai_road_crashes_1998_2025.csv",
+      "file_size_bytes": 1534,
+      "download_timestamp": "2026-11-06T20:55:20.618704"
+    },
+    {
+      "dataset_name": "Chennai Road Crashes Official Report (1998-2025)",
+      "filename": "chennai_road_crashes_1998_2025_report.pdf",
+      "category": "accidents",
+      "format": "PDF",
+      "url": "https://data.opencity.in/dataset/2c742a2c-c559-4d9c-9987-8566aadb933c/resource/b75d40f4-7f98-4183-bff2-1feeb7749afa/download/pdfpage_en_10beobtm_2026_01_23.pdf",
+      "file_path": "data/raw/accidents/chennai_road_crashes_1998_2025_report.pdf",
+      "file_size_bytes": 29670,
+      "download_timestamp": "2026-11-06T20:55:20.618739"
+    },
+    {
+      "dataset_name": "Tamil Nadu Road Crashes Data (1993-2025)",
+      "filename": "tamil_nadu_road_crashes_1993_2025.csv",
+      "category": "accidents",
+      "format": "CSV",
+      "url": "https://data.opencity.in/dataset/2c742a2c-c559-4d9c-9987-8566aadb933c/resource/c1fe08c4-9871-4c0b-b79b-c446f24f2c03/download/tn-road-crashes-1993-2025.csv",
+      "file_path": "data/raw/accidents/tamil_nadu_road_crashes_1993_2025.csv",
+      "file_size_bytes": 1831,
+      "download_timestamp": "2026-11-06T20:55:20.618767"
+    },
+    {
+      "dataset_name": "Tamil Nadu District-wise Road Accidents (2021-2023)",
+      "filename": "tamil_nadu_district_accidents_2021_2023.csv",
+      "category": "accidents",
+      "format": "CSV",
+      "url": "https://data.opencity.in/dataset/2fc34e49-936f-4255-a4c3-1ef92f25adf3/resource/764579ad-22e0-4f27-a694-34d0d2f843ea/download/d23e7ba9-6a60-41db-b37b-62413cc72365.csv",
+      "file_path": "data/raw/accidents/tamil_nadu_district_accidents_2021_2023.csv",
+      "file_size_bytes": 1729,
+      "download_timestamp": "2026-11-06T20:55:20.618792"
+    },
+    {
+      "dataset_name": "Chennai Traffic Police Jurisdictions Map",
+      "filename": "chennai_traffic_police_jurisdictions.kml",
+      "category": "supplementary",
+      "format": "KML",
+      "url": "https://data.opencity.in/dataset/fbc38d27-c621-42ba-ae0e-b9fa9463f394/resource/14c3bedd-bb59-49ed-ab80-c5fb93fafcd6/download/chennai_traffic_police_jurisdictions.kml",
+      "file_path": "data/raw/supplementary/chennai_traffic_police_jurisdictions.kml",
+      "file_size_bytes": 132637,
+      "download_timestamp": "2026-11-06T20:55:20.618991"
+    },
+    {
+      "dataset_name": "Chennai Police Jurisdictions Map",
+      "filename": "chennai_police_jurisdictions.kml",
+      "category": "supplementary",
+      "format": "KML",
+      "url": "https://data.opencity.in/dataset/fbc38d27-c621-42ba-ae0e-b9fa9463f394/resource/6a7ce9d3-0930-4647-a0ae-99ad00b5db0e/download/chennai_police_jurisdictions.kml",
+      "file_path": "data/raw/supplementary/chennai_police_jurisdictions.kml",
+      "file_size_bytes": 706521,
+      "download_timestamp": "2026-11-06T20:55:20.619016"
+    },
+    {
+      "dataset_name": "Chennai Bridges Infrastructure",
+      "filename": "chennai_bridges.csv",
+      "category": "supplementary",
+      "format": "CSV",
+      "url": "https://data.opencity.in/dataset/4d1fc3d1-79cc-4c04-8c40-2f5e35bead60/resource/22d57250-0dd7-477c-86e5-db55844a0128/download/be75cffc-da41-4efb-b89e-6b48499ef0c5.csv",
+      "file_path": "data/raw/supplementary/chennai_bridges.csv",
+      "file_size_bytes": 32143,
+      "download_timestamp": "2026-11-06T20:55:20.619042"
+    }
+  ]
+}

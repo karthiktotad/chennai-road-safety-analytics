@@ -1,0 +1,8 @@
+hypothesis,variable,chi2_statistic,degrees_of_freedom,p_value,cramers_v,effect_size,decision_alpha_0_05
+H1: Severity vs. Lighting Condition,lighting_condition,50.436,3,6.45e-11,0.1001,Moderate,Reject Null (Significant)
+H2: Severity vs. Weather / Rain Category,rainfall_category,1.176,3,0.7589,0.0153,Negligible / Weak,Fail to Reject (Not Significant)
+H3: Severity vs. Vehicle Type,vehicle_type,183.922,5,7.77e-38,0.1911,Moderate,Reject Null (Significant)
+H4a: Severity vs. Time of Day (Hour Bins),accident_hour,17.841,23,0.7661,0.0595,Negligible / Weak,Fail to Reject (Not Significant)
+H5: Severity vs. Road Classification,road_classification,2.128,3,0.5462,0.0206,Negligible / Weak,Fail to Reject (Not Significant)
+H6: Severity vs. Junction Type,junction_type,152.014,4,7.54e-32,0.1738,Moderate,Reject Null (Significant)
+H7: Severity vs. Weekend Occurrence,is_weekend,0.39,1,0.5323,0.0088,Negligible / Weak,Fail to Reject (Not Significant)

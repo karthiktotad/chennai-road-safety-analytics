@@ -1,0 +1,22 @@
+Predictor,coef,std_err,z,p_value,[0.025,0.975],Odds_Ratio,CI_Lower_95,CI_Upper_95
+Intercept,0.136,0.099,1.37,0.171,-0.059,0.33,1.146,0.943,1.391
+"C(vehicle_type, Treatment(reference='Two-Wheeler'))[T.Auto-rickshaw]",-0.177,0.116,-1.521,0.128,-0.405,0.051,0.838,0.667,1.052
+"C(vehicle_type, Treatment(reference='Two-Wheeler'))[T.Bus]",0.798,0.122,6.529,0.0,0.558,1.037,2.221,1.748,2.822
+"C(vehicle_type, Treatment(reference='Two-Wheeler'))[T.Car/Jeep/Taxi]",0.001,0.076,0.018,0.986,-0.148,0.151,1.001,0.862,1.163
+"C(vehicle_type, Treatment(reference='Two-Wheeler'))[T.Pedestrian/Bicycle]",1.005,0.175,5.734,0.0,0.661,1.348,2.731,1.937,3.85
+"C(vehicle_type, Treatment(reference='Two-Wheeler'))[T.Truck/Lorry]",1.252,0.126,9.907,0.0,1.004,1.499,3.497,2.73,4.479
+"C(lighting_condition, Treatment(reference='Daylight'))[T.Dusk/Dawn]",-0.016,0.104,-0.154,0.878,-0.221,0.189,0.984,0.802,1.208
+"C(lighting_condition, Treatment(reference='Daylight'))[T.Night - Dark / Poor Lighting]",0.836,0.157,5.337,0.0,0.529,1.143,2.307,1.697,3.135
+"C(lighting_condition, Treatment(reference='Daylight'))[T.Night - Streetlights Lit]",-0.299,0.084,-3.572,0.0,-0.463,-0.135,0.742,0.63,0.874
+"C(road_classification, Treatment(reference='Primary Arterial'))[T.Local / Residential]",-0.083,0.108,-0.763,0.445,-0.295,0.129,0.921,0.745,1.138
+"C(road_classification, Treatment(reference='Primary Arterial'))[T.Secondary Road]",-0.099,0.075,-1.334,0.182,-0.245,0.047,0.905,0.782,1.048
+"C(road_classification, Treatment(reference='Primary Arterial'))[T.Trunk Highway / Express Corridor]",-0.029,0.094,-0.306,0.76,-0.213,0.155,0.972,0.808,1.168
+"C(junction_type, Treatment(reference='Mid-block / Straight Road'))[T.Bridge/Flyover]",1.42,0.151,9.422,0.0,1.125,1.716,4.139,3.08,5.562
+"C(junction_type, Treatment(reference='Mid-block / Straight Road'))[T.Four-arm Cross]",0.652,0.081,8.006,0.0,0.492,0.812,1.919,1.636,2.251
+"C(junction_type, Treatment(reference='Mid-block / Straight Road'))[T.Roundabout]",0.062,0.128,0.488,0.626,-0.188,0.313,1.064,0.828,1.368
+"C(junction_type, Treatment(reference='Mid-block / Straight Road'))[T.T-Junction]",0.618,0.081,7.604,0.0,0.459,0.777,1.855,1.582,2.175
+"C(rainfall_category, Treatment(reference='No Rain'))[T.Heavy Rain]",0.05,0.119,0.419,0.675,-0.183,0.282,1.051,0.833,1.326
+"C(rainfall_category, Treatment(reference='No Rain'))[T.Moderate Rain]",0.038,0.083,0.458,0.647,-0.124,0.2,1.039,0.883,1.221
+"C(rainfall_category, Treatment(reference='No Rain'))[T.Very Light]",0.017,0.079,0.218,0.827,-0.137,0.171,1.017,0.872,1.187
+distance_to_nearest_junction_km,0.027,0.042,0.648,0.517,-0.055,0.109,1.028,0.947,1.115
+is_weekend,-0.037,0.071,-0.528,0.597,-0.176,0.101,0.963,0.839,1.107
