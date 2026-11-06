@@ -251,12 +251,24 @@ elif nav == "6. Live Severity Prediction Tool":
     col1, col2, col3 = st.columns(3)
     with col1:
         v_type = st.selectbox("Involved Vehicle Category", ["Two-Wheeler", "Truck/Lorry", "Bus", "Car/Jeep/Taxi", "Auto-rickshaw", "Pedestrian/Bicycle"])
-        light_cond = st.selectbox("Lighting Condition", ["Daylight", "Night - Dark / Poor Lighting", "Night - Streetlights Lit", "Dusk/Dawn"])
+        acc_hour = st.slider("Hour of Day (Chennai local time, 24-hr)", 0, 23, 14)
+        lighting_options = []
+        if 6 <= acc_hour <= 18:
+            lighting_options.append("Daylight")
+        if acc_hour in (5, 6, 17, 18, 19):
+            lighting_options.append("Dusk/Dawn")
+        if acc_hour <= 5 or acc_hour >= 18:
+            lighting_options.extend(["Night - Dark / Poor Lighting", "Night - Streetlights Lit"])
+        light_cond = st.selectbox("Lighting Condition", lighting_options)
+        st.caption(
+            "Lighting choices follow approximate Chennai local-time windows. "
+            "Daylight is limited to 18:00 or earlier; dusk/dawn and night choices "
+            "appear around the transition hours. Actual sunrise and sunset vary by date."
+        )
         road_class = st.selectbox("Road Classification", ["Primary Arterial", "Trunk Highway / Express Corridor", "Secondary Road", "Local / Residential"])
 
     with col2:
         junc_type = st.selectbox("Junction / Geometric Design", ["Mid-block / Straight Road", "T-Junction", "Four-arm Cross", "Bridge/Flyover", "Roundabout"])
-        acc_hour = st.slider("Hour of Day (24-hr)", 0, 23, 14)
         rain_cat = st.selectbox("Weather Condition", ["No Rain", "Moderate Rain", "Heavy Rain", "Very Light"])
 
     with col3:
